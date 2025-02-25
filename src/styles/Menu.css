@@ -1,0 +1,243 @@
+/* =============================
+   RESET Y CONFIGURACIÓN GLOBAL
+   ============================= */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #ffffff, #02178f67);
+    padding: 20px;
+  }
+  
+  /* =============================
+     CONTENEDOR PRINCIPAL
+     ============================= */
+  .menu-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; /* Centramos el contenido */
+    width: 100%;
+    max-width: 1400px;
+    height: 790px;
+    min-height: 65vh;
+    background: rgba(255, 255, 255, 0.692);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    padding: 70px;
+    gap: 20px;
+    margin: 0 auto;
+    backdrop-filter: blur(10px);
+  }
+  
+  /* =============================
+     NAVBAR
+     ============================= */
+  .navbar {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(255, 255, 255, 0.8);
+    padding: 12px 20px; /* Ajuste del padding */
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    gap: 15px; /* Espaciado aumentado */
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px; /* Aumento en tamaño de fuente */
+    padding: 14px 30px;
+    border-radius: 15px;
+    transition: all 0.3s;
+    background: rgba(0, 0, 0, 0.05);
+  }
+  
+  .navbar a:hover {
+    background: #c0c0c04d;
+    color: rgb(69, 54, 202);
+  }
+  
+  /* =============================
+     SECCIÓN IZQUIERDA - TEXTO
+     ============================= */
+  .menu-left {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start; /* Alineación izquierda */
+    min-width: 300px;
+  }
+  
+  /* Logo ajustado */
+  .logo {
+    width: 180px; /* Tamaño fijo */
+    height: auto; /* Mantiene la proporción */
+    display: block;
+    margin-bottom: 5px ; /*spacio entre logo y texto */
+  }
+  
+  .menu-left h1 {
+    font-size: 46px; /* Aumento de tamaño */
+    font-weight: bold;
+    color: #3278c7;
+    line-height: 1.2;
+  }
+  
+  .menu-left h1 span {
+    color: #2f5ebc;
+  }
+  
+  .menu-left p {
+    margin: 20px 0; /* Espacio incrementado */
+    color: #555;
+    font-size: 18px;
+    max-width: 470px; /* Aumento en ancho máximo */
+    line-height: 1.6;
+  }
+  
+  /* =============================
+     BOTÓN DE CATÁLOGO
+     ============================= */
+  .contact-button {
+    background: #2f5ebc;
+    color: rgb(255, 255, 255);
+    padding: 14px 28px; /* Ajuste del padding */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px; /* Aumento en tamaño de fuente */
+    transition: all 0.3s;
+    margin-top: 10px;
+  }
+  
+  .contact-button:hover {
+    background: #044ff0d7;
+  }
+  
+  /* =============================
+     SECCIÓN DERECHA - IMAGEN
+     ============================= */
+  .menu-right {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+  }
+  
+  /* Contenedor para destacar la imagen */
+  .highlight-box {
+    position: relative;
+    width: 100%; /* Cambio a 100% para cubrir el espacio */
+    max-width: 500px; /* Ajuste del máximo */
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  /* Imagen de productos */
+  .highlight-image {
+    width: 180%;
+    height: auto;
+    object-fit: auto;
+  }
+  
+  /* =============================
+     ETIQUETAS EN LA IMAGEN
+     ============================= */
+  .tag {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8); /* Ajuste de opacidad */
+    padding: 10px 16px;
+    border-radius: 20px;
+    font-size: 16px; /* Aumento en tamaño de fuente */
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .clean-air {
+    top: 15px;
+    left: 15px;
+  }
+  
+  .fresh-ecology {
+    bottom: 15px;
+    right: 15px;
+  }
+  
+  /* =============================
+     ÍCONOS DE REDES SOCIALES
+     ============================= */
+  .social-icons {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    display: flex;
+    gap: 15px; /* Espaciado aumentado */
+  }
+  
+  .social-icons svg {
+    font-size: 24px; /* Aumento del tamaño */
+    color: #464653;
+    transition: color 0.3s;
+  }
+  
+  .social-icons svg:hover {
+    color: #2a44da;
+  }
+  
+  /* =============================
+     RESPONSIVE DESIGN
+     ============================= */
+  @media (max-width: 1024px) {
+    .menu-container {
+      flex-direction: column;
+      width: 90%;
+      padding: 20px;
+      text-align: center;
+    }
+  
+    .menu-left {
+      align-items: center;
+      text-align: center;
+    }
+  
+    .contact-button {
+      align-self: center;
+    }
+  
+    .menu-right {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .menu-left h1 {
+      font-size: 36px; /* Aumento del tamaño */
+    }
+  
+    .menu-left p {
+      font-size: 16px; /* Aumento del tamaño */
+    }
+  
+    .highlight-box {
+      max-width: 100%;
+    }
+  }

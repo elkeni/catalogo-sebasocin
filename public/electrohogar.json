@@ -1,0 +1,461 @@
+[
+  {
+    "nombre": "Recortador De Cabello Deluxe Groom Pro",
+    "precio": "S/199.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/recortador-de-cabello-deluxe-groom-pr0-wahl-79305-3618-48892-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Recortador de Cabello Deluxe Groom Pro Wahl",
+      "Incluye:\n10 peines guía\nPeine de barba\nTijera,\nEstuche\nAceite para la cuchilla\nCepillo.",
+      "10 peines guía",
+      "Peine de barba",
+      "Tijera,",
+      "Estuche",
+      "Aceite para la cuchilla",
+      "Cepillo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Multifuncional Pro Blanca Deerma Dx700",
+    "precio": "S/199.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-inalambrica-negro-edition-deerma-vc03s-68733-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para todo tipo de superficies: alfombras, madera, mármol, etc.",
+      "Con diversos cabezales.",
+      "2 en 1: Uso de mano y vertical.",
+      "Descarga de residuos con un solo botón.",
+      "Triple filtro de protección.",
+      "Cuenta con cable de alimentación de 4.5 metros",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Multifuncional Blanca Deerma Dx118C",
+    "precio": "S/109.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plancha-y-vaporizador-2-en-1-a-deerma-dem-hs300-68749-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño ligero y portátil",
+      "Gran succión, potente y eficaz",
+      "2 en 1: Uso de mano y vertical",
+      "Incluye 3 cepillos de limpieza",
+      "Mango ergonómico",
+      "Cuenta con cable de alimentación de 5 metros",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Anti-Ácaros Multifuncional Deerma Cm1300",
+    "precio": "S/289.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/removedor-de-pelusa-portatil-2-en-1-deerma-dem-mq604-68752-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Instrumento de eliminación de ácaros que integra golpes + luz ultravioleta + alta potencia de succión",
+      "Cabezal de cepillo estándar de 3 funciones",
+      "Batir toda la cama en resonancia, llegando a las profundidades",
+      "Área de iluminación UV en forma de panal, iluminación uniforme y profunda",
+      "Filtración múltiple, escape limpio y fresco",
+      "Inalámbrico",
+      "Duración de Bateria: 3 horas aprox.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plancha Record Seca Y Vapor",
+    "precio": "S/36.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plancha-record-seca-y-vapor-69179-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLPBL101.",
+      "Cuerpo de polipropileno.",
+      "Base con recubrimiento antiadherente.",
+      "Luz LED.",
+      "Sistema selector de temperatura.",
+      "Sistema de vapor.",
+      "1,200 Watts.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sandwichera Record Blanca",
+    "precio": "S/49.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwichera-record-blanco-69187-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLSBL100.",
+      "Carcasa de polipropileno.",
+      "Cuerpo interno en antiadherente.",
+      "Base antideslizante.",
+      "Luces LED.",
+      "Sistema regulador de temperatura.",
+      "Sistema de cierre tipo clip.",
+      "750 Watts.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Horno Microondas Indurama Mwi-32Tcrp 32 L",
+    "precio": "S/399.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/o/horno-microondas-indurama-mwi-32tcrp-70255-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Dimensiones: Alto: 30cm; Ancho: 52.3cm.",
+      "Profundidad: 41cm.",
+      "Peso: 14.3 kg.",
+      "Capacidad: 32 L",
+      "Color : Croma.",
+      "Cuenta con temporizador.",
+      "1 año de garantia.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cocina A Gas Indurama Galicia Zafiro 6 Hornillas Croma",
+    "precio": "S/1,549.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cocina-a-gas-indurama-galicia-zafiro-6-hornillas-croma-63565-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cocina a Gas Indurama 6 Hornillas",
+      "Modelo: Galicia Zafiro",
+      "Color: Croma",
+      "6 Hornillas selladas:\n1 hornilla ultra rápido\n3 hornillas grandes\n2 hornillas medianas",
+      "1 hornilla ultra rápido",
+      "3 hornillas grandes",
+      "2 hornillas medianas",
+      "Incluye plancha freidora.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Multigroom Philips 6 Accesorios Mg3711_15",
+    "precio": "S/169.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/u/multigroom-kit-6-acc-philips-mg3711_15-54078-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "6 accesorios",
+      "Cuchillas autoafilables de acero",
+      "Hasta 60 minutos de autonomía",
+      "Accesorios lavables",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora De Tanque 1000W",
+    "precio": "S/199.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-de-tanque-1000w-360wabs01-54482-default-1.jpg",
+    "marca": "ELECTROLUX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Aspiradora de Tanque Eelctrolux",
+      "Modelo: ABS01",
+      "Potencia: 1000 Watts",
+      "Tensión/Frecuencia: 220 V/ 50-60 Hz",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rapiducha One 4.5 Kw Bryant Blanco",
+    "precio": "S/179.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/a/rapiducha-one-45-kw-bryant-blanco-60683-default-1.jpg",
+    "marca": "BRYANT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Rapiducha One 4.5 Kw Bryant",
+      "Color: Blanco",
+      "Medidas:\nAlto: 16 cm\nAncho: 25.5 cm\nProfundidad: 7.5 cm\nPeso: 1.5 Kg",
+      "Alto: 16 cm",
+      "Ancho: 25.5 cm",
+      "Profundidad: 7.5 cm",
+      "Peso: 1.5 Kg",
+      "Caudal de encendido mínimo: 2 L/min",
+      "Presión mínima: 1.45 PSI",
+      "Presión máxima: 87 PSI",
+      "Grado de protección contra agua: IPX4",
+      "Potencia: 4.5 kW",
+      "Tensión/Frecuencia: 220 V/ 50-60 Hz",
+      "Garantía: 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Hervidor Oster 1.7 L Bvstkt4177V Celeste",
+    "precio": "S/115.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervidor-oster-17-l-bvstkt4177v-celeste-61471-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Hervidor Oster 1.7 L",
+      "Modelo: BVSTKT4177V",
+      "Material: Plástico",
+      "Color: Celeste",
+      "Medidas: 24.9 x 21.7 x 15.4 cm",
+      "Peso: 0.7 kg",
+      "Capacidad: 1.7 Litros",
+      "Potencia: 1850 Watts",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Freidora De Aire Digital Oster 9L Ckstaf90D Color Negro",
+    "precio": "S/541.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/freidora-de-aire-digital-oster-9l-ckstaf90d-61501-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Freidora de Aire Digital Oster 9L",
+      "Modelo: CKSTAF90D",
+      "Medidas:\nAlto: 30.5 cm\nAncho: 29.8 cm\nProfundidad: 34.3 cm\nPeso: 5.9 kg",
+      "Alto: 30.5 cm",
+      "Ancho: 29.8 cm",
+      "Profundidad: 34.3 cm",
+      "Peso: 5.9 kg",
+      "Capacidad: 9 Litros",
+      "Potencia: 1700 Watts",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Exprimidor De Cítricos Oster 1L Fpstju407W",
+    "precio": "S/87.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/exprimidor-de-citricos-oster-1l-fpstju407w-61613-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Exprimidor de Cítricos Oster 1 L",
+      "Modelo: FPSTJU407W",
+      "Medidas: 21.3 x 22.1 x 15 cm",
+      "Peso: 0.8 kg",
+      "Potencia: 25 Watts",
+      "Capacidad de la jarra: 1 Litro",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Refrigeradora No Frost 250L Grafito",
+    "precio": "S/1,399.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/refrigeradora-no-frost-250l-grafito-58301-default-2.jpg",
+    "marca": "MABE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Refrigeradora No Frost 250 Litros Mabe",
+      "Modelo: RMA255FYPG",
+      "Color: Grafito",
+      "Alto: 168.5 cm",
+      "Ancho: 56 cm",
+      "Profundidad: 67 cm",
+      "Peso Neto: 47 kg",
+      "Tipo de refrigerador: No Frost",
+      "Eficiencia energética: A",
+      "Garantía: 1 año. Para su validez debe contar con la boleta de compra, estar dentro del año de garantia y no debe ser manipulado por ningún otro técnico externo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Congeladora Ilumi Tina Acero Blanco 320 L",
+    "precio": "S/1,677.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/congeladora-ilumi-tina-acero-blanco-320-l-68766-default-1.jpg",
+    "marca": "ILUMI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Congelador dual",
+      "Tina de acero inoxidable",
+      "Color: Blanco",
+      "Capacidad: 340 L",
+      "Contiene: 2 canastillas interiores",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Arrocera Record Con Sofrito 1.8L Blanco",
+    "precio": "S/125.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-arrocera-record-con-sofrito-18l-blanco-69173-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLOBLG100",
+      "Capacidad 1.8 L.",
+      "Carcasa de acero inoxidable pintada.",
+      "Tazón antiadherente.",
+      "Tapa de vidrio templado.",
+      "Vaporera exterior en aluminio.",
+      "3 Funciones (cocción, mantener caliente y sofrito).",
+      "Espátula y taza medidora.",
+      "600 Watts.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Refrigeradora Indurama Ri-698N Negra",
+    "precio": "S/2,099.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/refrigeradora-indurama-ri-698n-negra-70243-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas : Alto: 172cm; Ancho: 70.4cm.",
+      "Profundidad: 69.4cm.",
+      "Peso: 78Kg.",
+      "Sistema No Frost.",
+      "Eficiencia energética A.",
+      "Color negro.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Campana Isla Indurama 90 Cm Cei-90Crtis Croma",
+    "precio": "S/1,799.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/campana-isla-indurama-90-cm-cei-90crtis-croma-66559-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Campana Isla Indurama 90 cm",
+      "Modelo: CEI-90CRTIS",
+      "Color: Croma",
+      "Medidas:\nAlto: 100 cm (alto máx. con 2 chimeneas)\nAncho: 90 cm\nProfundidad: 60 cm\nPeso: 24.6 kg",
+      "Alto: 100 cm (alto máx. con 2 chimeneas)",
+      "Ancho: 90 cm",
+      "Profundidad: 60 cm",
+      "Peso: 24.6 kg",
+      "Garantía: 1 año. Instalación gratuita, dentro del año de garantia",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mini Waffle Blanik Bmw079",
+    "precio": "S/49.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/mini-waffle-bmw079-67076-default-1.jpg",
+    "marca": "BLANIK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: BMW079",
+      "Tamaño compacto para un fácil guardado",
+      "Interior antiadherente para una limpieza sin esfuerzo",
+      "Tamaño de caja: 16.2x10.6x20 cm",
+      "Peso: 1 Kg",
+      "Potencia: 600 W",
+      "Voltaje /Frecuencia: 220 V /60 Hz",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Extractor De Jugos Oster 600 W Fpstje317S Plomo",
+    "precio": "S/395.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/extractor-de-jugos-oster-600-w-fpstje317s-plomo-61597-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Extractor de Jugos Oster 600 W",
+      "Modelo: FPSTJE317S",
+      "Color: Plomo",
+      "Medidas: 42 x 31.5 x 21.5 cm",
+      "Peso: 3.9 kg",
+      "Potencia: 600 Watts",
+      "Capacidad de jarra: 1.75 L",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Hervid Philips Acer Inox 1.7 L Hd9351_90",
+    "precio": "S/219.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervid-philips-acer-inox-17-l-hd9351_90-54104-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseñado para una larga duración",
+      "Con indicador de luz",
+      "Completamente de acero inoxidable",
+      "Con tapa extra grande",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sandwichera Sa 2969",
+    "precio": "S/119.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwichera-57863-default-1.jpg",
+    "marca": "SEVERIN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Sandwichera Severin",
+      "Modelo: SA 2969",
+      "Crujientes sándwiches de entre horas y para el camino.",
+      "Diseño compacto, práctico para espacios pequeños.",
+      "Garantía: 02 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora De Cabello Revlon Con Control Frizz Rvdr773La2 Negro",
+    "precio": "S/75.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/secadora-control-de-frizz-2000w-revlon-57980-default-1.jpg",
+    "marca": "REVLON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: RVDR773LA2",
+      "Color: Negro",
+      "Largo: 25 cm",
+      "Alto: 9.7 cm",
+      "Ancho: 24.3 cm",
+      "Peso: 0.71 kg",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Licuadora Oster 1.25L 2 Velocidades 250-22 Color Cromado",
+    "precio": "S/259.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licuadora-oster-125-l-2-velocidades-250-22-cromado-61337-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Licuadora Oster 1.25 L 2 Velocidades Cromado",
+      "Modelo: 250-22",
+      "Material del vaso/jarra: Vidrio resistente",
+      "Número de velocidades: 2",
+      "Número de aspas: 4",
+      "Medidas: 11.74 x 18.41 x 24.65 cm",
+      "Peso: 1.44 kg",
+      "Capacidad: 1.25 L",
+      "Potencia: 600 Watts",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "nombre": "Tinta Hp 664 Tricolor",
+    "precio": "S/49.80",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-664-f6v28al-tricolor-23604-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta 664 Tricolor.",
+      "Imprime hasta 100 páginas sin perder calidad.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Gaming Hp M200 Negro Con Cable 1.8 M",
+    "precio": "S/69.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gaming-hp-m200-con-cable-de-18mts-negro-48208-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse óptico de alta sensibilidad",
+      "Conexión: Cableado USB",
+      "5 botones con función macro programable",
+      "Hasta 3500 DPI",
+      "Diseño ergonómico y ambidiestro",
+      "Vida útil: 5 millones de clics",
+      "Compatible con Sistema operativo: Windos 7/8/8.1/10",
+      "Dimensiones: 115× 69x 37 mm",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Epson T664320 Magenta En Botella",
+    "precio": "S/38.60",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-epson-botella-l200-magenta-7066-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Antivirus Kaspersky Plus 10 Dispositivos 2 Años",
+    "precio": "S/545.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-plus-10-dispositivos-2-anos-69599-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 10 Dispositivos",
+      "Vigencia: 2 Años",
+      "Antivirus en tiempo real, protegiendo los dispositivos sin disminuir su velocidad",
+      "Supervisa la red WiFi y genera alertas cuando se conectan dispositivos nuevos",
+      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Epson L3250 Wifi",
+    "precio": "S/699.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-epson-l3250-wifi-53573-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Impresora multifuncional inalámbrica 3 en 1 Epson EcoTank",
+      "Modelo: L3250",
+      "Color: Negro",
+      "Impresión 100% sin cartuchos",
+      "Garantía: 2 años con registro",
+      "Dimensiones: Alto: 25,3 cm | Ancho: 37,5 cm | Profundidad: 57,8 cm",
+      "Peso: 3,9 kg",
+      "Incluye: Impresora EcoTank L3250, botellas de tinta de inicialización, cable de corriente AC, cable USB Type-A, CD con drivers (Windows), documentación y garantía",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Camara Instax Square Sq1 Azul Glaciar",
+    "precio": "S/599.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/camara-instax-square-sq1-azul-glaciar-54144-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cámara Instax Square SQ1",
+      "Color: Azul glaciar",
+      "Dimensiones: 130,7 × 118,6 × 57,5 mm",
+      "Peso: 390 gr. (sin pilas, correa ni película)",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Hp 662Xl Deskjet Ink Advantage 2515/3515 Tricolor",
+    "precio": "S/99.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-662xl-8469-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cartucho de tinta tricolor",
+      "Rinde 300 páginas aproximadamente",
+      "Cartuchos de tinta de alta capacidad",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Ash White Instax Square Link",
+    "precio": "S/699.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-ash-white-instax-square-link-71589-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Impresora FUJIFILM Square Link Ash White.",
+      "Incluye cable USB-C, manual de instrucciones y garantía limitada de 12 meses.",
+      "Las películas se venden por separado."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Antivirus Kaspersky Premium 3 Dispositivos 1 Año",
+    "precio": "S/190.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-premium-3-dispositivos-1-ano-69601-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 3 Dispositivos",
+      "Vigencia: 1 Año",
+      "Antivirus en tiempo real, protegiendo los dispositivos sin disminuir su velocidad",
+      "Soporte TI (Ofrece acceso prioritario a nuestro equipo de asistencia remota)",
+      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Licencia Microsoft 365 Personal Digital",
+    "precio": "S/279.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licencia-microsoft-365-personal-digital-45697-default-1.jpg",
+    "marca": "MICROSOFT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 1 persona",
+      "Vigencia: 12 meses",
+      "1TB de almacenamiento en la nube",
+      "La licencia se enviará al mail con el que realizó la compra.",
+      "Se entregará en máximo dos días hábiles después de la confirmación de la compra (no cuenta sábado, ni domingo).",
+      "No se aceptan devoluciones, ni anulación de pedido."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tableta Gráfica Huion H640P",
+    "precio": "S/231.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tableta-grafica-huion-h640p-49823-default-1.jpg",
+    "marca": "HUION",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Huion INSPIROY H640P",
+      "Área de trabajo: 16 cm x 10 cm (6.3 x 3.9 pulgadas)",
+      "Resolución: 5080 LPI (líneas por pulgada)",
+      "Lápiz: Huion PW100 (sin batería)",
+      "Dimensiones: 26 cm x 14,77 cm x 0,8 cm",
+      "Contenido de la caja: Tableta Gráfica H640P, Lápiz Sin Batería PW100, Soporte Lápiz con sistema de extracción de puntas, 8 Puntas extra, Cable Micro USB – USB, y Guía de Inicio Rápido.",
+      "Garantía: 12 meses",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Hp Multifuncional Smart Tank 720",
+    "precio": "S/799.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-multifuncional-hp-smart-tank-720-60339-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Multifuncional HP Smart Tank 720 (6UU46A) Duplex",
+      "Funciones: Impresión a doble cara, escanear, copiar, inalámbrica",
+      "Impresión a Color",
+      "Tecnología de Impresión: Inyección térmica de tinta HP",
+      "USB 2.0 de alta velocidad; Wi-Fi; Bluetooth LE",
+      "Garantía: 1 año + 1 año si el cliente registra su impresora dentro de los primeros 60 días después de su compra.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tableta Gráfica Wacom One By Small Ctl472",
+    "precio": "S/99.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/n/one-by-wacom-small-ctl472-54743-default-1.jpg",
+    "marca": "WACOM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "One By Wacom Small",
+      "Modelo: CTL 472",
+      "Peso: 260 gr.",
+      "Tamaño: 210 x 146 x 8.7 mm",
+      "Área activa: 152 x 95 mm.",
+      "Incluye lápiz",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Televisor Lg Commercial 43Ur871C0Sa 43'' Uhd 4K Smart Thinq Ai",
+    "precio": "S/1,099.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/televisor-commercial-lg-43-43ur871c0sa-uhd-4k-smart-thinq-ai-2023-70670-default-1.jpg",
+    "marca": "LG",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Televisor LG 43'' 4K Smart Thinq AI",
+      "Modelo: 43UR871C0SA",
+      "Tamaño de pantalla: 43\"",
+      "Panel 4K UHD",
+      "Procesador Inteligente α5 generación 6",
+      "Sonido Ultra Surround",
+      "LG ThinQ AI: Inteligencia artificial",
+      "Garantía: 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tableta Gráfica Xp-Pen Deco Pro M",
+    "precio": "S/479.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tableta-grafica-xp-pen-deco-pro-m-42931-default-1.jpg",
+    "marca": "XP-PEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Doble rueda: rueda mecanica y rueda virtual",
+      "Admite la conexión con tabletas y teléfonos móviles Android",
+      "60 grados de función de inclinación",
+      "8,192 niveles de sensibilidad a la presión",
+      "8 teclas de atajo con capacidad de respuesta personalizables"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Licencia Microsoft 365 Familia Digital",
+    "precio": "S/339.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licencia-microsoft-365-familia-digital-45698-default-1.jpg",
+    "marca": "MICROSOFT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para un máximo de 6 personas",
+      "Vigencia: 12 meses",
+      "1TB de almacenamiento en la nube por persona",
+      "La licencia se enviará al mail con el que realizó la compra.",
+      "Se entregará en máximo dos días hábiles después de la confirmación de la compra (no cuenta sábado, ni domingo).",
+      "No se aceptan devoluciones, ni anulación de pedido."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Hp Deskjet Ink Advantage All-In-One 2874",
+    "precio": "S/239.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-hp-deskjet-ink-advantage-all-in-one-2874-84424-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Funciones: Impresión a color, escaneo y copiado.",
+      "Conectividad: Impresora inalámbrica compacta con Wi-Fi 802.11b/g/n y 1 USB 2.0 de alta velocidad.",
+      "Fácil de instalar y usar, con capacidad de impresión móvil mediante la aplicación HP.",
+      "Garantía de 1 año.",
+      "Tecnología de Impresión: Inyección térmica de tinta HP.",
+      "Sistemas operativos compatibles: Windows 11, Windows 10, macOS 10.14 a 13, Chrome OS.",
+      "Pantalla: Icon LCD display.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella De Tinta Hp Gt52 Amarillo",
+    "precio": "S/35.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-botella-gt52-amarillo-26109-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: HP",
+      "Rendimiento: 8000 Páginas aprox.",
+      "Volumen de cartucho de impresión: 70 ml",
+      "Tipo de tinta: Basada en colorantes",
+      "Tipo de suministro: Cartridges",
+      "Modelo: Cartucho de Tinta GT52",
+      "Color: Amarillo",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Epson Ecotank L5590 Multifuncional Conectividad Wifi",
+    "precio": "S/999.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-epson-l5590-adf-wifi-69010-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Impresora multifuncional con conectividad wifi, ethernet y USB",
+      "Alimentador automático de documentos (ADF)",
+      "Impresión a color y negro",
+      "Tanque de tinta",
+      "No tóxico",
+      "*Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Antivirus Kaspersky Standard Mobile 1 Dispositivo 1 Año (Android-Ios)",
+    "precio": "S/30.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-mobile-1-dispositivo-1-ano-69607-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 1 dispositivo",
+      "Vigencia: 1 año",
+      "Antivirus en tiempo real",
+      "VPN",
+      "Protección en los pagos, actividades de la web y protección de la privacidad en línea",
+      "Compatible con Android™ y iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Hp Smart Tank 580 1F3Y2A",
+    "precio": "S/549.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-hp-smart-tank-580-1f3y2a-66782-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Imprime, copia y escanea.",
+      "Hasta 100 hojas de capacidad.",
+      "Medidas: 43.47 cm x 36.15 cm x 15.73 cm.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Microsoft Office Hogar Y Estudiantes 2021",
+    "precio": "S/475.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/f/office-hogar-y-estudiantes-2021-45699-54355-default-1.jpg",
+    "marca": "MICROSOFT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para una PC o Mac",
+      "Para 1 persona",
+      "Vigencia: 1 año",
+      "Incluye Excel, PowerPoint y Word.",
+      "La licencia se enviará al mail con el que realizó la compra.",
+      "Se entregará en máximo dos días hábiles (no cuenta sábado, ni domingo).",
+      "No se aceptan devoluciones, ni anulación de pedido."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Microsoft 365 Empresa Estandar Licencia Digital",
+    "precio": "S/699.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/microsoft-365-empresa-estandar-licencia-digital-45702-default-1.jpg",
+    "marca": "MICROSOFT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Actualizaciones mensuales.",
+      "Funciona en varios dispositivos.",
+      "Vigencia: 1 año",
+      "Desarrollo de aplicaciones para web y dispositivos moviles.",
+      "Intranet y sitios de grupos.",
+      "Automotización de flujos de trabajo.",
+      "Correo y calendario.",
+      "Mensajeria instantánea y reuniones online.",
+      "Detección y busqueda inteligente.",
+      "La licencia se enviará al mail con el que realizó la compra.",
+      "Se entregará en máximo dos días hábiles (no cuenta sábado, ni domingo).",
+      "No se aceptan devoluciones, ni anulación de pedido."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Televisor Lg Commercial 65Ur871Cosa 65'' Uhd 4K Smart Thinq Ai (2022)",
+    "precio": "S/1,699.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/televisor-lg-commercial-65-uhd-4k-smart-thinq-ai-65ur871cosa-2022-70621-default-1.jpg",
+    "marca": "LG",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Televisor LG 65'' UHD 4K Smart Thinq AI",
+      "Modelo: 65UR871COSA",
+      "Tamaño de pantalla: 65\"",
+      "Panel 4K UHD",
+      "4K Procesador Inteligente α5 generación 5",
+      "LG ThinQ AI: Inteligencia artificial",
+      "Garantía: 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Antivirus Kaspersky Standard 3 Dispositivos 1 Año",
+    "precio": "S/133.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-standar-3-dispositivos-1-ano-69585-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 3 Dispositivos",
+      "Vigencia: 1 Año",
+      "Permite que los dispositivos funcionen mejor y arranquen más rápido",
+      "Detecta los elementos que consumen el espacio en el disco duro",
+      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  }
+]

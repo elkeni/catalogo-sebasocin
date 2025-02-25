@@ -1,0 +1,359 @@
+[
+  {
+    "nombre": "Arena Premium Para Gatos Garfield 5Kg",
+    "precio": "S/30.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arena-premium-para-gatos-garfield-5kg-69621-default-1.jpg",
+    "marca": "GARFIELD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Arena Premium para Gatos Garfield",
+      "Medidas: 43 x 22 x 8 cm",
+      "99.4% libre de polvo",
+      "Con esencia de manzana",
+      "Presentación en bolsa de 5 kg",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Deslanador Profesional Para Mascotas Rosado",
+    "precio": "S/35.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-deslanador-profesional-para-mascotas-rosado-69421-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Con estructura resistente y mango antideslizante",
+      "Color: Rosado",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Transportadora Kennel Cool Pets Mediano Con Bebedero",
+    "precio": "S/81.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/r/transportadora-kennel-cool-pets-mediano-con-bebedero-69616-default-1.jpg",
+    "marca": "COOL PETS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Transportador kennel portátil",
+      "Material: PVC",
+      "Medidas: 52.1 x 34 x 33 cm",
+      "Peso: 1.3 kg",
+      "Incluye depósito para comida o agua",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Arena Premium Para Gatos Garfield 10Kg",
+    "precio": "S/42.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arena-premium-para-gatos-garfield-10kg-69623-default-1.jpg",
+    "marca": "GARFIELD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Casa Para Perros Cool Pets De Pvc Extra Grande",
+    "precio": "S/609.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/casa-para-perros-cool-pets-de-pvc-extra-grande-69615-default-1.jpg",
+    "marca": "COOL PETS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Casa para perro de raza grande",
+      "Material: PVC",
+      "Medidas: 110 x 123 x 114 cm",
+      "Peso: 17 kg",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Medias Para Mascotas Mia & Oshi Boutique Talla S Diseño Dinero Unisex",
+    "precio": "S/10.50",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/e/medias-antideslizantes-talla-s-72544-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medias antideslizantes ideal para usarlo en interiores.",
+      "Elaborados en suave algodón",
+      "Talla: S",
+      "Medidas: 2.5 x 6 cm",
+      "Diseño de dinero",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Medias Para Mascotas Mia & Oshi Boutique Talla L Diseño Corazones",
+    "precio": "S/20.40",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/e/medias-antideslizantes-talla-l-72558-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medias antideslizantes ideal para usarlo en interiores.",
+      "Elaborados en suave algodón",
+      "Talla: L",
+      "Medidas: 3.5 x 9 cm",
+      "Diseño de corazones",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Medias Para Mascotas Mia & Oshi Boutique Talla Xl Diseño Osito",
+    "precio": "S/17.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/e/medias-antideslizantes-talla-xl-72565-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 4 x 10.5 cm",
+      "Talla: XL",
+      "Material: Algodón",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Medias Para Mascotas Mia & Oshi Boutique Talla Xl Diseño Rayado Celeste",
+    "precio": "S/17.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/e/medias-antideslizantes-talla-xl-72571-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medias antideslizantes ideal para usarlo en interiores.",
+      "Elaborados en suave algodón",
+      "Talla: XL",
+      "Medidas: 4 x 10.5 cm",
+      "Diseño rayado celeste",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Medias Para Mascotas Mia & Oshi Boutique Talla Xl Diseño Rayado Rosado",
+    "precio": "S/17.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/e/medias-antideslizantes-talla-xl-72573-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medias antideslizantes ideal para usarlo en interiores.",
+      "Elaborados en suave algodón",
+      "Talla: XL",
+      "Medidas: 4 x 10.5 cm",
+      "Diseño rayado rosado",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Dispensador De Bolsas Mia & Oshi Boutique + 2 Repuestos",
+    "precio": "S/11.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/i/dispensador-de-bolsas-2-repuestos-72580-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Juguete Para Mascotas Mia & Oshi Botella Peluche Con Sonido Naranja",
+    "precio": "S/7.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/u/juguete-peluche-botella-csonido-naranja-72655-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Juguete de peluche",
+      "Color: Naranja",
+      "Material: Tela",
+      "Hipoalergénico",
+      "Tipo de mascota: Perros",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rascador Para Gatos Mia & Oshi Curvo De Cartón",
+    "precio": "S/57.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/a/rascador-curvo-de-carton-para-gato-72685-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lentes Para Mascostas Mia & Oshi De Protección Solar Rosado",
+    "precio": "S/24.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/e/lentes-de-proteccion-solar-rosado-72697-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pala Recogedor Mia & Oshi Para Arena De Gato Rosado",
+    "precio": "S/6.50",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pala-arena-de-gato-rosada-72699-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pala arenera para recojo de excretas de gato",
+      "Fácil de usar",
+      "Color: Rosado",
+      "Material: Plástico",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bebedero Portátil Para Mascotas Mia & Oshi Aquadog Rosado",
+    "precio": "S/25.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bebedero-portatil-para-mascotas-mia-oshi-aquadog-rosado-80495-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Rosado.",
+      "Libre de BPA.",
+      "Capacidad: 500ml.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Eléctrico Para Mascotas Mia & Oshi 2 En 1",
+    "precio": "S/85.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-electrico-para-mascotas-mia-oshi-2-en-1-80503-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Blanco.",
+      "Cepillo con cable.",
+      "Peso: 383 g.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lima Eléctrica Para Mascotas Mia & Oshi Pet Pedicure",
+    "precio": "S/27.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/lima-electrica-para-mascotas-mia-oshi-pet-pedicure-80533-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Funciona con 2 pilas AA (no incluidas).",
+      "Incluye: 1 lima con 3 repuestos.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolso De Mano Para Mascotas Mia & Oshi Talla S Morado",
+    "precio": "S/49.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolso-de-mano-tipo-cartera-para-mascotas-perros-y-gatos-con-base-interna-impermeable-80621-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Tela, interior impermeable.",
+      "Color: Morado.",
+      "Medidas: 13cm ancho x 21cm alto x 32cm largo.",
+      "Soporta hasta 5 kilos.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Canguro Para Mascotas Mia & Oshi Talla S Negro",
+    "precio": "S/37.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/canguro-transportador-de-mascotas-con-malla-antitraspirante-80633-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Kodra y malla antitranspirante.",
+      "Color: Negro.",
+      "Medidas: 7cm fondo x 15cm ancho x 29cm largo.",
+      "Soporta hasta 4 kilos.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Transportador Kennel Mia & Oshi Para Mascotas L90 Fibra",
+    "precio": "S/614.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/r/transportador-kennel-para-mascotas-perros-y-gatos-en-fibra-de-vidrio-80663-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Fibra de vidrio",
+      "Medidas: 69 x 60 x 90 cm",
+      "Color: Beige",
+      "Ideal para viajes en avión",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Arnés Mia & Oshi Alitas De Ángel Celeste Talla S",
+    "precio": "S/25.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arnes-alas-de-angel-para-gatitos-y-cachorros-incluye-correa-80673-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Largo de cuello a lomo: 9 cm",
+      "Circunferencia de cuello: 16 a 26 cm",
+      "Circunferencia de pecho: 21 a 36 cm",
+      "Color: Celeste",
+      "Incluye tiro de correa",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Arnés Mia & Oshi Alitas De Ángel Negro Talla M",
+    "precio": "S/25.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arnes-alas-de-angel-para-gatitos-y-cachorros-incluye-correa-80679-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Largo de cuello a lomo: 9 cm",
+      "Circunferencia de cuello: 21 a 33 cm",
+      "Circunferencia de pecho: 27 a 49 cm",
+      "Color: Negro",
+      "Incluye tiro de correa",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Arnés Mia & Oshi Alitas De Ángel Morado Talla M",
+    "precio": "S/25.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arnes-alas-de-angel-para-gatitos-y-cachorros-incluye-correa-80681-default-1.jpg",
+    "marca": "MIA & OSHI BOUTIQUE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Largo de cuello a lomo: 9 cm",
+      "Circunferencia de cuello: 21 a 33 cm",
+      "Circunferencia de pecho: 27 a 49 cm",
+      "Color: Morado",
+      "Incluye tiro de correa",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kit Cortadora Para Mascotas Wahl 9 Piezas Pet Clipper 09653-718",
+    "precio": "S/199.90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/k/i/kit-cortadora-para-mascotas-wahl-9-piezas-pet-clipper-09653-718-83389-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Kit de mascotas básico de 9 piezas",
+      "Navajas de acero",
+      "Potente motor",
+      "Perfecto para animales sensibles al ruido",
+      "Motor electromagnético",
+      "Peluquería para mascotas",
+      "Imágenes referenciales",
+      "Producto exclusivo web"
+    ],
+    "disponibilidad": "En stock"
+  }
+]
