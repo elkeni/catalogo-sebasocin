@@ -1,0 +1,110 @@
+[
+  {
+      "nombre": "Portaclips de Acrílico",
+      "precio": "S/ 4.00",
+      "imagenURL": "https://offi.pe/image/cache/webp/catalog/PRODUCTOS/UTILES%20DE%20OFICINA/ACCESORIOS%20ESCRITORIO/Organizadores/portaclip-acrilico-negro-artesco-700x700.webp",
+      "marca": "Artesco",
+      "categoria": "Oficina",
+      "caracteristicas": [
+        "Portaclips negro magnético de acrílico.",
+        "Elegante y durable, ideal para la oficina.",
+        "Fabricado con resina de alta resistencia.",
+        "Material: Acrílico.",
+        "Color superior: Negro."
+      ],
+      "disponibilidad": "En stock"
+    },
+    
+  {
+    "nombre": "Cuaderno grapado A-4 rayado",
+    "precio": "S/ 2.50",
+    "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/40915874_1/w=1500,h=1500,fit=pad",
+    "marca": "OFISCOOL",
+    "categoria": "Cuadernos y Agendas",
+    "caracteristicas": [
+      "Cuaderno formato A-4",
+      "Hojas rayadas",
+      "Marca OFISCOOL"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lápices Grafito 2B Empaque 12 Und",
+    "precio": "S/ 5.00",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-grafito-2-b-x-12-artesco-17482-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Útiles escolares",
+    "caracteristicas": [
+      "Lápices de grafito 2B",
+      "Empaque de 12 unidades",
+      "Marca ARTESCO"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cuaderno Anillado Cuadriculado 100 Hojas",
+    "precio": "S/ 18.50",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/u/cuaderno-anillado-a-4-100h-cuadriculado-solido-loro-28890-default-1.jpg",
+    "marca": "LORO",
+    "categoria": "Cuadernos y Agendas",
+    "caracteristicas": [
+      "Cuaderno anillado",
+      "100 hojas cuadriculadas",
+      "Marca LORO"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cuaderno Espiral Andes Cuadriculado Tapa Dura A4 150 Hojas",
+    "precio": "S/ 15.90",
+    "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42565231_1/w=1500,h=1500,fit=pad",
+    "marca": "LOS ANDES",
+    "categoria": "Cuadernos y Papel 2025",
+    "caracteristicas": [
+      "Cuaderno espiralado",
+      "Tapa dura",
+      "150 hojas cuadriculadas",
+      "Formato A4",
+      "Marca LOS ANDES"
+    ],
+    "disponibilidad": "En stock"
+  },
+
+  {
+    "nombre": "Cuaderno Anillado A4 160 Hojas Cuadriculado Neo 6 Materias Tapa Dura",
+    "precio": "S/ 34.90",
+    "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42023980_2/w=1500,h=1500,fit=pad",
+    "marca": "LOS ANDES",
+    "categoria": "Cuadernos y Agendas",
+    "caracteristicas": [
+      "Cuaderno anillado",
+      "160 hojas cuadriculadas",
+      "6 materias",
+      "Tapa dura",
+      "Formato A4",
+      "Marca LOS ANDES"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Alcohol en gel 70° 500ml",
+    "precio": "S/ 15.50",
+    "imagenURL": "https://falabella.scene7.com/is/image/FalabellaPE/121028516_1",
+    "marca": "ALKOFARMA",
+    "categoria": "Salud y Cuidado Personal",
+    "caracteristicas": [
+      "Antibacterial con aloe vera.",
+      "Desinfectante - Antiséptico.",
+      "Con dispensador para fácil consumo (tapa pump).",
+      "Presentación: 500 ml (medio litro).",
+      "Garantía: Laboratorio Alkofarma E.I.R.L.",
+      "Registro Sanitario: GN-0058.",
+      "Certificaciones: BPM, BPL, BPA.",
+      "Recomendado por el Ministerio de Salud y DIGEMID.",
+      "Fabricado en Perú.",
+      "Condición de venta: Venta libre."
+    ],
+    "disponibilidad": "En stock"
+  }
+  
+]

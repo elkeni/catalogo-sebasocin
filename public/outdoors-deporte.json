@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Bolso De Dormir Outback Estilo Envelope Rojo",
-    "precio": "S/73.00",
+    "precio": "S/ 73",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolso-de-dormir-estilo-envelope-rojo-outback-73375-default-1.jpg",
     "marca": "OUTBACK",
     "categoria": "Sin categoría",
@@ -18,24 +18,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Carpa Para 6 Tayrona Vi - National Geographic",
-    "precio": "S/552.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-para-6-tayrona-vi-nat-geocng6342-68881-default-1.jpg",
-    "marca": "NAT GEO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Marca: National Geographic.",
-      "Medidas: Largo 300 x ancho 300 x alto 165 cm.",
-      "Color: Verde.",
-      "Capacidad: 6 personas.",
-      "Material: Poliéster respirable.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Set X2 Tobilleras Proform Con Peso 2.25 Kg",
-    "precio": "S/67.00",
+    "precio": "S/ 89",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/set-x2-tobilleras-proform-con-peso-225-kg-65630-default-1.jpg",
     "marca": "PROFORM",
     "categoria": "Sin categoría",
@@ -48,7 +32,7 @@
   },
   {
     "nombre": "Carpa National Geographic Para 2 Personas My First Tent",
-    "precio": "S/179.00",
+    "precio": "S/ 179",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-para-2-personas-my-first-tent-66538-default-1.jpg",
     "marca": "NAT GEO",
     "categoria": "Sin categoría",
@@ -63,8 +47,24 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Carpa Para 6 Tayrona Vi - National Geographic",
+    "precio": "S/ 552",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-para-6-tayrona-vi-nat-geocng6342-68881-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: National Geographic.",
+      "Medidas: Largo 300 x ancho 300 x alto 165 cm.",
+      "Color: Verde.",
+      "Capacidad: 6 personas.",
+      "Material: Poliéster respirable.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Piscina 3 Anillos De Colores Bestway 1.52M X 30Cm",
-    "precio": "S/59.00",
+    "precio": "S/ 59",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-piscina-3-anillos-de-colores-152m-x-30cm-65089-default-1.jpg",
     "marca": "BEST WAY",
     "categoria": "Sin categoría",
@@ -81,23 +81,24 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Scooter Mattel Barbie Rosado",
-    "precio": "S/99.90",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/c/scooter-mattel-barbie-rosado-56921-default-1.jpg",
-    "marca": "MONARK",
+    "nombre": "Carpa Game Power Circo Infantil",
+    "precio": "S/ 87",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-circo-infantil-game-power-60463-default-1.jpg",
+    "marca": "GAME POWER",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Edad Recomendada: 3 - 5 años",
-      "Máximo Peso de Usuario: 25 Kg",
-      "Material de la Barra: Acero",
-      "Tipo de Freno: Freno de pie posterior",
+      "Carpa Circo Infantil Game Power",
+      "Material: Poliéster",
+      "Medidas producto armado: 125 x 95 x 125 cm.",
+      "Edad recomendada: 3+",
+      "Capacidad: Hasta 3 niños.",
       "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
     "nombre": "Bicicleta Goliat Paracas Aro 24 Plata",
-    "precio": "S/969.00",
+    "precio": "S/ 969",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-paracas-aro-24-plata-59181-default-1.jpg",
     "marca": "GOLIAT",
     "categoria": "Sin categoría",
@@ -115,7 +116,7 @@
   },
   {
     "nombre": "Bicicleta Goliat Cabo Aro 26 Blanco/Burdeo",
-    "precio": "S/1,399.00",
+    "precio": "S/ 1399",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-cabo-aro-26-blancoburdeo-59196-default-1.jpg",
     "marca": "GOLIAT",
     "categoria": "Sin categoría",
@@ -134,7 +135,7 @@
   },
   {
     "nombre": "Trotadora Endurance 06",
-    "precio": "S/2,699.00",
+    "precio": "S/ 2699",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/r/trotadora-endurance-06-59155-default-1.jpg",
     "marca": "MUVO FITNESS",
     "categoria": "Sin categoría",
@@ -162,24 +163,23 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Carpa Game Power Circo Infantil",
-    "precio": "S/87.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-circo-infantil-game-power-60463-default-1.jpg",
-    "marca": "GAME POWER",
+    "nombre": "Scooter Mattel Barbie Rosado",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/c/scooter-mattel-barbie-rosado-56921-default-1.jpg",
+    "marca": "MONARK",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Carpa Circo Infantil Game Power",
-      "Material: Poliéster",
-      "Medidas producto armado: 125 x 95 x 125 cm.",
-      "Edad recomendada: 3+",
-      "Capacidad: Hasta 3 niños.",
+      "Edad Recomendada: 3 - 5 años",
+      "Máximo Peso de Usuario: 25 Kg",
+      "Material de la Barra: Acero",
+      "Tipo de Freno: Freno de pie posterior",
       "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
     "nombre": "Carpa Para 6 Personas Cove Vi",
-    "precio": "S/535.00",
+    "precio": "S/ 535",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-para-6-cove-vi-anaranjadocng6322-57311-default-1.jpg",
     "marca": "NAT GEO",
     "categoria": "Sin categoría",
@@ -200,7 +200,7 @@
   },
   {
     "nombre": "Bicicleta Acero Xclusive Aro 29 A/G",
-    "precio": "S/1,099.00",
+    "precio": "S/ 1099",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-acero-xclusive-aro-29-ag-57509-default-1.jpg",
     "marca": "XCLUSIVE",
     "categoria": "Sin categoría",
@@ -214,8 +214,42 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Cama Saltarina 1.40 M",
+    "precio": "S/ 481",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cama-saltar140mgame-powercombo-45-ft-54682-default-1.jpg",
+    "marca": "GAME POWER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cama Saltarina",
+      "Marca: Game Power",
+      "Cuenta con malla superior e inferior para mayor seguridad.",
+      "Diámetro: 140x182cm.",
+      "Altura de trampolín al suelo: 37 cm.",
+      "Altura malla de seguridad: 145 cm.",
+      "Soporta: 35 kg.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpa Estación De Policía Game Power",
+    "precio": "S/ 70",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-estacion-de-policia-game-power-60465-default-1.jpg",
+    "marca": "GAME POWER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Carpa Estación de Policía Game Power",
+      "Material: Poliéster",
+      "Medidas producto armado: 95 x 72 x 102 cm",
+      "Edad recomendada: 3+",
+      "Capacidad: Hasta 3 niños.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Bicicleta Oxford Cyclotour Aro 26 Coral/Morado",
-    "precio": "S/1,569.00",
+    "precio": "S/ 1569",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-oxford-cyclotour-aro-26-coralmorado-59152-default-1.jpg",
     "marca": "OXFORD",
     "categoria": "Sin categoría",
@@ -235,7 +269,7 @@
   },
   {
     "nombre": "Bicicleta Goliat Nazca Alux Aro 29 Negro",
-    "precio": "S/1,669.00",
+    "precio": "S/ 1669",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-nazca-alux-aro-29-negro-59167-default-1.jpg",
     "marca": "GOLIAT",
     "categoria": "Sin categoría",
@@ -253,26 +287,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Cama Saltarina 1.40 M",
-    "precio": "S/481.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cama-saltar140mgame-powercombo-45-ft-54682-default-1.jpg",
-    "marca": "GAME POWER",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Cama Saltarina",
-      "Marca: Game Power",
-      "Cuenta con malla superior e inferior para mayor seguridad.",
-      "Diámetro: 140x182cm.",
-      "Altura de trampolín al suelo: 37 cm.",
-      "Altura malla de seguridad: 145 cm.",
-      "Soporta: 35 kg.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Flotador Interactivo Elefante Verde",
-    "precio": "S/20.00",
+    "precio": "S/ 20",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/l/flotador-interactivo-elefante-verde-56961-default-1.jpg",
     "marca": "BEST WAY",
     "categoria": "Sin categoría",
@@ -288,7 +304,7 @@
   },
   {
     "nombre": "Flotador Piscina Unicornio Fantasía",
-    "precio": "S/68.00",
+    "precio": "S/ 68",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/l/flotador-de-piscina-unicornio-fantasia-57069-default-1.jpg",
     "marca": "BEST WAY",
     "categoria": "Sin categoría",
@@ -302,7 +318,7 @@
   },
   {
     "nombre": "Saltarín Octopus 1.42 X 1.37 X 1.14 M",
-    "precio": "S/238.00",
+    "precio": "S/ 238",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/saltarin-octopus-142-x-137-x-114-m-57163-default-1.jpg",
     "marca": "BEST WAY",
     "categoria": "Sin categoría",
@@ -318,7 +334,7 @@
   },
   {
     "nombre": "Deslizador Llama Rama 4.88 M",
-    "precio": "S/119.00",
+    "precio": "S/ 119",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/deslizador-llama-rama-488-m-57167-default-1.jpg",
     "marca": "BEST WAY",
     "categoria": "Sin categoría",
@@ -335,7 +351,7 @@
   },
   {
     "nombre": "Spinning Beat 36",
-    "precio": "S/2,199.00",
+    "precio": "S/ 2199",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/p/spinning-beat-36-59197-default-1.jpg",
     "marca": "MUVO FITNESS",
     "categoria": "Sin categoría",
@@ -359,24 +375,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Carpa Estación De Policía Game Power",
-    "precio": "S/70.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-estacion-de-policia-game-power-60465-default-1.jpg",
-    "marca": "GAME POWER",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Carpa Estación de Policía Game Power",
-      "Material: Poliéster",
-      "Medidas producto armado: 95 x 72 x 102 cm",
-      "Edad recomendada: 3+",
-      "Capacidad: Hasta 3 niños.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Bicicleta Xclusive Mtb Niño Aro 20 Amarillo/Negro",
-    "precio": "S/599.00",
+    "precio": "S/ 599",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-xclusive-mtb-nino-aro-20-amarillonegro-77322-default-1.jpg",
     "marca": "XCLUSIVE",
     "categoria": "Sin categoría",
@@ -384,8 +384,71 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Balon Medicinal Proform 10 Lbs (4.5 Kg)",
+    "precio": "S/ 269",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/balon-medicinal-proform-10-lbs-45-kg-65628-default-1.jpg",
+    "marca": "PROFORM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: PFWBL1019",
+      "Esta bola de pared se puede utilizar para desarrollar fuerza en tus brazos, hombros y piernas",
+      "Con un peso de 10 libras (4.5 kg)",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpa Para 6 Tayrona Vi - National Geographic",
+    "precio": "S/ 552",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-para-6-tayrona-vi-nat-geocng6341-68879-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: National Geographic.",
+      "Medidas: Largo 300 x ancho 300 x alto 165 cm.",
+      "Color: Azul.",
+      "Capacidad: 6 personas.",
+      "Material: Poliéster respirable.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Centro De Juego Inflable Bestway Pequeño Astronauta",
+    "precio": "S/ 229",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-centro-de-juego-inflable-pequeno-astrona-65033-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Centro de Juego Inflable Pequeño Astronauta Bestway",
+      "Medidas del producto: 228 x 206 x 84 cm.",
+      "Peso: 3.989 kg.",
+      "Capacidad de agua: 308 L",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Bebé Best Way Mickey Mouse 70Cm",
+    "precio": "S/ 34",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-bebe-mickey-mouse-70cm-65053-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Piscina Bebe Mickey Mouse 70Cm",
+      "Material: PVC",
+      "Color: Multicolor",
+      "Medidas producto inflado: 70 x 70 x 30 cm",
+      "Peso: 0.384 kg",
+      "Edad Recomendada: 2 años a más.",
+      "Capacidad: 38 Litros.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Linterna Frontal 250Lm",
-    "precio": "S/73.00",
+    "precio": "S/ 73",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/linterna-frontal-250lmlng6552b-57319-default-1.jpg",
     "marca": "NAT GEO",
     "categoria": "Sin categoría",
@@ -405,33 +468,1509 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Carpa Para 6 Tayrona Vi - National Geographic",
-    "precio": "S/552.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-para-6-tayrona-vi-nat-geocng6341-68879-default-1.jpg",
-    "marca": "NAT GEO",
+    "nombre": "Carpa Coolground Bestway Para 3 Personas",
+    "precio": "S/ 162",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-coolground-76463-default-1.jpg",
+    "marca": "BEST WAY",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Marca: National Geographic.",
-      "Medidas: Largo 300 x ancho 300 x alto 165 cm.",
-      "Color: Azul.",
-      "Capacidad: 6 personas.",
-      "Material: Poliéster respirable.",
+      "Medidas del producto: 210 x210 x120cm",
+      "Material: PVC",
+      "Peso: 276kg",
+      "Ideal para 3 personas",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Colchoneta Outback Eva Azul",
+    "precio": "S/ 35",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/colchoneta-eva-azul-outback-73378-default-1.jpg",
+    "marca": "OUTBACK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Outback",
+      "Medidas: 180 x 50 x 0.6 cm",
+      "Material: Goma EVA",
+      "Color: Azul",
+      "Peso: 0.15 kg",
+      "Garantía: 3 meses por defectos de fábrica",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Goliat Sierra Alux Aro 29 Azul",
+    "precio": "S/ 1699",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-sierra-alux-aro-29-azul-59172-default-1.jpg",
+    "marca": "GOLIAT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Goliat Sierra Alux con Doble Suspensión",
+      "Color: Azul",
+      "Aro: 29",
+      "Tipo de suspensión: Doble suspensión",
+      "Frenos: Disco mecánico delantero y trasero",
+      "Garantía:\nChasis (Marco) y Horquilla de acero: 12 años\nCuadro de aluminio (uso recreativo): 3 años\nPartes y Piezas: 1 año",
+      "Chasis (Marco) y Horquilla de acero: 12 años",
+      "Cuadro de aluminio (uso recreativo): 3 años",
+      "Partes y Piezas: 1 año",
       "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Centro De Juego Inflable Bestway Pequeño Astronauta",
-    "precio": "S/229.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-centro-de-juego-inflable-pequeno-astrona-65033-default-1.jpg",
+    "nombre": "Bicicleta Oxford Raptor Aro 27 Negro/Rojo",
+    "precio": "S/ 1999",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-oxford-raptor-aro-27-negrorojo-59239-default-1.jpg",
+    "marca": "OXFORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Oxford Raptor",
+      "Color: Negro/Rojo",
+      "Aro: 27",
+      "Talla de marco: M",
+      "Suspensión: Doble suspensión",
+      "Garantía:\nMarco: De por vida\nCuadros de Carbono: 05 años\nTrenes traseros de Marco, Pivotes y Bujes: 12 meses\nHorquilla con amortiguación, Partes y Piezas 06 meses",
+      "Marco: De por vida",
+      "Cuadros de Carbono: 05 años",
+      "Trenes traseros de Marco, Pivotes y Bujes: 12 meses",
+      "Horquilla con amortiguación, Partes y Piezas 06 meses",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Acero Xclusive Paseo Aro 26 Nn",
+    "precio": "S/ 1399",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-acero-xclusive-paseo-aro-26-nn-56641-default-1.jpg",
+    "marca": "XCLUSIVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Aro 26\" Xclusive",
+      "Modelo: XCLUSIVEP26NN",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspersor Jumbo Jirafa",
+    "precio": "S/ 161",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspersor-jumbo-jirafa-168-m-57179-default-1.jpg",
     "marca": "BEST WAY",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Centro de Juego Inflable Pequeño Astronauta Bestway",
-      "Medidas del producto: 228 x 206 x 84 cm.",
-      "Peso: 3.989 kg.",
-      "Capacidad de agua: 308 L",
+      "Apersor Jumbo Jirafa Bestway.",
+      "Material: PVC.",
+      "Color: Multicolor.",
+      "Medidas producto inflado: 142 x 104 x 198 cm.",
+      "Peso: 2.01 kg.",
+      "Edad recomendada: A partir de 2 años.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Deluxe Rectangular Inflable 1161 L",
+    "precio": "S/ 170",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-deluxe-rectangular-inflabl-1161l-65149-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Piscina Deluxe Rectangular Inflable 1161L",
+      "Material: Vinilo",
+      "Color: Azul",
+      "Medidas producto inflado: 305 x 183 x 56 cm",
+      "Peso: 6.85 kg",
+      "Capacidad: 1161 L",
+      "Edad recomendada: Más de 6 años.",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Elíptica Burn 36",
+    "precio": "S/ 1899",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/l/eliptica-burn-36-59122-default-1.jpg",
+    "marca": "MUVO FITNESS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Elíptica Burn 36 Muvo Fitness",
+      "Dimensiones de equipo armado:\nAlto: 158 cm\nAncho: 75 cm\nLargo: 115.5 cm",
+      "Alto: 158 cm",
+      "Ancho: 75 cm",
+      "Largo: 115.5 cm",
+      "Volante de inercia: 5 kg",
+      "Peso máximo de usuario: 100 kg",
+      "Peso total: 30.5 kg",
+      "Garantía:\nChasis: De por vida\nMotor eléctrico y electrónica: 1 año\nPartes y componentes: 6 meses\nCarcasas y piezas plásticas externas: 3 meses",
+      "Chasis: De por vida",
+      "Motor eléctrico y electrónica: 1 año",
+      "Partes y componentes: 6 meses",
+      "Carcasas y piezas plásticas externas: 3 meses",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpa Clínica Game Power De Mascotas",
+    "precio": "S/ 76",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-clinica-mascotas-game-power8165-54672-default-1.jpg",
+    "marca": "GAME POWER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Carpa Clínica Mascotas",
+      "Marca: Game Power",
+      "Medidas producto armado: 95 x 72 x 102 cm.",
+      "Material: 100% poliéster, 170T",
+      "Pole: PP pole, día 11mm.",
+      "Medidas de la caja: 55 x 8 x 15 cm.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Acero Xclusive Paseo Aro 26 Az",
+    "precio": "S/ 1399",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-acero-xclusive-paseo-aro-26-az-56649-default-1.jpg",
+    "marca": "XCLUSIVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Aro 26\" Xclusive",
+      "Modelo: XCLUSIVEP26AZ",
+      "Marco: Acero aligerado",
+      "Aro: 26",
+      "Talla: M/L",
+      "Altura recomendada: 165 - 180 cm",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Arco Inflable Best Way Para Piscina 1.37 M",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arco-inflable-piscina-137m-57155-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Arco Inflable Piscina 1.37M Bestway",
+      "Medidas producto inflado: 130 x 60 x 72 cm",
+      "Peso: 0.59 kg",
+      "Edad recomendada: Más de 3 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Romantic Teen 24'' Coral",
+    "precio": "S/ 1499",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-romantic-teen-24-coral-58198-default-1.jpg",
+    "marca": "MONARK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Romantic Teen 24'' Coral Monark",
+      "Material de Aro: Aluminio",
+      "Color: Coral",
+      "Aro: 24",
+      "Freno: V-Brake",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Castillo De Dinosaurios Game Power",
+    "precio": "S/ 87",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/castillo-de-dinosaurios-game-power-60467-default-1.jpg",
+    "marca": "GAME POWER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Castillo de Dinosaurios Game Power",
+      "Material: Poliéster",
+      "Medidas producto armado: 105 x 125 x 105 cm.",
+      "Edad recomendada: 3+",
+      "Capacidad: Hasta 3 niños.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Casa Para Niños Game Power Mi Pequeña Casita",
+    "precio": "S/ 79",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/mi-pequena-casita-game-power-60473-default-1.jpg",
+    "marca": "GAME POWER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mi Pequeña Casita Game Power",
+      "Medidas producto armado: 95 x 72 x 102 cm.",
+      "Material:\nTejido: 100% poliéster, 170T\nPole: PP pole, diámetro 11mm.",
+      "Tejido: 100% poliéster, 170T",
+      "Pole: PP pole, diámetro 11mm.",
+      "Medidas de la caja: 50 x 6 x 30 cm.",
+      "Capacidad: Hasta 3 niños.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Oxford Cyclotour Aro 26 Burdeo/Fucsia",
+    "precio": "S/ 1569",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-oxford-cyclotour-aro-26-burdeofucsia-59113-default-1.jpg",
+    "marca": "OXFORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Oxford Cyclotour",
+      "Aro: 26",
+      "Color: Burdeo/Fucsia",
+      "Garantía:\nMarco: De por vida\nCuadros de Carbono: 05 años\nTrenes traseros de Marco, Pivotes y Bujes: 12 meses\nHorquilla con amortiguación, Partes y Piezas: 06 meses",
+      "Marco: De por vida",
+      "Cuadros de Carbono: 05 años",
+      "Trenes traseros de Marco, Pivotes y Bujes: 12 meses",
+      "Horquilla con amortiguación, Partes y Piezas: 06 meses",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Goliat Sierra Aro 24 Negro",
+    "precio": "S/ 1099",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-sierra-aro-24-negro-59136-default-1.jpg",
+    "marca": "GOLIAT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Goliat Sierra",
+      "Color: Negro",
+      "Aro: 24",
+      "Frenos: Disco mecánico delantero y trasero",
+      "Garantía:\nChasis (Marco) y Horquilla de acero: 12 años\nCuadro de aluminio (uso recreativo): 3 años\nPartes y Piezas: 1 año",
+      "Chasis (Marco) y Horquilla de acero: 12 años",
+      "Cuadro de aluminio (uso recreativo): 3 años",
+      "Partes y Piezas: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Goliat Sierra Aro 27.5 Grafito",
+    "precio": "S/ 1459",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-sierra-aro-275-grafito-59170-default-1.jpg",
+    "marca": "GOLIAT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Goliat Sierra con Doble Suspensión",
+      "Aro: 27.5",
+      "Color: Grafito",
+      "Frenos: Disco mecánico delantero y trasero",
+      "Garantía:\nChasis (Marco) y Horquilla de acero: 12 años\nCuadro de aluminio (uso recreativo) : 3 años\nPartes y Piezas : 1 año",
+      "Chasis (Marco) y Horquilla de acero: 12 años",
+      "Cuadro de aluminio (uso recreativo) : 3 años",
+      "Partes y Piezas : 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Goliat Cabo Aro 26 Blanco/Blanco",
+    "precio": "S/ 1399",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-goliat-cabo-aro-26-blancoblanco-59195-default-1.jpg",
+    "marca": "GOLIAT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Goliat Cabo",
+      "Color: Blanco/Blanco",
+      "Aro: 26",
+      "Frenos: V- Brake Acero",
+      "Garantía:\nChasis (Marco) y Horquilla de acero: 12 años\nCuadro de aluminio (uso recreativo): 3 años\nPartes y Piezas: 1 año",
+      "Chasis (Marco) y Horquilla de acero: 12 años",
+      "Cuadro de aluminio (uso recreativo): 3 años",
+      "Partes y Piezas: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Estática Pulse 75",
+    "precio": "S/ 3099",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/s/estatica-pulse-75-59115-default-1.jpg",
+    "marca": "MUVO FITNESS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Estática Pulse 75 Muvo",
+      "Dimensiones de equipo armado:\nAlto: 149 cm\nAncho: 62 cm\nLargo: 155 cm",
+      "Alto: 149 cm",
+      "Ancho: 62 cm",
+      "Largo: 155 cm",
+      "Volante de inercia: 8.5 kg Ø320 mm",
+      "Peso máximo de usuario: 120 kg",
+      "Peso total: 41 kg",
+      "Garantía:\nChasis: De por vida\nMotor eléctrico y electrónica: 1 año\nPartes y componentes: 6 meses\nCarcasas y piezas plásticas externas: 3 meses",
+      "Chasis: De por vida",
+      "Motor eléctrico y electrónica: 1 año",
+      "Partes y componentes: 6 meses",
+      "Carcasas y piezas plásticas externas: 3 meses",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Trotadora Endurance 26",
+    "precio": "S/ 3399",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/r/trotadora-endurance-26-59157-default-1.jpg",
+    "marca": "MUVO FITNESS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Trotadora Endurance 26 Muvo Fitness",
+      "Dimensiones de equipo armado:\nAlto: 120 cm\nAncho: 76 cm\nLargo: 159.2 cm",
+      "Alto: 120 cm",
+      "Ancho: 76 cm",
+      "Largo: 159.2 cm",
+      "Dimensiones de equipo plegado:\nAlto: 135.5 cm\nAncho: 76 cm\nLargo: 70 cm",
+      "Alto: 135.5 cm",
+      "Ancho: 76 cm",
+      "Largo: 70 cm",
+      "Peso total: 46 kg",
+      "Peso máximo de usuario: 100 kg",
+      "Consumo eléctrico: Aprox 1.15 kW/h",
+      "Garantía:\nChasis: De por vida\nMotor eléctrico y electrónica: 1 año\nPartes y componentes: 6 meses\nCarcasas y piezas plásticas externas: 3 meses",
+      "Chasis: De por vida",
+      "Motor eléctrico y electrónica: 1 año",
+      "Partes y componentes: 6 meses",
+      "Carcasas y piezas plásticas externas: 3 meses",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Barco De Bloques Playa Con 11 Piezas",
+    "precio": "S/ 17.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/barco-de-bloques-playa-con-11-piezas-31357-default-1.jpg",
+    "marca": "SINOSTAR",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Vóley Viniball Semideportiva Chibolita",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-voley-semidep-chibol-16333006-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pelotas semideportiva",
+      "Requiere ser inflado",
+      "Imágenes referenciales.",
+      "Pedidos con más de 5 pelotas, se enviarán desinfladas."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Monark Romantic Aro 26'' Gris Claro",
+    "precio": "S/ 1999",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-monark-romantic-aro-26-gris-claro-43539-default-1.jpg",
+    "marca": "MONARK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bicicleta Romantic Monark",
+      "Color: Gris Claro",
+      "Material: Aluminio",
+      "Aro: 26",
+      "Frenos: V-Brake delantero y posterior",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mini Moto Scooter Rojo Con Amarillo",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/mini-moto-scooter-rojo-con-amarillo-37475002-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Fabricada con materiales duraderos",
+      "Seguros para garantizar horas de diversión",
+      "Ideal para jugar en interiores y exteriores, brindando versatilidad en el juego",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Fútbol Viniball Semideportiva Crackcito Blanco Y Rojo",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-futbol-semidep-crackcito-bco-rojo-011019-16327002-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pelota de fútbol semideportiva",
+      "Marca Viniball, modelo Crackcolor",
+      "Resistente y duradera",
+      "Ideal para juego y entrenamiento",
+      "Imágenes referenciales",
+      "Pedidos con más de 5 pelotas, se enviarán desinfladas."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Vóley Viniball Gaby Blanco",
+    "precio": "S/ 13.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-de-voley-gaby-blanco-1706-viniball-16336002-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "¡Diversión asegurada para los pequeños en casa!",
+      "Pelota de vóley.",
+      "Requiere ser inflado.",
       "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Vóley Viniball Gaby Tri Amarillo Fucsia Y Celeste",
+    "precio": "S/ 13.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-de-voley-gaby-tri-am-fuc-cel-vinibal-16336004-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Vóley Viniball Gaby Tricolor Blanco Azul Y Amarillo",
+    "precio": "S/ 13.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-de-voley-gaby-tri-bl-az-am-16336005-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Requiere ser inflado",
+      "Imágenes referenciales.",
+      "Pedidos con más de 5 pelotas, se enviarán desinfladas."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Fútbol Viniball Goma Países Blanco 12048 Surtido",
+    "precio": "S/ 19.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-futbol-goma-liso-blnc-paises-vini-12048-2752-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Imágenes referenciales",
+      "Pedidos con más de 5 pelotas, se enviarán desinfladas."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bicicleta Xclusive Mtb Niño Aro 20 Naranja/ Negro",
+    "precio": "S/ 599",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/i/bicicleta-xclusive-mtb-nino-aro-20-naranja-negro-77321-default-1.jpg",
+    "marca": "XCLUSIVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pantalón Interior Térmica Trangoworld Largo Cetema Negro Xl",
+    "precio": "S/ 345",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pantalon-interior-termica-largo-cetema-negro-xl-77930-default-1.jpg",
+    "marca": "TRANGOWORLD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pantalón largo interior térmico",
+      "Ideal para actividades invernales de montaña",
+      "Pantalón Bielástico",
+      "Talla: XL",
+      "Peso: 95 g",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Guante Técnico Trangoworld Akme Negro S",
+    "precio": "S/ 240",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/s/dsport-guante-tecnico-akme-negro-s-77931-default-1.jpg",
+    "marca": "TRANGOWORLD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Gorra Altus Gobi",
+    "precio": "S/ 134",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/s/dsport-gorra-gobi-77933-default-1.jpg",
+    "marca": "ALTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material técnico: 100% PES",
+      "Peso: 85 g",
+      "Diseño moderno y actual.",
+      "Transpirable y confortable.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Gorra Sonora Altus Turquesa M",
+    "precio": "S/ 134",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/s/dsport-gorra-sonora-turquesa-m-77939-default-1.jpg",
+    "marca": "ALTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: 97% PES + 3% Spandex",
+      "Peso: 84 g",
+      "Cuenta con ventilación por perforación láser",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bandana Altus Highlander Negro",
+    "precio": "S/ 87",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/s/dsport-bandana-highlander-negro-77961-default-1.jpg",
+    "marca": "ALTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: 90% PES 10% SPANDEX",
+      "Peso: 53 g",
+      "Fabricada en tejido de punto",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Monocular Altus Mono 1025A",
+    "precio": "S/ 80",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/s/dsport-monocular-10x25-mono-1025a-77975-default-1.jpg",
+    "marca": "ALTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Monocular de cuerpo de metal recubierto de caucho negro",
+      "Ampliación de 10x y una lente de 25 mm",
+      "Ideal para actividades al aire libre",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pernera Trangoworld Litago Naranja/Negro M",
+    "precio": "S/ 100",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pernera-litago-naranjanegro-s-77979-default-1.jpg",
+    "marca": "TRANGOWORLD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pierna de compresión para trail running y marcha nórdica",
+      "Manga de pierna para hombre y mujer",
+      "Esta pernera cuenta con una confección sin costuras",
+      "Peso: 55 g",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Colchoneta Trangoworld Auto Hinchable Standard Mat Verde Oscuro",
+    "precio": "S/ 400",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/s/dsport-colchoneta-autohinchable-standard-mat-185x50x3-verde-oscuro-trangoworld-77998-default-1.jpg",
+    "marca": "TRANGOWORLD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silla Plegable Nat Geo Con Reposapiés",
+    "precio": "S/ 227",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silla-plegable-con-reposapies-national-geographic-73365-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: National Geographic",
+      "Medidas: 90 x 140 x 98 cm",
+      "Material: 600D poliéster",
+      "Color: Gris",
+      "Estructura metálica.",
+      "Incluye: Bolso para transportar como mochila.",
+      "Garantía: 3 meses por defectos de fábrica",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolso De Dormir Outback Estilo Envelope Verde",
+    "precio": "S/ 73",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolso-de-dormir-estilo-envelope-verde-outback-73374-default-1.jpg",
+    "marca": "OUTBACK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Outback",
+      "Medidas: 180 x 75 x 2 cm",
+      "Material: 170T Poliéster",
+      "Color: Verde",
+      "Peso: 0.78 kg",
+      "Incluye: Bolso de transporte",
+      "Garantía: 3 meses por defectos de fábrica",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Skateaboard Sonic Cruiser 53 Cm",
+    "precio": "S/ 65.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/k/skateboard-sonic-53cm-72298-default-1.jpg",
+    "marca": "SONIC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Longitud de 53 cm",
+      "Diseño robusto para cruising",
+      "Adecuado para jóvenes y adultos",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Fútbol Viniball Crackcito Stellar Surtido",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-viniball-de-futbol-crackcito-stellar-70410-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "¡Diversión asegurada para los pequeños en casa!",
+      "Pelota de fútbol.",
+      "Imágenes referenciales",
+      "* Pedidos con más de 5 pelotas, se enviarán desinfladas"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Voley Viniball Semideportiva Chibolita Animal Print Surtido",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-viniball-semideportiva-chibolita-animales-70417-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "¡Diversión asegurada para los pequeños en casa!",
+      "Pelota de vóley",
+      "Imágenes referenciales",
+      "Pedidos con más de 5 pelotas, se enviarán desinfladas"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Flotador Bestway Rainbow Dreams",
+    "precio": "S/ 41",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/l/flotador-rainbow-dreams-76438-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Aro Bestway Con Motivos Marinos",
+    "precio": "S/ 97",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-aro-con-motivos-marinos-76445-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Bestway Safari Para Bebés",
+    "precio": "S/ 57",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-safari-para-bebes-76452-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina De Bolas Bestway Tunneltopia",
+    "precio": "S/ 138",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-de-bolas-tunneltopia-76453-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina De Bolas Bestway Sort N Play",
+    "precio": "S/ 81",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-de-bolas-sort-n-play-76454-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Bestway 3 Anillos",
+    "precio": "S/ 57",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/piscina-3-anillos-76459-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bote Inflable Bestway Raft Hydro Force Ranger Elite Para 3 Personas",
+    "precio": "S/ 1056",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bote-raft-hydro-force-ranger-elite-x3-76483-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kayak Bestway Hydroforce Surge Elite Para 2 Personas",
+    "precio": "S/ 1400",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/k/a/kayak-hydroforce-surge-elite-x2-76488-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas del producto: 386x 96x 35 cm",
+      "Material: PVC",
+      "Capacidad: 180KG",
+      "Peso: 1656kg",
+      "Capacidad para 2 adultos",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kayak Bestway Hydroforce Surge Elite Para 1 Persona",
+    "precio": "S/ 1050",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/k/a/kayak-hydroforce-surge-elite-x1-76489-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas del producto: 312x 96x 35 cm",
+      "Material: PVC",
+      "Capacidad: 100kg",
+      "Peso: 1172kg",
+      "Ideal para 1 persona",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Centro De Juegos Bestway Spiderman Inflable",
+    "precio": "S/ 236",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/centro-de-juegos-inflable-spiderman-76495-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: PVC.",
+      "Medidas del producto: 211 x 206 x 127 cm",
+      "Peso: 4.21 kg",
+      "Ideal para niños a partir de 2 años.",
+      "Incluye: 1 Piscina, 2 Anillos, 6 Bolas para jugar y Parche de Reparación.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sillón Inflable Bestway Led",
+    "precio": "S/ 97",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/sillon-inflable-led-76503-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: PVC.",
+      "Medidas del producto: 102 x 97 x 71cm.",
+      "Peso: 1.75 kg.",
+      "Incluye: 1 Sillón Inflable y 1 Parche De Reparación.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Deslizador Interactivo Bestway Triple",
+    "precio": "S/ 99",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/deslizador-triple-de-largo-76515-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: PVC.",
+      "Con 3 carriles anchos para echar carreras extraordinarias.",
+      "Ideal para niños a partir de 3 años.",
+      "Incluye: 1 Tobogán Acuático y 1 Parche De Reparación.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Maleta Cabinera Decokasa 10 Kg Blanco",
+    "precio": "S/ 320",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maleta-cabinera-10-kilos-blanco-76964-default-1.jpg",
+    "marca": "DECOKASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Blanco",
+      "Elaborada de polipropileno.",
+      "Ofrece equilibrio entre capacidad y portabilidad.",
+      "Medidas: 35 x 23.5 x 53 cm.",
+      "Capacidad: 10 kg.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Juego Didáctivo Evalflex Cono De Plástico Para Gimnasia 25 Cm",
+    "precio": "S/ 4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/u/juego-didactivo-evalflex-cono-de-plastico-para-gimnasia-25-cm-77078-default-1.jpg",
+    "marca": "EVAFLEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Plástico.",
+      "Medida: 25 cm.",
+      "Ideales para entrenamiento de gimnasia artística, rítmica y otros deportes.",
+      "Contiene: 1 cono de plástico Evaflex.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Set Bestway Máscara Y Snorkel Pike Sea Azul",
+    "precio": "S/ 36",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/set-de-mascara-y-snorkel-pike-sea-azul-81684-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 18.5 x 42 cm",
+      "Marca: Bestway",
+      "Peso: 0.21 kg",
+      "Material: Policarbonato",
+      "Color: Multicolor",
+      "Edad recomendada: Más de 7 años",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolso De Dormir National Geographic Traveler Verde",
+    "precio": "S/ 138",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolso-de-dormir-traveler-verde-81685-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: Largo 210 x ancho 75 cm",
+      "Marca: National Geographic",
+      "Material: Tela interior: Poliéster 190T con costuras horizontales",
+      "Color: Verde",
+      "Peso: 1.7 kg",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolso De Dormir Bestway Hiberhide10 Verde",
+    "precio": "S/ 73",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolso-de-dormir-hiberhide10-220x75x50cm-verde-81687-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sillón Inflable Bestway Animales Acogedores Marrón",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/sillon-inflable-animales-acogedores-marron-81689-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 72x72x72cm",
+      "Material: PVC",
+      "Capacidad: 70kg",
+      "Peso: 0.7kg",
+      "Color: Marrón",
+      "Marca: Bestway",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sillón Inflable Bestway Animales Acogedores Negro",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/sillon-inflable-animales-acogedores-negro-81691-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 72x72x72cm",
+      "Material: PVC",
+      "Capacidad: 70kg",
+      "Peso: 0.7kg",
+      "Color: Negro",
+      "Marca: Bestway",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lámpara National Geographic Camping Explorer Led Cree",
+    "precio": "S/ 89",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lampara-camping-explorer-led-cree-81693-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 8.5 x 8.5 x 18.5cm",
+      "Marca: National Geographic",
+      "Material: Aluminio",
+      "Color: Negro",
+      "Tipo de Batería: 4 x 1.5v “AA” (incluidas)",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella Térmica Laken Lakenjoy Acero Inoxidable Naranja 500Ml",
+    "precio": "S/ 100",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/botella-termica-ainox-lakenjoy-naranja-79045-default-1.jpg",
+    "marca": "LAKEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Aislamiento de vacío con doble pared de acero inoxidable 18/8.",
+      "Medidas: ​\nDiámetro: 6,5 cm\nAltura: 26 cm\nPeso: 310 g",
+      "Diámetro: 6,5 cm",
+      "Altura: 26 cm",
+      "Peso: 310 g",
+      "Capacidad: 500 ml.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella Térmica Laken Lakenjoy Acero Inoxidable Acero 500Ml",
+    "precio": "S/ 100",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/botella-termica-ainox-lakenjoy-acero-79049-default-1.jpg",
+    "marca": "LAKEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Acero.",
+      "Aislamiento de vacío con doble pared de acero inoxidable 18/8.",
+      "Medidas: ​\nDiámetro: 6.5 cm\nAltura: 26 cm\nPeso: 310 g",
+      "Diámetro: 6.5 cm",
+      "Altura: 26 cm",
+      "Peso: 310 g",
+      "Capacidad: 500 ml.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella Laken Bamboo Acero Inoxidable Blanco 750Ml",
+    "precio": "S/ 93",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/botella-ainox-tbamboo-075l-blanco-79059-default-1.jpg",
+    "marca": "LAKEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Acero inoxidable 18/8.",
+      "Color: Blanco.",
+      "Su tapón de bambú y acero inoxidable es totalmente hermético.",
+      "Medidas:\nDiámetro: 7.3 cm\nAltura: 23.5 cm\nPeso: 150 g",
+      "Diámetro: 7.3 cm",
+      "Altura: 23.5 cm",
+      "Peso: 150 g",
+      "Capacidad: 750 ml.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Scooter Globber Primo Plegable Plus Led Morado",
+    "precio": "S/ 429",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/c/scooter-globber-primo-foldable-plus-led-morado-79733-default-1.jpg",
+    "marca": "GLOBBER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cuenta son sistema de plegado",
+      "Ruedas de poliuretano con luces LED (no requieren batería)",
+      "Color: Morado",
+      "Freno integrado a la rueda trasera",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota De Fútbol Viniball Semideportiva Crackcito Champion",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-futbol-semidep-crackcito-champion-53897-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Imágenes referenciales",
+      "Pedidos con más de 5 pelotas, se enviarán desinfladas."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Isla De Gema 1.85 M X 98 Cm",
+    "precio": "S/ 55",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/s/isla-de-gema-185-m-x-98-cm-43417-54451-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Flotador Isla de Gema",
+      "Marca: Bestway",
+      "Medidas producto inflado: 185 x 137 x 20 cm.",
+      "Peso: 1.43 kg.",
+      "Material: PVC",
+      "Capacidad: 90kg.",
+      "Color: Verde",
+      "Incluye: Parche de reparación",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Flotador Fashion Tucán Disney Minnie",
+    "precio": "S/ 97",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/l/flotador-fashion-tucan-disn207x15091082-54515-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Bestway",
+      "Medidas producto inflado: 180 x 150 x 89 cm.",
+      "Peso: 2.24 kg.",
+      "Material: PVC",
+      "Capacidad: 90 kg.",
+      "Color: Multicolor",
+      "Incluye: Un parche de reparación de alta resistencia",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Almohada Full Compact Azul",
+    "precio": "S/ 54.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/almohada-full-compact-azulang13-54688-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Almohada Full Compact National Geographic",
+      "Material: Poliéster",
+      "Color: Azul",
+      "Medidas: 42 x 32 x 10 cm",
+      "Peso: 0.083 kg",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolso Travel Duffle 110 L. Negro",
+    "precio": "S/ 313",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolso-travel-duffle-110-l-negrobng1110-54694-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bolso Travel Duffle",
+      "Marca: National Geographic.",
+      "Medidas: 68 x 41 x 41 cm.",
+      "Material a prueba de agua: 85% Tarpaulin + 15% PVC.",
+      "Color: Negro.",
+      "Capacidad: 110 lt.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paddle Hydro-Force Bestway Huaka 3.05M",
+    "precio": "S/ 1955",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-paddle-hydro-force-huaka-305m-65185-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Paddle Hydro-Force Huaka Bestway.",
+      "Material: PVC",
+      "Medidas del producto: 305 x 84 x 15 cm",
+      "Peso: 11.81 kg",
+      "Capacidad: 130 kg",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Trotadora Monark T500 Negro",
+    "precio": "S/ 5,299",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/r/trotadora-monark-t500-negro-64939-default-1.jpg",
+    "marca": "MONARK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Trotadora Monark T500",
+      "Material de la estructura: Acero",
+      "Color: Negro",
+      "Medidas del producto plegado:\nAlto: 147 cm\nAncho: 78.6 cm\nLargo: 106.5 cm",
+      "Alto: 147 cm",
+      "Ancho: 78.6 cm",
+      "Largo: 106.5 cm",
+      "Peso máximo de usuario: 100 kg",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Máquina De Remo Nordictrack Rw600",
+    "precio": "S/ 6,999",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maquina-de-remo-nordictrack-rw600-65619-default-1.jpg",
+    "marca": "NORDICTRACK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: NTRW10121",
+      "Compatible iFIT",
+      "Con el RW600, podrá desarrollar su fuerza y ​​resistencia con un entrenamiento rápido y de alta intensidad",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cuerda Para Saltar Nylon Proform Light",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/u/cuerda-para-saltar-nylon-proform-light-65631-default-1.jpg",
+    "marca": "PROFORM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: PFWMNRP20",
+      "Soga 2.70 m de largo (Regulable)",
+      "Trabaja y aumenta resistencia de diferentes grupos musculares",
+      "Entrenamiento variado",
+      "Manijas acolchadas evita callosidades",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Liga De Resistencia Proform Liviana",
+    "precio": "S/ 59",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/liga-de-resistencia-proform-liviana-65634-default-1.jpg",
+    "marca": "PROFORM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: PFWMRT120",
+      "Esta liga de resistencia le permite controlar la resistencia y fortalecer el cuerpo a su propio ritmo.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rueda Abdominal Proform",
+    "precio": "S/ 69",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/u/rueda-abdominal-proform-65637-default-1.jpg",
+    "marca": "PROFORM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: PFWMTW21",
+      "Perfecto para cualquier superficie",
+      "Diseñada con ruedas dobles antideslizantes",
+      "Brinda el complemento perfecto para cualquier rutina de ejercicios",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Guantes Weider Serie Pro Con Muñequera Xs/S",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/u/guantes-weider-serie-pro-con-munequera-xss-65640-default-1.jpg",
+    "marca": "WEIDER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: WWWGXSP20",
+      "Cuidadosamente diseñados para ayudarte a asegurar el agarre y disfrutar un entrenamiento seguro.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pelota Para Pintar Unicorn 03 Viniball",
+    "precio": "S/ 18.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelota-para-pintar-unicorn-03-viniball-62009-default-1.jpg",
+    "marca": "VINIBALL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Casco Xclusive Mtb Negro L",
+    "precio": "S/ 139",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/casco-xclusive-mtb-negro-l-61253-default-1.jpg",
+    "marca": "XCLUSIVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Casco Xclusive MTB",
+      "Material: PC+EPS (muy resistente al impacto).",
+      "Color: Negro",
+      "Tecnologia: In Mold",
+      "Correa ajustable.",
+      "Luz LED Trasera.",
+      "Tamaño: 58 - 61 cm / Talla: L",
+      "Peso: 240 gr.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Casco Xclusive Urbano Negro L",
+    "precio": "S/ 129",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/casco-xclusive-urbano-negro-l-61257-default-1.jpg",
+    "marca": "XCLUSIVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Casco Xclusive Urbano",
+      "Material: PC+EPS (muy resistente al impacto).",
+      "Color: Negro",
+      "Tecnologia: In Mold",
+      "Correa ajustable.",
+      "Visor Removible.",
+      "Luz LED Trasera.",
+      "Tamaño: 58 - 61 cm / Talla: L",
+      "Peso: 300 gr.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kit Hidratante Xclusive Portabotella Y Botella Negro",
+    "precio": "S/ 59",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/k/i/kit-hidratante-xclusive-portabotella-y-botella-negro-61261-default-1.jpg",
+    "marca": "XCLUSIVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Kit Hidratante Xclusive Portabotella y Botella",
+      "Color: Negro",
+      "Material: PVC (Plástico Resistente).",
+      "Capacidad: 750 ml.",
+      "Incluye: Botella, Porta Botella y Tornillos.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mini Moto Scooter Amarillo Azul",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/mini-moto-scooter-amarillo-con-azul-37475003-default-2.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mini Moto Scooter",
+      "Largo: 45.7 cm",
+      "Ancho: 23 cm",
+      "Alto: 20.5 cm",
+      "Modelo: A partir de 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Protector De Suelo Lay-Z-Spa 2.16M Bestway",
+    "precio": "S/ 221",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/r/protector-de-suelo-lay-z-spa-216m60309-68873-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Bestway.",
+      "Medidas del producto: 216 x 216cm.",
+      "Peso: 2.2 kg.",
+      "Material: Polietileno.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mochila Austin 35 Litros - National Geographic",
+    "precio": "S/ 244",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mochila-austin-35-lit-nat-geoaustin-35-68887-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: National Geographic.",
+      "Medidas: 33 x 16 x 53.5 cm.",
+      "Material: 420D Ripstop poliéster.",
+      "Color: Gris.",
+      "Capacidad: 35 lt.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Skateboard Shs 78 Cm Surtido",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/k/skateboard-78cm-surtido-52380-default-1.jpg",
+    "marca": "RAVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "2 diseños disponibles",
+      "Edad recomendada: A partir de 5 años.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Set Piscina Best Way Celeste 1.52M X 38 Cm",
+    "precio": "S/ 119",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-piscina-fast-set-de-152mx38cm-azul-64909-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Piscina Fast Set Bestway",
+      "Color: Celeste",
+      "Medidas del producto: 152 x 152 x 38 cm.",
+      "Peso: 1.592 kg.",
+      "Capacidad de agua: 477 L.",
+      "Incluye: Una piscina, parche de reparación.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Colchón Inflable Bestway Turquesa",
+    "precio": "S/ 102",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-colchon-inflable-turquesa-64949-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Colchón Inflable Bestway",
+      "Color: Turquesa",
+      "Medidas del producto: 158 x 89 x 18 cm.",
+      "Peso: 1.793 kg.",
+      "Capacidad de peso: 50 kg.",
+      "Incluye: 1 colchón de aire, 1 bomba de aire, 1 bolsa de almacenamiento, parche de reparación.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Flotador Para Montar Bestway Foca 1.57M",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-flotador-para-montar-foca-157m-64981-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Flotador para Montar Bestway Foca",
+      "Medidas del producto: 141 x 110 x 93 cm.",
+      "Peso: 0.762 kg. .",
+      "Contenido: 1 flotador para montar, parche de reparación.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sillón Inflable Best Way Basketball",
+    "precio": "S/ 73",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/sillon-inflable-bestway-basketball-65009-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Sillón Inflable Bestway Basketball",
+      "Medidas del producto: 114 x 112 x 66 cm.",
+      "Peso: 1.443 kg.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Isla Elefante Flirty Fiesta Bestway",
+    "precio": "S/ 97",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-isla-elefante-flirty-fiesta-65017-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Bestway.",
+      "Medidas del producto: 176 x 142 x 23 cm.",
+      "Peso: 1.438 kg."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Inflable Elíptica Bestway",
+    "precio": "S/ 204",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-piscina-inflable-eliptica-65029-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Bestway.",
+      "Medidas del producto: 229 x 152 x 51 cm.",
+      "Peso: 3.496 kg."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Flotador Arcoiris Ondulado Bestway",
+    "precio": "S/ 24",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-flotador-arcoiris-ondulado-65061-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Flotador Arcoiris Ondulado Bestway",
+      "Material: PVC.",
+      "Color: Multicolor.",
+      "Medidas producto inflado: 106 x 106 x 27 cm.",
+      "Peso: 0.578 kg.",
+      "Edad recomendada: 12 años a más.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Lagoon Familiar Inflable 544 Litros",
+    "precio": "S/ 127",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-piscina-lagoon-familiar-inflable-544l-65117-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Piscina Lagoon Familiar Inflable",
+      "Material: PVC",
+      "Color: Azul",
+      "Medidas producto inflado: 262 x 157 x 46 cm.",
+      "Peso: 3.4 kg",
+      "Capacidad: 544 L",
+      "Edad recomendada: Más de 3 años.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Piscina Rectangular Familiar Bestway 3.05M X 1.83M X 46Cm",
+    "precio": "S/ 170",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/e/bestway-piscina-rectangular-familiar-305m-x-183m-x-46cm-65141-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Piscina Rectangular Familiar Bestway",
+      "Material: PVC",
+      "Color: Celeste",
+      "Medidas producto inflado: 305 x 183 x 46 cm.",
+      "Peso: 5.613 kg.",
+      "Capacidad: 850 L",
+      "Edad recomendada: Más de 3 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpa De Juegos Unicornio Bestway",
+    "precio": "S/ 110",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpa-de-juegos-unicornio-bestway-60453-default-1.jpg",
+    "marca": "BEST WAY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Carpa de Juegos Unicornio Bestway",
+      "Material: PVC",
+      "Color: Celeste",
+      "Medidas producto inflado: 182 x 96 x 81 cm",
+      "Peso: 0.81 kg.",
+      "Medidas de la caja: 4 x 55 x 55 cm.",
+      "Edad Recomendada: 2+",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mochila National Geographic Hainzel 27 L",
+    "precio": "S/ 284",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mochila-national-geographic-hainzel-27-l-60485-default-1.jpg",
+    "marca": "NAT GEO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mochila Hainzel 27 Litros National Geographic",
+      "Material: Lamination + 600D/PU Polyester",
+      "Color: Negro",
+      "Medidas:\nAlto: 48 cm\nAncho: 28 cm\nLargo: 20 cm\nPeso: 0.71 kg.",
+      "Alto: 48 cm",
+      "Ancho: 28 cm",
+      "Largo: 20 cm",
+      "Peso: 0.71 kg.",
+      "Capacidad: 27 Litros",
+      "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   }

@@ -1,5 +1,7 @@
+/* Importación de fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
+/* Variables globales */
 :root {
     --primary: #ffffff;
     --secondary: #ffffff;
@@ -14,12 +16,15 @@
     --button-text: #fff;
 }
 
-
+/* Estilos generales del body */
 body {
   max-width: 100vw !important;
   overflow-x: hidden !important;
 }
 
+body.modal-open {
+  overflow: hidden;
+}
 
 /* HEADER */
 .header {
@@ -37,27 +42,27 @@ body {
 
 .catalog-header { 
   display: grid;
-  grid-template-columns: 1fr auto 1fr; /* Tres columnas: izq, centro (logo), der */
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
   background-color: rgba(10, 47, 211, 0.336);
   padding: 20px;
-  width: 700%; max-width: 1700px;
+  width: 700%; 
+  max-width: 1700px;
   border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  margin: 0 auto; /* Centra el header si el contenedor padre lo permite */
+  margin: 0 auto;
 }
 
 .logo-container { 
   display: flex;
   align-items: center;
-  gap: 0px; /* Da un pequeño espacio entre el logo y el texto */
-  margin-left: 530px; /* Ajusta este valor en px o % para moverlo */
-  /* También puedes usar transform */
-  transform: translateX(-520px); /* Ajusta el valor negativo para mover a la izquierda */
+  gap: 0px;
+  margin-left: auto;
+  transform: translateX(-650px);
 }
 
 .logo-img {
-  width: 90px; /* Ajusta el tamaño del logo */
+  width: 90px;
   height: auto;
 }
 
@@ -66,94 +71,124 @@ body {
   font-weight: bold;
   color: #000000;
   text-transform: uppercase;
-  margin: 0; /* Evita espacios innecesarios */
+  margin: 0;
 }
 
-  
-
 .search-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0px; /* Espacio entre el icono y la barra */
-    position: relative; /* Permite usar top, left, right, bottom */
-    left: 100px; /* Mueve todo el contenedor a la derecha */
-    top: 0px; /* Mueve hacia abajo */
-  }
-  
-  .search-icon {
-    position: absolute;
-    left: -560px; /* Ajusta la posición horizontal del icono */
-    top: 50%;
-    transform: translateY(-55%); /* Centra verticalmente */
-    cursor: pointer; /* Cambia el cursor al pasar por encima */
-    font-size: 1.2rem; /* Ajusta el tamaño del icono */
-  }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  max-width: 600px;
+  padding: 8px;
+  background: white;
+  border-radius: 15px;
+  position: absolute;
+  right: 50%;
+  transform: translateX(50%);
+  z-index: 10;
+  box-sizing: border-box;
+}
 
 .search-bar {
-    width: 800px;    /* Ajusta el ancho según necesites */
-    max-width: 100%; /* Evita que se desborde en pantallas pequeñas */
-    padding: 0.8rem 1rem;
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    font-size: 1rem;
-  
-    /* Propiedades adicionales */
-    margin: 0 auto;         /* Centra horizontalmente */
-    display: block;         /* Asegura que el margen auto funcione */
-    text-align: left;       /* Alineación del texto */
-    position: relative;     /* Permite mover con left y right */
-    left: auto;             /* Mueve la barra 50px a la derecha */
-    right: 520px;            /* Asegura que no haya un desplazamiento no deseado */
-  }
-  
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  background-color: white;
+}
 
-/* PRODUCT GRID */
+.search-icon {
+    position: absolute;
+    left: 100px;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    margin: 0 auto;
+    display: block;
+    text-align: left;
+    position: relative;
+    left: auto;
+    right: 40px;
+}
+
+/* CATÁLOGO */
 .catalog {
-  margin-left: 0; /* Elimina el margen fijo */
+  margin-left: 0;
   padding: 20px 5%;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Columnas dinámicas */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 25px;
 }
 
-
-.product-grid {
+.catalog-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.5rem;
-  width: 100%;
-  max-width: 1400px; /* Ajusta según tu preferencia */
+  grid-template-columns: 250px 1fr;
+  gap: 50px;
+  padding-top: 40px;
 }
 
-.product-card {
+/* PRODUCT GRID */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /* Columnas dinámicas */
+    gap: 1.5rem; /* Espacio entre productos */
+    width: 100%;
+    max-width: 1400px; /* Ancho máximo */
+    margin: 0 auto; /* Centrar el contenedor */
+    padding: 20px; /* Espaciado interno */
+    box-sizing: border-box; /* Incluir padding en el ancho */
+  }
+
+  .product-grid p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    grid-column: 1 / -1; /* Ocupar todas las columnas */
+  }
+
+  .product-card {
     background: var(--primary);
     border-radius: var(--radius);
     overflow: hidden;
     box-shadow: 0 2px 8px var(--shadow);
-    transition: 0.3s;
+    transition: transform 0.3s, box-shadow 0.3s;
     position: relative;
-}
-
-.product-card:hover {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .product-card:hover {
     transform: translateY(-5px);
-}
-
-.product-img {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-img {
     width: 100%;
-    aspect-ratio: 3/4;
+    aspect-ratio: 3/4; /* Relación de aspecto */
+    object-fit: cover; /* Ajustar la imagen */
     background: var(--secondary);
-}
-
-.product-info {
+  }
+  
+  .product-info {
     padding: 1rem;
-}
-
-.product-title {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .product-title {
     font-size: 1rem;
     font-weight: 600;
     color: var(--text-primary);
-}
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-price {
+    font-weight: 700;
+    color: var(--text-primary);
+  }
 
 .product-price {
     font-weight: 700;
@@ -215,20 +250,19 @@ body {
 }
 
 /* Ordenar */
-
 .sort-dropdown {
   display: flex;
   align-items: center;
-  gap: 8px; /* Espaciado entre icono y selector */
-  background: #f9f9f9; /* Color de fondo */
+  gap: 8px;
+  background: #f9f9f9;
   padding: 8px 12px;
-  border-radius: 8px; /* Bordes redondeados */
-  border: 1px solid #ccc; /* Borde ligero */
+  border-radius: 8px;
+  border: 1px solid #ccc;
 }
 
 .sort-icon {
-  font-size: 1rem; /* Tamaño del icono */
-  color: #333; /* Color del icono */
+  font-size: 1rem;
+  color: #333;
 }
 
 .sort-select {
@@ -241,49 +275,12 @@ body {
   outline: none;
 }
 
-/* Cambia el fondo al pasar el mouse */
 .sort-select:hover {
   background: #eee;
 }
 
-/* Agrega un efecto de sombra sutil */
 .sort-dropdown:hover {
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-}
-
-
-/* Grid de productos */
-.product-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 15px;
-}
-
-.product-card {
-    background: white;
-    padding: 15px;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    position: relative;
-}
-
-.product-card img {
-    width: 100%;
-    border-radius: 8px;
-}
-
-.product-card h3 {
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 10px;
-}
-
-.product-card p {
-    font-size: 14px;
-    text-align: center;
-    color: #666;
 }
 
 /* Barra lateral */
@@ -298,14 +295,6 @@ body {
 .catalog-content {
     display: flex;
     flex-direction: column;
-}
-
-/* Estilos generales */
-.catalog-container {
-  display: grid;
-  grid-template-columns: 250px 1fr; /* Sidebar y contenido */
-  gap: 50px; /* Separación entre columnas */
-  padding-top: 40px; /* Compensa el header fijo */
 }
 
 /* Animaciones */
@@ -341,7 +330,6 @@ body {
     color: var(--text-secondary);
 }
 
-
 /* Estilos de la sección de pie de página */
 .footer {
     background: var(--primary);
@@ -355,14 +343,7 @@ body {
     margin: 0;
 }
 
-
-
-/* Asegura que el body no se desplace cuando el modal está abierto */
-body.modal-open {
-  overflow: hidden;
-}
-
-/* Fondo oscuro del modal */
+/* Modal */
 .modal-overlay {
   position: fixed;
   top: 0;
@@ -373,36 +354,32 @@ body.modal-open {
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 1000; /* Asegura que el modal esté sobre todo */
+  z-index: 1000;
 }
 
-/* Contenido del modal */
 .modal-content {
   background: white;
   padding: 20px;
   border-radius: 10px;
   max-width: 500px;
-  max-height: 80vh; /* Restringe la altura máxima */
-  overflow-y: auto; /* Permite desplazamiento solo si es necesario */
+  max-height: 80vh;
+  overflow-y: auto;
   text-align: center;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   position: relative;
 }
 
-
-
 .modal-content img {
-  max-width: 80%; /* Ajusta el tamaño de la imagen */
+  max-width: 80%;
   height: auto;
   border-radius: 5px;
   margin-top: 10px;
-  display: block; /* Asegura que no haya espacio extra */
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-
-
+/* Paginación */
 .pagination {
   display: flex;
   justify-content: center;
@@ -447,24 +424,238 @@ body.modal-open {
   color: #0056b3;
 }
 
-/* Ajustes para tabletas */
-@media (max-width: 1024px) {
-  .sidebar {
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+  body {
+      margin-top: -30px;
+      font-size: 12px;
+  }
+
+  .header {
+      padding: 0.5rem 3%;
+      flex-direction: column;
+      align-items: flex-start;
+  }
+
+  .catalog-header {
+      grid-template-columns: 1fr;
+      padding: 5px;
+      width: 100%;
+      border-radius: 15;
+  }
+
+  .logo-container {
+      margin-left: 0;
+      transform: none;
+      justify-content: flex-start;
+  }
+
+  .logo-img {
+      width: 40px;
+  }
+
+  .logo-text {
+      font-size: 1rem;
+  }
+
+  .search-container {
     display: flex;
-    overflow-x: auto;
-    white-space: nowrap;
-    gap: 10px;
-    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: none;
+    right: 0%;
+    transform: none;
+    margin: 0 auto;
+    padding: 8px;
+    background: white;
+    border-radius: 15px;
+    position: relative;
+    z-index: 10;
+  }
+
+  .search-bar {
+    width: 100%;
+    max-width: none;
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: white;
+    text-align: left;
+    margin: 0 auto;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 275px;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+  }
+
+  .sidebar {
+      display: flex;
+      flex-direction: row;
+      overflow-x: auto;
+      gap: 10px;
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 15px;
+      background: var(--primary);
+      box-shadow: 0 2px 8px var(--shadow);
+      white-space: nowrap;
+  }
+
+  .sidebar > * {
+      flex: 0 0 auto;
+      padding: 8px 12px;
+      border-radius: 20px;
+      background: #eee;
+      cursor: pointer;
+      transition: background 0.3s, transform 0.2s;
+  }
+
+  .sidebar > *:hover {
+      background: #aaacf8;
+      transform: scale(1.05);
+  }
+
+  .categories-container {
+      display: flex;
+      overflow-x: auto;
+      gap: 8px;
+      padding: 8px 0;
+      margin-bottom: 20px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--accent) var(--border);
+  }
+
+  .categories-container::-webkit-scrollbar {
+      height: 6px;
+  }
+
+  .categories-container::-webkit-scrollbar-thumb {
+      background-color: var(--accent);
+      border-radius: 4px;
+  }
+
+  .categories-container::-webkit-scrollbar-track {
+      background-color: var(--border);
   }
 
   .category {
-    display: inline-block;
-    padding: 8px 12px;
-    font-size: 14px;
+      flex: 0 0 auto;
+      padding: 8px 12px;
+      font-size: 0.8rem;
+      border-radius: 20px;
+      cursor: pointer;
+      background: #eee;
+      transition: background 0.3s, transform 0.2s;
+      white-space: nowrap;
+  }
+
+  .category:hover, 
+  .category.active {
+      background: #aaacf8;
+      font-weight: bold;
+      transform: scale(1.05);
+  }
+
+  .catalog-container {
+      grid-template-columns: 1fr;
+      gap: 10px;
+  }
+
+  .catalog {
+      padding: 10px;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
   }
 
   .product-grid {
-    grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+  }
+
+  .product-card {
+      padding: 8px;
+  }
+
+  .product-img {
+      aspect-ratio: 1/1;
+  }
+
+  .product-info {
+      padding: 0.5rem;
+  }
+
+  .product-title {
+      font-size: 0.8rem;
+  }
+
+  .product-price {
+      font-size: 0.8rem;
+  }
+
+  .banner {
+      grid-column: span 1;
+      padding: 15px;
+      border-radius: 15;
+  }
+
+  .banner h2 {
+      font-size: 1.2rem;
+  }
+
+  .banner p {
+      font-size: 0.8rem;
+  }
+
+  .banner button {
+      padding: 8px 12px;
+      font-size: 0.8rem;
+  }
+
+  .filters {
+      flex-direction: column;
+      gap: 5px;
+  }
+
+  .sort-dropdown {
+      padding: 5px 8px;
+      font-size: 0.8rem;
+  }
+
+  .sort-icon {
+      font-size: 0.8rem;
+  }
+
+  .sort-select {
+      font-size: 0.8rem;
+  }
+
+  .pagination {
+      margin-top: 15px;
+      margin-bottom: 20px;
+      gap: 5px;
+  }
+
+  .pagination-button {
+      padding: 6px 10px;
+      font-size: 0.8rem;
+  }
+
+  .pagination span {
+      padding: 5px 10px;
+      font-size: 0.8rem;
+  }
+
+  .modal-content {
+      padding: 15px;
+      max-width: 90%;
+  }
+
+  .modal-content img {
+      max-width: 90%;
   }
 }
-

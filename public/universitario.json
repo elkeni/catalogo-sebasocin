@@ -1,220 +1,7 @@
 [
   {
-    "nombre": "Plumón Para Pizarra Vinifan 123 X 4 Und",
-    "precio": "S/6.80",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-123-vinifan-x-4-20616-default-1.jpg",
-    "marca": "VINIFAN",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Incluye: 4 plumones en colores azul, rojo, negro y verde.",
-      "Ideal para pizarra acrílica.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Archivador Acordeón Beautone A4 Splendor 13 Divisiones",
-    "precio": "S/48.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/archiv-acord-a4-13div-splendor-beautone-21509-default-1.jpg",
-    "marca": "BEAUTONE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Goma En Barra Ove 21 G",
-    "precio": "S/1.80",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/o/goma-en-barra-ove-21-g-23144-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Contiene: 21 gr",
-      "Producto no tóxico",
-      "No forma grumos ni ondula el papel",
-      "Múltiples aplicaciones",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Goma En Barra Ove 36 G",
-    "precio": "S/3.10",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/o/goma-en-barra-ove-36-g-23145-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Contiene: 36 gr",
-      "Producto no tóxico",
-      "No forma grumos ni ondula el papel",
-      "Múltiples aplicaciones",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Engrapador Ove 25 Hojas Con Sacagrapas",
-    "precio": "S/9.20",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/engrapador-ove-25-hojas-con-sacagrapas-23473-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Con sacagrapas incorporado",
-      "Engrapa hasta 25 hojas",
-      "Base Antideslizante",
-      "Yunque giratorio para engrapado abierto y cerrado",
-      "Estructura metálica e inoxidable",
-      "*Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Bolígrafo Artesco Cr31 Azul X 6 Und",
-    "precio": "S/4.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-cr31-x-6-und-azul-artesco-23650-default-1.jpg",
-    "marca": "ARTESCO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Pistola De Silicona Artesco Mini 10 W",
-    "precio": "S/15.10",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pistola-de-silicona-mini-15w-artesco-24513-default-1.jpg",
-    "marca": "ARTESCO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Producto: Pistola de Silicona Artesco Mini 10 W",
-      "Material: Silicona",
-      "Potencia: 10 W",
-      "Uso: Ideal para manualidades y proyectos de arte. Puede usarse para pegar materiales como papel, cartulina, madera, entre otros",
-      "Características: Fácil de usar, secado rápido, sin olor fuerte, adecuada para uso en interiores",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Notas Adhesivas Artesco 75 X 75 Mm Colores Pastel Multicolor 500 Hojas",
-    "precio": "S/8.50",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-3x3-x5-pastel-100-hojas-artesco-25487-default-1.jpg",
-    "marca": "ARTESCO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Resaltantes y removibles.",
-      "No mancha las superficies.",
-      "Suave escritura."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Goma Líquida Ove 50 Ml",
-    "precio": "S/2.20",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/o/goma-liquida-ove-x-50-ml-28018-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Pegado fuerte y duradero.",
-      "Lavable.",
-      "Incluye tapón de seguridad para mayor precisión en su uso.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Mini Engrapador Ove Con Diseño 15 Hojas Surtido",
-    "precio": "S/5.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/engrapador-mini-ove-con-diseno-surtido-15-hojas-28237-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Engrapador de metal con cubierta plástica resistente",
-      "Color surtido",
-      "Engrapa hasta 15 hojas",
-      "*Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Tiza De Colores Ove X 12 Und",
-    "precio": "S/2.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tiza-colores-ove-caja-x-12-28685-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Tiza de colores.",
-      "Caja con 12 unidades.",
-      "*Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Lápiz Hb Artesco Mensajes Con Borrador Blíster X 4 Und",
-    "precio": "S/3.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-mensajes-hb-con-borrador-x-4-und-29483-default-1.jpg",
-    "marca": "ARTESCO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Tajador Doble De Plástico Artesco Trend Con Depósito X 1 Und",
-    "precio": "S/4.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tajador-plastico-con-deposito-doble-trend-29487-default-1.jpg",
-    "marca": "ARTESCO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Cinta Masking Tape Pegafan 1'' X 20 Yd Negro",
-    "precio": "S/2.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/masking-124mm-x-20-yds-pegafan-negro-30857-default-1.jpg",
-    "marca": "PEGAFAN",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Cola Sintética Ove Con Aplicador 60 Ml",
-    "precio": "S/1.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cola-sintetica-ove-con-aplicador-60-ml-33568-default-1.jpg",
-    "marca": "OVE",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Pegado duradero.",
-      "Con práctico dispensador para evitar manchas y/o derrames.",
-      "Lavable, no tóxico.",
-      "Contenido: 60 ml.",
-      "*Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Bolígrafo Faber Castell Trilux 032-M Surtido X 12 Und",
-    "precio": "S/9.80",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/a/faber-castell-boligrafo-032-m-trilux-x-12-surt-343211-33748-default-1.jpg",
-    "marca": "FABER CASTELL",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Bolígrafos de calidad y larga duración.",
-      "Presentación en blister con 12 und.",
-      "Tinta seca.",
-      "Cuerpo ergónómico translúcido.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Plumón Delgado Faber Castell Fiesta 45 Neón X 6 Und",
-    "precio": "S/6.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/a/faber-castell-plumon-45-x-6-neon-33823-default-1.jpg",
-    "marca": "FABER CASTELL",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Papel Fotocopia Oficio 75 G Paquete X 500 Hojas",
-    "precio": "S/15.70",
+    "precio": "S/ 15.7",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-fotoc-chamex-75gr-of-pqtx500-200-default-1.jpg",
     "marca": "CHAMEX",
     "categoria": "Sin categoría",
@@ -231,7 +18,7 @@
   },
   {
     "nombre": "Cinta Masking Tape Pegafan 3/4'' X 40 Yd",
-    "precio": "S/4.10",
+    "precio": "S/ 4.1",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/masking-34-x-40-yds-pegafan-384-default-1.jpg",
     "marca": "PEGAFAN",
     "categoria": "Sin categoría",
@@ -245,7 +32,7 @@
   },
   {
     "nombre": "Notas Adhesivas 3M Post-It 76 X 76 Mm Multicolor 500 Hojas",
-    "precio": "S/25.90",
+    "precio": "S/ 25.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/o/post-it-notas-adhesivas-654-multicolor-76mmx76mm-5-x-100-und-457-default-1.jpg",
     "marca": "3M",
     "categoria": "Sin categoría",
@@ -261,7 +48,7 @@
   },
   {
     "nombre": "Pegamento Uhu Pegalotodo N°13 60 Ml",
-    "precio": "S/8.60",
+    "precio": "S/ 8.6",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pegamento-uhu-pegalotodo-n13-x-60-ml-522-default-1.jpg",
     "marca": "UHU",
     "categoria": "Sin categoría",
@@ -277,7 +64,7 @@
   },
   {
     "nombre": "Calculadora Casio Mx-12S 12 Dígitos",
-    "precio": "S/30.90",
+    "precio": "S/ 30.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-12-digitos-mx-12s-540-default-1.jpg",
     "marca": "CASIO",
     "categoria": "Sin categoría",
@@ -291,7 +78,7 @@
   },
   {
     "nombre": "Bolígrafo Pilot Bl-G1-7 Plata",
-    "precio": "S/4.90",
+    "precio": "S/ 4.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-pilot-bl-g1-7-plata-750-default-1.jpg",
     "marca": "PILOT",
     "categoria": "Sin categoría",
@@ -305,7 +92,7 @@
   },
   {
     "nombre": "Notas Adhesivas 3M Post-It Pop Up 76 X 76 Mm Amarillo 100 Hojas",
-    "precio": "S/6.40",
+    "precio": "S/ 6.4",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/o/post-it-pop-up-amarillo-pastel-3-x-3-756-default-1.jpg",
     "marca": "3M",
     "categoria": "Sin categoría",
@@ -314,7 +101,7 @@
   },
   {
     "nombre": "Goma En Barra Faber Castell 10 G",
-    "precio": "S/1.50",
+    "precio": "S/ 1.5",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pegamento-barra-x-10gr-faber-fix-806-default-1.jpg",
     "marca": "FABER CASTELL",
     "categoria": "Sin categoría",
@@ -324,6 +111,1415 @@
       "Tapa hermética, evita secarse.",
       "No tóxico.",
       "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "File Manila Grafipapel A4 Paquete X 25 Und",
+    "precio": "S/ 9.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/i/file-manila-a4-grafip-916-default-1.jpg",
+    "marca": "GRAFIPAPEL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpeta Para Precio Beautone A4 Negro 80 Hojas",
+    "precio": "S/ 49.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpeta-a-4-para-precio-80-hojas-negro-935-default-1.jpg",
+    "marca": "BEAUTONE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Científica Casio Fx-82Ms-2",
+    "precio": "S/ 53.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-cientifica-casio-fx-82ms-1003-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cálculos fraccionarios",
+      "Combinación y permutación",
+      "9 variable",
+      "Estadísticas básicas",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora De Escritorio Casio Ms-80S/B/F",
+    "precio": "S/ 42.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-8-digitos-ms-80-s-1027-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cálculo básico",
+      "Pulsación simultánea de teclas",
+      "Cambio de signo (＋/－)",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Corrector Tipo Lapicero Faber Castell Punta Metálica",
+    "precio": "S/ 1.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/a/faber-castell-corrector-para-lapicero-1104-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Corrector tipo lapicero de cuerpo blando de fácil presión",
+      "Suave olor y rápido secado",
+      "Con punta metálica",
+      "No contiene tricloroetano",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sobre Manila Graphos Radiográfico A3 Paquete X 50 Und",
+    "precio": "S/ 50.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sobre-manila-radiografico-a-3-pack-x-50-1390-default-1.jpg",
+    "marca": "GRAPHOS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño A3, adecuado para documentos y radiografías grandes.",
+      "Material manila de alta calidad y durabilidad.",
+      "Incluye 50 sobres por paquete.",
+      "Perfecto para oficinas, clínicas o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pizarra De Corcho Importada 0.60 X 0.90 M",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pizarra-de-corcho-060-x-090-mt-1466-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sobre Manila Graphos Pago Paquete X 50 Und",
+    "precio": "S/ 4.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sobre-manila-pago-pack-x-50-1576-default-1.jpg",
+    "marca": "GRAPHOS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño pago, perfecto para documentos pequeños.",
+      "Fabricados en material manila de alta calidad.",
+      "Incluye 50 sobres por paquete.",
+      "Ideal para oficinas, negocios o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pizarra De Corcho Importada 0.80 X 1.20 M",
+    "precio": "S/ 173.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pizarra-de-corcho-080-x-120-mt-1633-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes 38 X 50 Mm Colores Pastel 200 Hojas",
+    "precio": "S/ 5.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-15x2-200h-colores-pasteles-1751-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tijera Wex 7 1/2'' X 1 Und",
+    "precio": "S/ 12.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tijera-7-12-pulgadas-1869-default-1.jpg",
+    "marca": "WEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cola Artesco Con Aplicador 57 G",
+    "precio": "S/ 2.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cola-x-2-onz57gr-con-dosificador-2035-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Frasco con tapa dosificador de fácil aplicación.",
+      "Lavable y no es toxica.",
+      "Contiene: 2 onzas o 57 gramos aprox."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Archivador Acordeón Beautone A4 Spectra 13 Divisiones",
+    "precio": "S/ 29.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/archivador-acordeon-a-4-spectra-2113-default-1.jpg",
+    "marca": "BEAUTONE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Archivador Acordeón Beautone A4 Spectra 13 Divisiones, ideal para organizar documentos de manera eficiente y ordenada.",
+      "Tamaño A4, adecuado para almacenar y clasificar documentos de tamaño estándar en oficinas, hogares o estudios.",
+      "13 divisiones, que permiten una clasificación organizada y fácil acceso a los documentos más importantes.",
+      "Material resistente y duradero, ideal para el uso diario y para mantener tus documentos seguros y bien organizados.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Goma En Barra Artesco 21 G",
+    "precio": "S/ 2.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pegamento-barra-x-21gr-artesco-2173-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pegamento en barra de 21gr. en envase cilíndrico de plástico.",
+      "Base giratoria y tapa hermética.",
+      "No forma grumos.",
+      "Pega rápido y duradero.",
+      "No tóxico.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tajador Maped Shaker Con 1 Orificio X 1 Und",
+    "precio": "S/ 2.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tajador-shaker-1orif-2228-default-1.jpg",
+    "marca": "MAPED",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tajador MAPED Shaker Con 1 Orificio x 1 und, ideal para usar en la escuela, oficina o en el hogar.",
+      "Cuenta con un recipiente para almacenar las virutas de lápiz, manteniendo el espacio limpio y ordenado.",
+      "Fabricado con materiales duraderos y resistentes, asegurando un uso prolongado.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tajador De Metal Artesco Con Depósito Cilíndrico",
+    "precio": "S/ 4.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tajador-de-metal-con-deposito-2526-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tijera Artesco 8'' X 1 Und",
+    "precio": "S/ 5.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tijera-8-artesco-2608-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño universal para diestros y zurdos.",
+      "Cuchillas inoxidables.",
+      "Mango plástico resistente y durable.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador De Metal Faber Castell U40 40 Hojas",
+    "precio": "S/ 38.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/a/faber-castell-perforador-40-hojas-2655-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: U-40",
+      "Ideal para oficinas y profesionales que requieren precisión y eficiencia",
+      "Diseño ergonómico que facilita el uso prolongado sin esfuerzo",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silicona En Barra Delgada Ove X 6 Und",
+    "precio": "S/ 6.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silicona-en-barra-ove-delgado-x-6-und-2980-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para uso en pistolas para silicona",
+      "Adhesivo tipo hot melt (termofusible)",
+      "Paquete de 6 barras delgadas",
+      "Recomendado para trabajos manuales, artesanías, tapicerías, entre otros",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silicona En Barra Gruesa Ove X 6 Und",
+    "precio": "S/ 11.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silicona-en-barra-ove-grueso-x-6-und-2981-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para uso en pistolas para silicona",
+      "Adhesivo tipo hot melt (termofusible)",
+      "Paquete de 6 barras gruesas",
+      "Recomendado para trabajos manuales, artesanías, tapicerías, entre otros",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Delgado Artesco Max 45 X 12 Und",
+    "precio": "S/ 5.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumones-delgados-max-45-x-12-artesco-3326-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Borrador Blanco Grande Stabilo X 2 Und",
+    "precio": "S/ 5.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/borrador-stabilo-blanco-x-2-unidades-3518-default-1.jpg",
+    "marca": "STABILO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lápiz 2B Artesco Fantasía Caja X 12 Und",
+    "precio": "S/ 6.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-escolar-fantasia-2b-caja-x-12-und-4109-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mina de grafito mucho más resistente.",
+      "Con borrador de vinil incorporado.",
+      "12 Foils con diseños súper divertidos.",
+      "Cubierta externa del cuerpo con 12 diseños súper divertidos.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Mx-8B 8 Dígitos",
+    "precio": "S/ 25.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-8-digitos-mx-8b-4936-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: MX-8S(B)",
+      "Tipo compacta de escritorio",
+      "Pantalla extra grande",
+      "Energía solar + Pila",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tajador De Plástico Kum Neón Con Depósito Cilíndrico X 1 Und",
+    "precio": "S/ 8.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/k/u/kum-tajador-plastico-con-deposito-neon-1870k1icea-5379-default-1.jpg",
+    "marca": "KUM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tajador De Plástico Kum Neón Con Depósito Cilíndrico X 1 Und, ideal para uso escolar, oficina o personal.",
+      "Diseño ergonómico, cómodo de usar, con colores neón vibrantes que facilitan su identificación.",
+      "Hecho de plástico duradero, resistente a golpes y fácil de limpiar.",
+      "Ideal para estudiantes, profesionales y artistas que necesitan un tajador de alto rendimiento y práctico.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lápiz 2Hb Amarillo Artesco Blíster X 3 Und + Borrador + Tajador",
+    "precio": "S/ 4.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-triangular-amarillo-2hb-x-borrador-blanco-chico-tajador-metalico-simple-artesco-5485-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mina de grafito resistente.",
+      "Cuerpo diseño triangular ergonómico para su mejor sujeción.",
+      "3 lápices 2HB.",
+      "1 borrador chico blanco.",
+      "1 tajador.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "File Beautone Modelo Ordenador A4 Colores Surtidos",
+    "precio": "S/ 15.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/i/file-modelo-ordenador-a-4-colores-surtidos-5790-default-1.jpg",
+    "marca": "BEAUTONE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Grueso Arti Creativo Mamut Estuche X 12 Und",
+    "precio": "S/ 10.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/arti-creativo-plumon-x12-jumbo-mamut-tac312-6309-default-1.jpg",
+    "marca": "ARTI CREATIVO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Punta super jumbo",
+      "Presentación: Estuche x 12 unidades",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Para Pizarra Vinifan 123 X 4 Und",
+    "precio": "S/ 6.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-123-vinifan-x-4-20616-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Incluye: 4 plumones en colores azul, rojo, negro y verde.",
+      "Ideal para pizarra acrílica.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Archivador Acordeón Beautone A4 Splendor 13 Divisiones",
+    "precio": "S/ 48.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/archiv-acord-a4-13div-splendor-beautone-21509-default-1.jpg",
+    "marca": "BEAUTONE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Goma En Barra Ove 21 G",
+    "precio": "S/ 1.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/o/goma-en-barra-ove-21-g-23144-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 21 gr",
+      "Producto no tóxico",
+      "No forma grumos ni ondula el papel",
+      "Múltiples aplicaciones",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Goma En Barra Ove 36 G",
+    "precio": "S/ 3.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/o/goma-en-barra-ove-36-g-23145-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 36 gr",
+      "Producto no tóxico",
+      "No forma grumos ni ondula el papel",
+      "Múltiples aplicaciones",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Engrapador Ove 25 Hojas Con Sacagrapas",
+    "precio": "S/ 11",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/engrapador-ove-25-hojas-con-sacagrapas-23473-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Con sacagrapas incorporado",
+      "Engrapa hasta 25 hojas",
+      "Base Antideslizante",
+      "Yunque giratorio para engrapado abierto y cerrado",
+      "Estructura metálica e inoxidable",
+      "*Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Artesco Cr31 Azul X 6 Und",
+    "precio": "S/ 4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-cr31-x-6-und-azul-artesco-23650-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pistola De Silicona Artesco Mini 10 W",
+    "precio": "S/ 15.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pistola-de-silicona-mini-15w-artesco-24513-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Producto: Pistola de Silicona Artesco Mini 10 W",
+      "Material: Silicona",
+      "Potencia: 10 W",
+      "Uso: Ideal para manualidades y proyectos de arte. Puede usarse para pegar materiales como papel, cartulina, madera, entre otros",
+      "Características: Fácil de usar, secado rápido, sin olor fuerte, adecuada para uso en interiores",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Goma Líquida Ove 50 Ml",
+    "precio": "S/ 2.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/o/goma-liquida-ove-x-50-ml-28018-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pegado fuerte y duradero.",
+      "Lavable.",
+      "Incluye tapón de seguridad para mayor precisión en su uso.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mini Engrapador Ove Con Diseño 15 Hojas Surtido",
+    "precio": "S/ 5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/engrapador-mini-ove-con-diseno-surtido-15-hojas-28237-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Engrapador de metal con cubierta plástica resistente",
+      "Color surtido",
+      "Engrapa hasta 15 hojas",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tiza De Colores Ove X 12 Und",
+    "precio": "S/ 2.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tiza-colores-ove-caja-x-12-28685-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tiza de colores.",
+      "Caja con 12 unidades.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tajador Doble De Plástico Artesco Trend Con Depósito X 1 Und",
+    "precio": "S/ 4.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tajador-plastico-con-deposito-doble-trend-29487-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cinta Masking Tape Pegafan 1'' X 20 Yd Negro",
+    "precio": "S/ 2.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/masking-124mm-x-20-yds-pegafan-negro-30857-default-1.jpg",
+    "marca": "PEGAFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cola Sintética Ove Con Aplicador 60 Ml",
+    "precio": "S/ 1.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cola-sintetica-ove-con-aplicador-60-ml-33568-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pegado duradero.",
+      "Con práctico dispensador para evitar manchas y/o derrames.",
+      "Lavable, no tóxico.",
+      "Contenido: 60 ml.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Delgado Faber Castell Fiesta 45 Neón X 6 Und",
+    "precio": "S/ 6.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/a/faber-castell-plumon-45-x-6-neon-33823-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mota Box Para Pizarra Artesco",
+    "precio": "S/ 7.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mota-box-1085-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Ms-7Uc Azul",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-ms-7uc-azul-44596001-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Azul",
+      "Tipo mini-escritorio",
+      "Marcadores de coma cada 3 dígitos",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Ms-7Uc-Pk Rosa",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-ms-7uc-rosado-44596002-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Rosa",
+      "Tipo mini-escritorio",
+      "Marcadores de coma cada 3 dígitos",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Para Pizarra Faber Castell 123R Punta Gruesa Verde",
+    "precio": "S/ 5.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-123r-verde-ppizarra-punta-gruesa-faber-castell-41764004-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Faber Castell Power Gel 065 Azul X 1 Und",
+    "precio": "S/ 5.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-power-gel-065-azul-x1-faber-castell-41152001-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rotulador Stabilo Extrafino 88 Estuche X 8 Und",
+    "precio": "S/ 23.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/o/rotulador-extrafino-88-estuche-x-8-30262003-default-1.jpg",
+    "marca": "STABILO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Grueso Artesco Duo Color 47 X 6 Und",
+    "precio": "S/ 9.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-duo-color-x-6-artesco-29883-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Escolar Artesco M-01 11 Hojas Negro",
+    "precio": "S/ 7.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-artesco-11h-escolar-m-01-negro-28700002-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Artesco M-608 Colors 20 Hojas Rosado",
+    "precio": "S/ 15.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-artesco-20h-colors-m-608-rosado-28701002-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Artesco M-608 Colors 20 Hojas Verde",
+    "precio": "S/ 15.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-artesco-20h-colors-m-608-verde-28701003-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador De Metal Faber Castell U25-P 25 Hojas Plateado",
+    "precio": "S/ 23.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-fab-25h-metal-plateado-u25-p-11883-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes 38 X 51 Mm Colores Pasteles 1200 Hojas",
+    "precio": "S/ 22.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-ad-15x2-past-x1200h-stickn-4col-9539-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tajador De Metal Ove Doble Surtido",
+    "precio": "S/ 3.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tajador-metalico-doble-ove-colors-x-1-und-37252-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Metal.",
+      "Doble orificio.",
+      "Afila lápices eficientemente",
+      "Disponible en 5 colores: Azul, fucsia, verde, morado y plateado.",
+      "Presentación: Blíster x 1 unidad.",
+      "*Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Indeleble Delgado Vinifan Best Color 420 X 12 Und",
+    "precio": "S/ 19.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-vinifan-420-best-color-x-12-36800-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta permanente.",
+      "Para superficies como madera, vidrio, plástico, metal y cartón.",
+      "Punta delgada de máxima resistencia.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Grueso Vinifan Children 47 Estuche Zipper X 12 Und",
+    "precio": "S/ 13.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-vinifan-47x12-children-est-zipper-29147-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Pilot Frixion Point Blfrp5 Negro + Repuesto",
+    "precio": "S/ 14.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-pilot-frix-point-blfrp5-ngorptox1-26410003-default-1.jpg",
+    "marca": "PILOT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Pilot Frixion Point Blfrp5 Rojo + Repuesto",
+    "precio": "S/ 14.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-pilot-frix-point-blfrp5-rjorptox1-26410004-default-1.jpg",
+    "marca": "PILOT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes 76 X 51 Mm Amarillo 100 Hojas",
+    "precio": "S/ 1.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-stickn-3x2-amarillo-x100-16239001-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Ove 10 Mm Forma Trébol Surtido",
+    "precio": "S/ 2.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-ove-10mm-diseno-trebol-surtido-x-1-und-16339008-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño: Trébol.",
+      "Tamaño: Pequeño.",
+      "Con perforación de 10 mm.",
+      "Colores disponibles: Celeste, morado, rosado o verde.",
+      "Perfora papel, cartulina y microporoso delgado.",
+      "Presentación: 1 unidad.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Ove 10 Mm Forma Pétalos Surtido",
+    "precio": "S/ 2.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-ove-10mm-diseno-petalos-surtido-x-1-und-16339009-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño: Pétalos.",
+      "Tamaño: Pequeño.",
+      "Con perforación de 10 mm.",
+      "Colores disponibles: Celeste, morado, rosado o verde.",
+      "Perfora papel, cartulina y microporoso delgado.",
+      "Presentación: 1 unidad.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "File Manila Pagoda A4 Lila Paquete X 25 Und",
+    "precio": "S/ 15.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/i/file-manila-a4-lila-pagoda-pqx25-22695004-default-1.jpg",
+    "marca": "PAGODA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Banderitas Adhesivas Artesco Pop Up Naranja Neón 50 Hojas",
+    "precio": "S/ 5.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/banderit-artesco-pop-up-nara-neon-x-50h-29903002-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación con 50 hojas.",
+      "Adhesivos más resistentes.",
+      "Material translúcido.",
+      "Incluye práctico dispensador.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Banderitas Adhesivas Artesco Pop Up Verde Neón 50 Hojas",
+    "precio": "S/ 5.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/banderit-artesco-pop-up-verde-neon-x-50h-29903004-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación con 50 hojas.",
+      "Adhesivos más resistentes.",
+      "Material translúcido.",
+      "Incluye práctico dispensador.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Ove 2'' Forma Estrella Surtido",
+    "precio": "S/ 29.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-ove-2-formas-estrella-32610002-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación x1 unidad",
+      "Diseño: Estrella",
+      "Tamaño grande",
+      "Con perforación de 2\"",
+      "Colores disponibles: Celeste, morado, rosado o verde",
+      "Perfora papel, cartulina y microporoso delgado",
+      "Dale vida a tu hojas con el perforador OVE con formas",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perforador Ove 2'' Forma Sol Surtido",
+    "precio": "S/ 29.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perforador-ove-2-diseno-sol-x-1-und-32610003-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño: Sol",
+      "Tamaño: Grande",
+      "Con perforación de 2\".",
+      "Colores disponibles: Celeste, morado y verde.",
+      "Perfora papel, cartulina y microporoso delgado.",
+      "Presentación: 1 unidad.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpeta Faber Castell Pocket A4 Gris X 10 Bolsillos",
+    "precio": "S/ 7.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpeta-pocket-fold-a4-10-bol-fab-gris-35076002-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño A - 4",
+      "Material Plástico",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Banderitas Adhesivas 3M Post-It 25.4 X 43.2 Mm Verde 50 Hojas",
+    "precio": "S/ 8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/banderit-post-it-680-3-verde-3m-15685003-default-1.jpg",
+    "marca": "3M",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Cuadriculado Loro A4 100 Hojas",
+    "precio": "S/ 7.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-a4-100h-cuadr-dis-loro-15689001-default-1.jpg",
+    "marca": "LORO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpeta Para Precio Beautone A4 Con Carátula Negro X 20 Fundas",
+    "precio": "S/ 18.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpeta-a4-pprec-ccarat-20h-negr-beaut-15880002-default-1.jpg",
+    "marca": "BEAUTONE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño: A - 4",
+      "Capacidad 20 Hojas",
+      "Presentación x1 unidad",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cinta Adhesiva Shurtape Transparente 3/4'' X 36 Yd",
+    "precio": "S/ 1.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/i/cinta-adhesiva-shurt-34x-36-yds-transp-15951002-default-1.jpg",
+    "marca": "SHURTAPE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sobre Manila Gallo 1/2 Oficio Paquete X 50 Und",
+    "precio": "S/ 9.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sobre-manila-12-oficio-gallo-pqx50-737-default-1.jpg",
+    "marca": "GALLO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño 1/2 oficio, adecuado para documentos medianos.",
+      "Fabricado en material manila de alta calidad y durabilidad.",
+      "Incluye 50 sobres por paquete.",
+      "Perfecto para oficinas, negocios o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cinta Masking Tape Shurtape 1/2'' X 40 Yd",
+    "precio": "S/ 2.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/masking-12-x-40-yds-shurtape-1129-default-1.jpg",
+    "marca": "SHURTAPE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Shurtape",
+      "Medida: 1/2 x 40",
+      "Buena adhesión en diferentes superficies.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Carpeta Data Office Lever Clip A4 Con Doble Sujetador Negro",
+    "precio": "S/ 19.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carpeta-a4-lever-clip-dob-suj-ng-data-of-1955-default-1.jpg",
+    "marca": "DATA OFFICE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lápiz 2Hb Vinifan Trendy Boys Con Borrador Caja X 12 Und",
+    "precio": "S/ 7.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-trendy-boys-2hb-cb-cax12-vinifan-43407-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en caja x12 unidades.",
+      "Diseños divertidos.",
+      "Con borrador.",
+      "No Tóxico.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lápiz 2Hb Vinifan Trendy Girls Con Borrador Caja X 12 Und",
+    "precio": "S/ 7.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-trendy-girls-2hb-cb-cax12-vinifan-43408-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en caja x12 unidades.",
+      "Diseños divertidos.",
+      "Con borrador.",
+      "No Tóxico.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Index Tipo Banderitas Stick'N Notes Pop Up Formato Flecha 150 Hojas",
+    "precio": "S/ 12",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/n/index-tbander-flecha-pop-up-x-150h-5515-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes 21533 51 X 51 Mm 250 Hojas Surtido",
+    "precio": "S/ 5.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-2x2-x250h-surtido-stickn-12369-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Index Tipo Banderitas Stick'N Notes Pop Up Lite 60 Hojas",
+    "precio": "S/ 7.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/n/index-tbander-pop-lite-x-60h-21986-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cuaderno Cuadriculado Anillado Justus A4 Sólido Tapa Dura Surtido 100 Hojas",
+    "precio": "S/ 8.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/u/cuaderno-anillado-cuadriculado-justus-a4-solido-100-hojas-33791-default-1.jpg",
+    "marca": "JUSTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cuaderno anillado",
+      "Tamaño: A - 4",
+      "Número de hojas: 100 Hojas",
+      "Tipo de lineado: Cuadriculado",
+      "Marca: Justus",
+      "Imágenes referenciales\n\n*El producto corresponde a un código surtido, se vende cada producto por unidad al precio publicado y sólo se entregará al azar según stock."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "File Manila Gallo A4 Paquete X 25 Und",
+    "precio": "S/ 7.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/i/file-manila-a4-gallo-pqtx25-34749-default-1.jpg",
+    "marca": "GALLO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes 76 X 76 Mm Kraft 400 Hojas + Pallet",
+    "precio": "S/ 22.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-3x3-kraft-400h-pallet-stick-38238-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Escarchado Jovi Estuche X 8 Und",
+    "precio": "S/ 32.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/s/estuche-de-rotuladores-jovi-glitter-colores-surtidos-8-unidades-38501-default-1.jpg",
+    "marca": "JOVI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 8 x 1 x 19 cm",
+      "Peso neto: 0,65 gr",
+      "Contiene: rotuladores",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sobre Bond Grafipapel Extra Oficio 90 G Paquete X 50 Und",
+    "precio": "S/ 27.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sobre-bond-90g-ex-of-grafip-pqx50-5445-default-1.jpg",
+    "marca": "GRAFIPAPEL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Papel bond de 90 g, resistente y duradero.",
+      "Tamaño extra oficio, ideal para documentos grandes.",
+      "Incluye 50 sobres por paquete.",
+      "Perfecto para oficinas o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Jumbo Faber Castell 47 Amarillo X 1 Und",
+    "precio": "S/ 3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-fab-47-jumbo-cj-vde-ama-16460001-default-2.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Punta Jumbo redondeada",
+      "Tinta no tóxica a base de agua",
+      "Punta de 3,6mm",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Para Pizarra Faber Castell 123 Punta Gruesa Naranja",
+    "precio": "S/ 4.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-faber-castell-123-naranja-pizar-pgruesa-16444004-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Indeleble Delgado Faber Castell Multimark 27 Negro",
+    "precio": "S/ 4.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-faber-castell-27-negro-multimark-16452002-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Resistente al agua y a la luz.",
+      "Excelente adherencia en la mayoría de superficies.",
+      "Punta media de 1,0 mm."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Resaltador Faber Castell Textliner Ice 1546 Naranja",
+    "precio": "S/ 2.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-faber-castell-48-ice1546-naranja-16464002-default-2.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color naranja brillante, ideal para resaltar de manera destacada.",
+      "Tamaño compacto, fácil de manejar y almacenar.",
+      "Perfecto para oficina, estudio o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Indeleble Delgado Ove Dúo Rojo",
+    "precio": "S/ 1.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-indeleble-ove-duo-rojo-16497003-default-1.jpg",
+    "marca": "OVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marcador permanente",
+      "Punta gruesa y punta delgada.",
+      "Color: Rojo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Resaltador Vinifan High Brilliant 46 Amarillo",
+    "precio": "S/ 1.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/resaltador-46-vinifan-amarillo-16568001-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color amarillo brillante, ideal para resaltar con claridad.",
+      "Tamaño compacto, fácil de manejar y almacenar.",
+      "Perfecto para oficina, estudio o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Resaltador Vinifan High Brilliant 46 Celeste",
+    "precio": "S/ 1.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/resaltador-46-vinifan-celeste-16568002-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color celeste brillante, ideal para resaltar de manera clara.",
+      "Tamaño compacto, fácil de manejar y almacenar.",
+      "Perfecto para oficina, estudio o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Resaltador Vinifan High Brilliant 46 Morado",
+    "precio": "S/ 1.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/resaltador-46-vinifan-morado-16568003-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color morado brillante, ideal para resaltar con claridad.",
+      "Tamaño compacto, fácil de manejar y almacenar.",
+      "Perfecto para oficina, estudio o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Resaltador Vinifan High Brilliant 46 Verde",
+    "precio": "S/ 1.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/resaltador-46-vinifan-verde-16568006-default-1.jpg",
+    "marca": "VINIFAN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color verde, ideal para resaltar de manera brillante.",
+      "Tamaño compacto, fácil de manejar y almacenar.",
+      "Perfecto para oficina, estudio o uso personal.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plumón Jumbo Faber Castell Winner 47 Violeta X 1 Und",
+    "precio": "S/ 1.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plumon-faber-castell-47-winner-cj-roja-violeta-29977012-default-2.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes Diseño Corazón 250 Hojas",
+    "precio": "S/ 13.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-stickn-diseno-corazon-x250-5253-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes Diseño Circular 250 Hojas",
+    "precio": "S/ 13.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-motiv-circular-x250h-stickn-21358-5256-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Hojas: 250 hojas.",
+      "Medida aproximada: 67 x 67 mm.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Faber Castell 032-M Trilux Celeste",
+    "precio": "S/ 1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-faber-castell-032-m-trilux-celeste-6528-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Faber Castell 032-M Trilux Verde Limón",
+    "precio": "S/ 1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-faber-castell-032-m-trilux-verde-limon-6531-default-1.jpg",
+    "marca": "FABER CASTELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Notas Adhesivas Stick'N Notes Magic 150 X 101 Mm Rayado Colores Pastel 90 Hojas",
+    "precio": "S/ 13.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/n/o/notas-adhesivas-6x4-ray-past-magic-90h-stick-21579-12373-default-1.jpg",
+    "marca": "STICK'N NOTES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Pilot Frixion Bl-Fr7 Negro",
+    "precio": "S/ 8.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-pilot-frix-blfr7-negro-15779006-default-1.jpg",
+    "marca": "PILOT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Pilot Hi Tecpoint V5 Bxgpn-V5 Con Grip Azul",
+    "precio": "S/ 9.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-pilot-hi-tecpoint-bxgpn-v5-azul-15789001-default-1.png",
+    "marca": "PILOT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta líquida.",
+      "Punta de aguja con trazo de 0.3 mm.",
+      "Grip de caucho antideslizante.",
+      "Color azul.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tajador Doble De Plástico Artesco Twister Con Depósito Surtido",
+    "precio": "S/ 3.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/artesco-tajador-plastico-dep-dob-twister-x1-41855-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rotulador Stabilo Extrafino 88 Estuche Rígido X 20 Und",
+    "precio": "S/ 87.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/o/rotulador-stabilo-extrafino-88-estuche-rigido-x-20-unidades-42794-default-1.jpg",
+    "marca": "STABILO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rotulador Stabilo Extrafino 88 Estuche Metal X 50 Und",
+    "precio": "S/ 249",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/o/rotulador-stabilo-extrafino-88-estuche-metal-x-50-unidades-42796-default-1.jpg",
+    "marca": "STABILO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Bitácora Anillado Oxford A3 90 G 90 Hojas",
+    "precio": "S/ 27",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-bitacora-a3-90-hojas-90gr-anillado-5000058-default-1.jpg",
+    "marca": "OXFORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Oxford",
+      "Block Bitacora A3",
+      "Incluye 90 hojas de 90 gr",
+      "Block anillado",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block De Papel Milimetrado A4 50 Hojas",
+    "precio": "S/ 6.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-milimetrado-en-block-a-4-50h-5000061-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sobre Manila Graphos Oficio Bolsa X 10 Und",
+    "precio": "S/ 4.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sobre-manila-oficio-graphos-5000066-default-1.jpg",
+    "marca": "GRAPHOS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Dibujo Libra Anillado De Color 20 Hojas",
+    "precio": "S/ 6.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-dibujo-con-espiral-20-hojas-de-color-libra-5000109-default-1.jpg",
+    "marca": "LIBRA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Block de dibujo con espiral",
+      "20 hojas de color Libra",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papelógrafo Blanco 61 X 86 Cm 56 G Rollo X 3 Und",
+    "precio": "S/ 1.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papelografo-blanco-56gr-61x86-plusx3-5000115-default-1.jpg",
+    "marca": "MILLENIUM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en paquete de 3 unidades.",
+      "Medidas: 61 x 86 cm.",
+      "Sin lineado.",
+      "Gramaje: 56 gr.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Archivador Acordeón Beautone A4 Negro Con 13 Divisiones",
+    "precio": "S/ 39.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/r/archivador-acordeon-a-4-con-13-divisiones-negro-15624002-default-1.jpg",
+    "marca": "BEAUTONE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Cuadriculado Justus A4 5 Perforaciones 50 Hojas",
+    "precio": "S/ 4.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-a4-50-hojas-cuadriculado-diseno-justus-15692001-default-1.jpg",
+    "marca": "JUSTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño: A4",
+      "Tipo de lineado: Cuadriculado",
+      "N° de hojas: 50",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Rayado Justus A4 5 Perforaciones 50 Hojas",
+    "precio": "S/ 4.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-a4-50-hojas-rayado-diseno-justus-15692002-default-1.jpg",
+    "marca": "JUSTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño: A4",
+      "Tipo de lineado: Rayado",
+      "N° de hojas: 50",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Triple Renglón Justus A4 5 Perforaciones 50 Hojas",
+    "precio": "S/ 4.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-a4-50-hojas-triple-renglon-diseno-justus-15692003-default-1.jpg",
+    "marca": "JUSTUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño: A4",
+      "Tipo de lineado: Triple renglón",
+      "N° de hojas: 50",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Rayado Minerva A4 2 Perforaciones 80 Hojas",
+    "precio": "S/ 6.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-a4-80-hojas-rayado-2-perforaciones-minerva-15696004-default-1.jpg",
+    "marca": "MINERVA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Block Triple Renglón Minerva A4 2 Perforaciones 80 Hojas",
+    "precio": "S/ 6.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/block-a-4-80-hojas-triple-renglon-2-perforaciones-minerva-15696006-default-1.jpg",
+    "marca": "MINERVA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolígrafo Artesco Inkorrect Negro Tinta Gel X 1 Und",
+    "precio": "S/ 4.7",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/boligrafo-inkorrect-tinta-gel-negro-x-1-und-15711002-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ideal para corregir y reescribir.",
+      "Permite borrar la tinta por fricción mediante dispositivo incluido.",
+      "Con grip de goma.",
+      "No deja manchas.",
+      "Incluye una recarga.",
+      "*Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   }

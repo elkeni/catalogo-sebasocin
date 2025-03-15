@@ -1,0 +1,108 @@
+[
+    {
+      "nombre": "Guantes Quirúrgicos Estériles de Látex Nº6",
+      "precio": "S/ 3.50",
+      "imagenURL": "https://tse1.mm.bing.net/th?id=OIP.D3pffEkLfvGVdg6j9rGXfAHaHa&pid=Api",
+      "marca": "SOLUMEDICA",
+      "categoria": "Salud y Cuidado Personal",
+      "caracteristicas": [
+        "Material: Látex natural",
+        "Tamaño: Nº6",
+        "Estériles",
+        "Uso único"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    },
+    {
+      "nombre": "Mandil Quirúrgico Descartable Notex 40 Gr",
+      "precio": "S/ 15.00",
+      "imagenURL": "https://tse4.mm.bing.net/th?id=OIP.iu92Flo_uoUdLeYB6BzXJgHaHa&pid=Api",
+      "marca": "Notex",
+      "categoria": "Salud y Cuidado Personal",
+      "caracteristicas": [
+        "Material: Tela no tejida de 40 gramos",
+        "Talla: Única",
+        "Color: Azul",
+        "Pack de 5 unidades"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    },
+    {
+      "nombre": "Gorros Quirúrgicos Descartables",
+      "precio": "S/ 0.80",
+      "imagenURL": "https://tse3.mm.bing.net/th?id=OIP.BfXCh0ki8R7Z4lydc_dzhgHaIB&pid=Api",
+      "marca": "Damarys",
+      "categoria": "Salud y Cuidado Personal",
+      "caracteristicas": [
+        "Material: Polipropileno",
+        "Talla: Única",
+        "Color: Azul",
+        "Uso único"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    },
+    {
+      "nombre": "Lapicero Retráctil Kilométrico 100",
+      "precio": "S/ 1.20",
+      "imagenURL": "https://tse1.mm.bing.net/th?id=OIP.eGSPj095KCnqKEM3tcU6WwHaHa&pid=Api",
+      "marca": "Kilométrico",
+      "categoria": "Útiles Escolares",
+      "caracteristicas": [
+        "Tipo: Retráctil",
+        "Color de tinta: Azul",
+        "Punta: 1.0 mm",
+        "Escritura suave"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    },
+    {
+      "nombre": "Borradores de Lápiz Neón (Pack de 12)",
+      "precio": "S/ 5.00",
+      "imagenURL": "https://tse3.mm.bing.net/th?id=OIP.w9qtiXXlhhgHYU76m8hGUQHaHa&pid=Api",
+      "marca": "Mr. Pen",
+      "categoria": "Útiles Escolares",
+      "caracteristicas": [
+        "Colores: Neón surtidos",
+        "Cantidad: 12 unidades",
+        "Material: Goma de alta calidad",
+        "No deja residuos"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    },
+    {
+      "nombre": "Tijeras Expert FS",
+      "precio": "S/ 8.50",
+      "imagenURL": "https://tse2.mm.bing.net/th?id=OIP.T7l8vkgNaD1Gf6XcG8sVugHaHa&pid=Api",
+      "marca": "Bahco",
+      "categoria": "Útiles Escolares",
+      "caracteristicas": [
+        "Tamaño: 6 pulgadas",
+        "Material: Acero inoxidable",
+        "Mango ergonómico",
+        "Aptas para uso escolar y oficina"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    },
+    {
+      "nombre": "Folder Tamaño Oficio Oxford (Paquete de 100)",
+      "precio": "S/ 25.00",
+      "imagenURL": "https://tse2.mm.bing.net/th?id=OIP.dFiKvW4CxL0jkBB8c6g4mAHaHa&pid=Api",
+      "marca": "Oxford",
+      "categoria": "Oficina",
+      "caracteristicas": [
+        "Tamaño: Oficio",
+        "Material: Cartulina manila",
+        "Color: Amarillo",
+        "Paquete de 100 unidades"
+      ],
+      "disponibilidad": "En stock",
+      "destacado": true
+    }
+  ]
+  

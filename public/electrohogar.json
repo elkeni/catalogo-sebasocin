@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Recortador De Cabello Deluxe Groom Pro",
-    "precio": "S/199.90",
+    "precio": "S/ 199.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/recortador-de-cabello-deluxe-groom-pr0-wahl-79305-3618-48892-default-1.jpg",
     "marca": "WAHL",
     "categoria": "Sin categoría",
@@ -19,97 +19,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Aspiradora Multifuncional Pro Blanca Deerma Dx700",
-    "precio": "S/199.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-inalambrica-negro-edition-deerma-vc03s-68733-default-1.jpg",
-    "marca": "DEERMA",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Para todo tipo de superficies: alfombras, madera, mármol, etc.",
-      "Con diversos cabezales.",
-      "2 en 1: Uso de mano y vertical.",
-      "Descarga de residuos con un solo botón.",
-      "Triple filtro de protección.",
-      "Cuenta con cable de alimentación de 4.5 metros",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Aspiradora Multifuncional Blanca Deerma Dx118C",
-    "precio": "S/109.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plancha-y-vaporizador-2-en-1-a-deerma-dem-hs300-68749-default-1.jpg",
-    "marca": "DEERMA",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Tamaño ligero y portátil",
-      "Gran succión, potente y eficaz",
-      "2 en 1: Uso de mano y vertical",
-      "Incluye 3 cepillos de limpieza",
-      "Mango ergonómico",
-      "Cuenta con cable de alimentación de 5 metros",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Aspiradora Anti-Ácaros Multifuncional Deerma Cm1300",
-    "precio": "S/289.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/removedor-de-pelusa-portatil-2-en-1-deerma-dem-mq604-68752-default-1.jpg",
-    "marca": "DEERMA",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Instrumento de eliminación de ácaros que integra golpes + luz ultravioleta + alta potencia de succión",
-      "Cabezal de cepillo estándar de 3 funciones",
-      "Batir toda la cama en resonancia, llegando a las profundidades",
-      "Área de iluminación UV en forma de panal, iluminación uniforme y profunda",
-      "Filtración múltiple, escape limpio y fresco",
-      "Inalámbrico",
-      "Duración de Bateria: 3 horas aprox.",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Plancha Record Seca Y Vapor",
-    "precio": "S/36.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plancha-record-seca-y-vapor-69179-default-1.jpg",
-    "marca": "RECORD",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Modelo: REC-CLPBL101.",
-      "Cuerpo de polipropileno.",
-      "Base con recubrimiento antiadherente.",
-      "Luz LED.",
-      "Sistema selector de temperatura.",
-      "Sistema de vapor.",
-      "1,200 Watts.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Sandwichera Record Blanca",
-    "precio": "S/49.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwichera-record-blanco-69187-default-1.jpg",
-    "marca": "RECORD",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Modelo: REC-CLSBL100.",
-      "Carcasa de polipropileno.",
-      "Cuerpo interno en antiadherente.",
-      "Base antideslizante.",
-      "Luces LED.",
-      "Sistema regulador de temperatura.",
-      "Sistema de cierre tipo clip.",
-      "750 Watts.",
-      "*Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Horno Microondas Indurama Mwi-32Tcrp 32 L",
-    "precio": "S/399.00",
+    "precio": "S/ 519",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/o/horno-microondas-indurama-mwi-32tcrp-70255-default-1.jpg",
     "marca": "INDURAMA",
     "categoria": "Sin categoría",
@@ -126,8 +37,55 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Multigroom Philips 6 Accesorios Mg3711_15",
+    "precio": "S/ 169.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/u/multigroom-kit-6-acc-philips-mg3711_15-54078-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "6 accesorios",
+      "Cuchillas autoafilables de acero",
+      "Hasta 60 minutos de autonomía",
+      "Accesorios lavables",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora De Tanque 1000W",
+    "precio": "S/ 199",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-de-tanque-1000w-360wabs01-54482-default-1.jpg",
+    "marca": "ELECTROLUX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Aspiradora de Tanque Eelctrolux",
+      "Modelo: ABS01",
+      "Potencia: 1000 Watts",
+      "Tensión/Frecuencia: 220 V/ 50-60 Hz",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Exprimidor De Cítricos Oster 1L Fpstju407W",
+    "precio": "S/ 87",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/exprimidor-de-citricos-oster-1l-fpstju407w-61613-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Exprimidor de Cítricos Oster 1 L",
+      "Modelo: FPSTJU407W",
+      "Medidas: 21.3 x 22.1 x 15 cm",
+      "Peso: 0.8 kg",
+      "Potencia: 25 Watts",
+      "Capacidad de la jarra: 1 Litro",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Cocina A Gas Indurama Galicia Zafiro 6 Hornillas Croma",
-    "precio": "S/1,549.00",
+    "precio": "S/ 1899",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cocina-a-gas-indurama-galicia-zafiro-6-hornillas-croma-63565-default-1.jpg",
     "marca": "INDURAMA",
     "categoria": "Sin categoría",
@@ -145,38 +103,97 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Multigroom Philips 6 Accesorios Mg3711_15",
-    "precio": "S/169.90",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/u/multigroom-kit-6-acc-philips-mg3711_15-54078-default-1.jpg",
-    "marca": "PHILIPS",
+    "nombre": "Aspiradora Multifuncional Pro Blanca Deerma Dx700",
+    "precio": "S/ 199",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-inalambrica-negro-edition-deerma-vc03s-68733-default-1.jpg",
+    "marca": "DEERMA",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "6 accesorios",
-      "Cuchillas autoafilables de acero",
-      "Hasta 60 minutos de autonomía",
-      "Accesorios lavables",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Aspiradora De Tanque 1000W",
-    "precio": "S/199.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-de-tanque-1000w-360wabs01-54482-default-1.jpg",
-    "marca": "ELECTROLUX",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Aspiradora de Tanque Eelctrolux",
-      "Modelo: ABS01",
-      "Potencia: 1000 Watts",
-      "Tensión/Frecuencia: 220 V/ 50-60 Hz",
+      "Para todo tipo de superficies: alfombras, madera, mármol, etc.",
+      "Con diversos cabezales.",
+      "2 en 1: Uso de mano y vertical.",
+      "Descarga de residuos con un solo botón.",
+      "Triple filtro de protección.",
+      "Cuenta con cable de alimentación de 4.5 metros",
       "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Aspiradora Multifuncional Blanca Deerma Dx118C",
+    "precio": "S/ 109",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plancha-y-vaporizador-2-en-1-a-deerma-dem-hs300-68749-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño ligero y portátil",
+      "Gran succión, potente y eficaz",
+      "2 en 1: Uso de mano y vertical",
+      "Incluye 3 cepillos de limpieza",
+      "Mango ergonómico",
+      "Cuenta con cable de alimentación de 5 metros",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Anti-Ácaros Multifuncional Deerma Cm1300",
+    "precio": "S/ 289",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/removedor-de-pelusa-portatil-2-en-1-deerma-dem-mq604-68752-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Instrumento de eliminación de ácaros que integra golpes + luz ultravioleta + alta potencia de succión",
+      "Cabezal de cepillo estándar de 3 funciones",
+      "Batir toda la cama en resonancia, llegando a las profundidades",
+      "Área de iluminación UV en forma de panal, iluminación uniforme y profunda",
+      "Filtración múltiple, escape limpio y fresco",
+      "Inalámbrico",
+      "Duración de Bateria: 3 horas aprox.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plancha Record Seca Y Vapor",
+    "precio": "S/ 43",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/l/plancha-record-seca-y-vapor-69179-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLPBL101.",
+      "Cuerpo de polipropileno.",
+      "Base con recubrimiento antiadherente.",
+      "Luz LED.",
+      "Sistema selector de temperatura.",
+      "Sistema de vapor.",
+      "1200 Watts.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sandwichera Record Blanca",
+    "precio": "S/ 61",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwichera-record-blanco-69187-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLSBL100.",
+      "Carcasa de polipropileno.",
+      "Cuerpo interno en antiadherente.",
+      "Base antideslizante.",
+      "Luces LED.",
+      "Sistema regulador de temperatura.",
+      "Sistema de cierre tipo clip.",
+      "750 Watts.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Rapiducha One 4.5 Kw Bryant Blanco",
-    "precio": "S/179.90",
+    "precio": "S/ 329.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/a/rapiducha-one-45-kw-bryant-blanco-60683-default-1.jpg",
     "marca": "BRYANT",
     "categoria": "Sin categoría",
@@ -201,7 +218,7 @@
   },
   {
     "nombre": "Hervidor Oster 1.7 L Bvstkt4177V Celeste",
-    "precio": "S/115.00",
+    "precio": "S/ 115",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervidor-oster-17-l-bvstkt4177v-celeste-61471-default-1.jpg",
     "marca": "OSTER",
     "categoria": "Sin categoría",
@@ -221,7 +238,7 @@
   },
   {
     "nombre": "Freidora De Aire Digital Oster 9L Ckstaf90D Color Negro",
-    "precio": "S/541.00",
+    "precio": "S/ 541",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/freidora-de-aire-digital-oster-9l-ckstaf90d-61501-default-1.jpg",
     "marca": "OSTER",
     "categoria": "Sin categoría",
@@ -240,25 +257,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Exprimidor De Cítricos Oster 1L Fpstju407W",
-    "precio": "S/87.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/exprimidor-de-citricos-oster-1l-fpstju407w-61613-default-1.jpg",
-    "marca": "OSTER",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Exprimidor de Cítricos Oster 1 L",
-      "Modelo: FPSTJU407W",
-      "Medidas: 21.3 x 22.1 x 15 cm",
-      "Peso: 0.8 kg",
-      "Potencia: 25 Watts",
-      "Capacidad de la jarra: 1 Litro",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Refrigeradora No Frost 250L Grafito",
-    "precio": "S/1,399.00",
+    "precio": "S/ 1879",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/refrigeradora-no-frost-250l-grafito-58301-default-2.jpg",
     "marca": "MABE",
     "categoria": "Sin categoría",
@@ -278,45 +278,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Congeladora Ilumi Tina Acero Blanco 320 L",
-    "precio": "S/1,677.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/congeladora-ilumi-tina-acero-blanco-320-l-68766-default-1.jpg",
-    "marca": "ILUMI",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Congelador dual",
-      "Tina de acero inoxidable",
-      "Color: Blanco",
-      "Capacidad: 340 L",
-      "Contiene: 2 canastillas interiores",
-      "Garantía: 1 año",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Olla Arrocera Record Con Sofrito 1.8L Blanco",
-    "precio": "S/125.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-arrocera-record-con-sofrito-18l-blanco-69173-default-1.jpg",
-    "marca": "RECORD",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Modelo: REC-CLOBLG100",
-      "Capacidad 1.8 L.",
-      "Carcasa de acero inoxidable pintada.",
-      "Tazón antiadherente.",
-      "Tapa de vidrio templado.",
-      "Vaporera exterior en aluminio.",
-      "3 Funciones (cocción, mantener caliente y sofrito).",
-      "Espátula y taza medidora.",
-      "600 Watts.",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Refrigeradora Indurama Ri-698N Negra",
-    "precio": "S/2,099.00",
+    "precio": "S/ 3099",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/refrigeradora-indurama-ri-698n-negra-70243-default-1.jpg",
     "marca": "INDURAMA",
     "categoria": "Sin categoría",
@@ -333,7 +296,7 @@
   },
   {
     "nombre": "Campana Isla Indurama 90 Cm Cei-90Crtis Croma",
-    "precio": "S/1,799.00",
+    "precio": "S/ 2999",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/campana-isla-indurama-90-cm-cei-90crtis-croma-66559-default-1.jpg",
     "marca": "INDURAMA",
     "categoria": "Sin categoría",
@@ -353,7 +316,7 @@
   },
   {
     "nombre": "Mini Waffle Blanik Bmw079",
-    "precio": "S/49.00",
+    "precio": "S/ 49",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/mini-waffle-bmw079-67076-default-1.jpg",
     "marca": "BLANIK",
     "categoria": "Sin categoría",
@@ -370,8 +333,23 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Hervid Philips Acer Inox 1.7 L Hd9351_90",
+    "precio": "S/ 219.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervid-philips-acer-inox-17-l-hd9351_90-54104-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseñado para una larga duración",
+      "Con indicador de luz",
+      "Completamente de acero inoxidable",
+      "Con tapa extra grande",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Extractor De Jugos Oster 600 W Fpstje317S Plomo",
-    "precio": "S/395.00",
+    "precio": "S/ 395",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/extractor-de-jugos-oster-600-w-fpstje317s-plomo-61597-default-1.jpg",
     "marca": "OSTER",
     "categoria": "Sin categoría",
@@ -389,23 +367,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Hervid Philips Acer Inox 1.7 L Hd9351_90",
-    "precio": "S/219.90",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervid-philips-acer-inox-17-l-hd9351_90-54104-default-1.jpg",
-    "marca": "PHILIPS",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Diseñado para una larga duración",
-      "Con indicador de luz",
-      "Completamente de acero inoxidable",
-      "Con tapa extra grande",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Sandwichera Sa 2969",
-    "precio": "S/119.90",
+    "precio": "S/ 119.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwichera-57863-default-1.jpg",
     "marca": "SEVERIN",
     "categoria": "Sin categoría",
@@ -421,7 +384,7 @@
   },
   {
     "nombre": "Secadora De Cabello Revlon Con Control Frizz Rvdr773La2 Negro",
-    "precio": "S/75.00",
+    "precio": "S/ 75",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/secadora-control-de-frizz-2000w-revlon-57980-default-1.jpg",
     "marca": "REVLON",
     "categoria": "Sin categoría",
@@ -438,8 +401,112 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Congeladora Ilumi Tina Acero Blanco 320 L",
+    "precio": "S/ 1677",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/congeladora-ilumi-tina-acero-blanco-320-l-68766-default-1.jpg",
+    "marca": "ILUMI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Congelador dual",
+      "Tina de acero inoxidable",
+      "Color: Blanco",
+      "Capacidad: 340 L",
+      "Contiene: 2 canastillas interiores",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Arrocera Record Con Sofrito 1.8L Blanco",
+    "precio": "S/ 125",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-arrocera-record-con-sofrito-18l-blanco-69173-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLOBLG100",
+      "Capacidad 1.8 L.",
+      "Carcasa de acero inoxidable pintada.",
+      "Tazón antiadherente.",
+      "Tapa de vidrio templado.",
+      "Vaporera exterior en aluminio.",
+      "3 Funciones (cocción, mantener caliente y sofrito).",
+      "Espátula y taza medidora.",
+      "600 Watts.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Exprimidor Electrico Cecotec Essentialvita 600",
+    "precio": "S/ 399",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/exprimidor-electrico-cecotec-essentialvita-600-73878-default-1.jpg",
+    "marca": "CECOTEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Piezas desmontables aptas para lavavajillas.",
+      "Filtro de acero inoxidable",
+      "Potencia 600 W",
+      "Soft Touch de tacto agradable",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Parrilla Multiusos Oster Bioceramic Ckstgr5085",
+    "precio": "S/ 199",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/parrilla-multiuso-recubrimiento-bioceramic-74527-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Disfruta de la línea de Parrillas eléctricas que Oster trae para ti.",
+      "Modelo: CKSTGR5085.",
+      "Dimensiones: 45 × 32 × 25 cm.",
+      "Peso: 3 kg",
+      "Garantía: 1 año.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Frigobar Indurama Ri-101 Blanco 90 Litros",
+    "precio": "S/ 799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/frigobar-indurama-ri-101-blanco-90-lt-70224-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas : Alto: 85cm; Ancho : 47.5cm; Profundidad: 44.5cm.",
+      "Peso: 19.5kg.",
+      "Sistema Defrost.",
+      "Eficiencia energética A.",
+      "Color blanco.",
+      "Puerta reversible.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Batidora Fdv Venus Inox",
+    "precio": "S/ 699",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/batidora-fdv-venus-inox-61692-default-1.jpg",
+    "marca": "FDV",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Batidora FDV Venus Inox",
+      "Color: Gris",
+      "6 velocidades + pulso",
+      "Peso: 6.0 kg",
+      "Capacidad útil: 4.2 L",
+      "Potencia: 800 W",
+      "Accesorios: 1 gancho amasador, 1 paleta mezcladora, 1 batidor globo, 1 protector anti salpicaduras.",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Licuadora Oster 1.25L 2 Velocidades 250-22 Color Cromado",
-    "precio": "S/259.00",
+    "precio": "S/ 259",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licuadora-oster-125-l-2-velocidades-250-22-cromado-61337-default-1.jpg",
     "marca": "OSTER",
     "categoria": "Sin categoría",
@@ -455,6 +522,1708 @@
       "Potencia: 600 Watts",
       "Garantía: 1 año",
       "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Hervidor Oster 1.7 L Bvstkt4177R Rojo",
+    "precio": "S/ 105",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervidor-oster-17-l-bvstkt4177r-rojo-61469-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Hervidor Oster 1.7 L",
+      "Modelo: BVSTKT4177R",
+      "Material: Plástico",
+      "Color: Rojo",
+      "Medidas: 24.9 x 21.7 x 15.4 cm",
+      "Peso: 0.7 kg",
+      "Capacidad: 1.7 Litros",
+      "Potencia: 1850 Watts",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Arrocera Oster 1.8 L Ckstrc1700R Rojo",
+    "precio": "S/ 122",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-arrocera-oster-18-l-ckstrc1700r-rojo-61517-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Olla Arrocera Oster 1.8 L",
+      "Modelo: CKSTRC1700R",
+      "Color: Rojo",
+      "Revestimiento antiadherente",
+      "Apagado automático: Sí",
+      "Función mantener caliente: Sí",
+      "Medidas: 26.2 x 30.5 x 25.7 cm",
+      "Peso: 2.4 kg",
+      "Capacidad: 1.8 litros/10 tazas",
+      "Potencia: 700 Watts",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Horno Microondas Oster 20L Pogme2701 Blanco",
+    "precio": "S/ 311",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/o/horno-microondas-oster-20l-pogme2701-blanco-61719-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Horno Microondas Oster 20 L",
+      "Modelo: POGME2701",
+      "Color: Blanco",
+      "Panel digital",
+      "10 Niveles de potencia",
+      "6 programas automáticos",
+      "Medidas:\nAlto: 25.9 cm\nAncho: 44 cm\nProfundidad: 34.5 cm\nPeso: 9.5 kg",
+      "Alto: 25.9 cm",
+      "Ancho: 44 cm",
+      "Profundidad: 34.5 cm",
+      "Peso: 9.5 kg",
+      "Potencia: 700 Watts",
+      "Capacidad: 20 Litros",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cocina A Gas Indurama Parma Zafiro 6 Hornillas Color Croma",
+    "precio": "S/ 1649",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cocina-a-gas-indurama-parma-zafiro-6-hornillas-croma-63561-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cocina a Gas Indurama 6 Hornillas",
+      "Modelo: Parma Zafiro",
+      "Color: Croma",
+      "6 Hornillas selladas:\n4 hornillas grandes\n2 hornillas medianas",
+      "4 hornillas grandes",
+      "2 hornillas medianas",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cortadora De Cabello Gama Clipper Gc542 220V",
+    "precio": "S/ 122",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maquina-clipper-gc542beccp0000000452-68609-default-1.jpg",
+    "marca": "GA.MA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: BECCP0000000452",
+      "Cuchillas de acero inoxidable",
+      "45 minutos de autonomía",
+      "Inalámbrico",
+      "Cable por carga USB",
+      "Función entresacado",
+      "Peine de alzada 1mm a 24mm",
+      "Protector de cuchilla y tijera",
+      "Cepillo de limpieza",
+      "Garantía de 2 Años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora De Cabello Gama Diamond Ceramic Negro",
+    "precio": "S/ 142",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/secadora-diamond-ceramicbechd0000001635-68622-default-1.jpg",
+    "marca": "GA.MA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: BECHD0000001635",
+      "Motor DC Ultraligero",
+      "Tecnología Ceramic y Nano Silver",
+      "Cool Shot",
+      "2 niveles de velocidad",
+      "3 niveles de temperatura",
+      "Potencia: 1900 W",
+      "Voltaje: 220 V",
+      "Incluye Boquilla",
+      "Garantía de 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Plancha Alisadora Remington Ceramic Colors S1520",
+    "precio": "S/ 110",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/alisadora-de-cabellos1520-68689-default-1.jpg",
+    "marca": "REMINGTON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: S1520",
+      "Color: Azul",
+      "Placas recubiertas de cerámica",
+      "Placa flotante de 25mm x 100mm",
+      "2 niveles de temperatura",
+      "Temperatura de 180°C hasta 205°C",
+      "Cierre de seguridad",
+      "Cable giratorio de 1.8 m",
+      "Garantía: 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Frigobar Libero Lfb-101N 85L Negro",
+    "precio": "S/ 649",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/frigobar-libero-lfb-101n-85l-negro-69383-default-1.jpg",
+    "marca": "LIBERO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Frigobar Libero 85 Litros",
+      "Modelo: LFB-101N",
+      "Color: Negro",
+      "Eficiencia energética: A",
+      "Refrigerante: R600a",
+      "Garantía: 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Frigobar Libero Lfb-101S 85L Inox",
+    "precio": "S/ 649",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/frigobar-libero-lfb-101s-85l-inox-69384-default-1.jpg",
+    "marca": "LIBERO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Frigobar Libero 85 Litros",
+      "Modelo: LFB-101S",
+      "Color: Inox",
+      "Eficiencia energética: A",
+      "Refrigerante: R600a",
+      "Garantía: 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Terma Eléctrica Rheem 50 L Ai Smart Blanco",
+    "precio": "S/ 1099.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/terma-electrica-rheem-50-l-ai-smart-blanco-60725-default-1.jpg",
+    "marca": "RHEEM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Terma Eléctrica AI Smart 50 L Rheem",
+      "Color: Blanco",
+      "Medidas:\nAlto: 56 cm\nAncho: 45 cm\nPeso: 18 kg",
+      "Alto: 56 cm",
+      "Ancho: 45 cm",
+      "Peso: 18 kg",
+      "T. Recup de 40°C: 1h 33min",
+      "Enciende con baja presión: 2.9 PSI",
+      "Capacidad recomendada: Para 2 personas",
+      "Voltaje: 220 V",
+      "Potencia: 1.5 kW",
+      "Capacidad: 50 L",
+      "Garantía : 10 años | Sujeto a mantenimiento anual",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cafetera Oster 12 Tazas Goteo Bvstdcs12B Negro",
+    "precio": "S/ 164",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cafetera-oster-12-tazas-goteo-bvstdcs12b-negro-61443-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cafetera Oster 12 Tazas Goteo",
+      "Modelo: BVSTDCS12B",
+      "Color: Negro",
+      "Medidas: 28 x 20.4 x 31.5 cm",
+      "Peso: 1.6 kg",
+      "Capacidad: 12 tazas",
+      "Potencia: 1000 Watts",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Parrilla Eléctrica Grill Bioceramic Oster Ckstgr4768",
+    "precio": "S/ 210",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/parrilla-electrica-grill-bioceramic-oster-ckstgr4768-61505-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Parrilla Eléctrica Grill Bioceramic Oster",
+      "Modelo: CKSTGR4768",
+      "Recubrimiento Bioceramic",
+      "Planchas removibles: Sí",
+      "Medidas: 45 x 32 x 83 cm",
+      "Peso: 2.6 kg",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Multi Olla Oster 5.7 L 12 Funciones Ckstpcec6801",
+    "precio": "S/ 453",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/u/multi-olla-oster-57-l-12-funciones-ckstpcec6801-61509-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Multi Olla Oster 5.7 L 12 Funciones",
+      "Modelo: CKSTPCEC6801",
+      "Recubrimiento Bioceramic",
+      "Control de Temperatura: Sí",
+      "Temporizador/Tiempo: Sí",
+      "Medidas: 34.3 x 34.4 x 31.7 cm",
+      "Peso: 5.8 kg",
+      "Capacidad: 5.7 litros",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sandwichera Compacta Oster Ckstsm2885M",
+    "precio": "S/ 95",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwichera-compacta-oster-ckstsm2885m-61563-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Sandwichera Compacta Oster",
+      "Modelo: CKSTSM2885M",
+      "Recubrimiento antiadherente",
+      "Medidas: 8.4 x 21.4 x 22.8 cm",
+      "Peso: 1.2 kg",
+      "Potencia: 750 Watts",
+      "Capacidad de sandwiches: 2",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kit Afeitadora Philips Multigroom Mg3731_15",
+    "precio": "S/ 199.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/u/multigroom-kit-philips-mg3731_15-54080-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "8 accesorios",
+      "Cuchillas autoafilables de acero",
+      "Hasta 60 minutos de autonomía",
+      "Accesorios lavables",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Refrigeradora No Frost 420L Grafito",
+    "precio": "S/ 2409",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/refrigeradora-no-frost-420l-grafito-58289-default-1.jpg",
+    "marca": "MABE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Refrigeradora No Frost 420 Litros Mabe",
+      "Modelo: RMP420FLPG1",
+      "Color: Grafito",
+      "Alto: 184 cm",
+      "Ancho: 67.9 cm",
+      "Profundidad: 79.3 cm",
+      "Peso Neto: 64 kg",
+      "Tipo de refrigerador: No Frost",
+      "Eficiencia energética: A",
+      "Garantía: 1 año. Para su validez debe contar con la boleta de compra, estar dentro del año de garantia y no debe ser manipulado por ningún otro técnico externo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Recortador De Cabello Easy Cut Negro",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/recortador-de-cabello-easy-cut-wahl-negro-wahl-9314-3218-48886-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Recortador de cabello Easy Cut Wahl",
+      "Modelo: 09314-3218",
+      "Color: Negro",
+      "Cantidad: 10 Piezas",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Máquina De Cabello Wahl Easy Cut 9314-2718 Rojo",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maquina-de-cabello-wahl-easy-cut-9314-2718-48888-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: 9314-2718",
+      "Color: Rojo",
+      "Cuchillas de acero inoxidable",
+      "Incluye 10 piezas",
+      "1 Aceite lubricante",
+      "1 Brocha de limpieza",
+      "1 Protector de cuchillas",
+      "5 peines guías",
+      "Potencia: 9 Watts",
+      "Voltaje: 220 V",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kit Recortador De Viaje",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/recortador-kit-de-viaje-wahl-5604-208-48894-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Kit Recortador de Viaje Wahl",
+      "Recortador de barba, nariz, oreja y cejas.",
+      "Es resistente al agua.",
+      "Alimentado por 1 pila AA (incluida).",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cortador Vello Nasal",
+    "precio": "S/ 49.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cortador-vello-nasal-wahl-5642-108-48898-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cortador Vello Nasal Wahl",
+      "Recortador de vello nasal y orejas con hojas de acero que se pueden limpiar bajo el agua.",
+      "Recorta con facilidad sin dañar ni irritar la piel.",
+      "Alimentado por 1 pila AA (incluidas).",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Horno Eléctrico Negro 9L Imaco He900B",
+    "precio": "S/ 149.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/o/horno-electrico-negro-9l-imaco-he900b-53736-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: HE900B",
+      "Capacidad: 9 Litros",
+      "Potencia: 800 Watts",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cocina A Gas Fontana 4 Hornillas",
+    "precio": "S/ 759",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cocina-indurama-fontana-gris-fon000-54657-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cocina a Gas Fontana 4 Hornillas Indurama",
+      "Modelo: FON000",
+      "Alto: 90 cm",
+      "Ancho: 49.5 cm",
+      "Profundidad: 55.6 cm",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lavadora Lri-19Cri 19 Kg",
+    "precio": "S/ 1999",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lavadora-indurama-lri-19cri-croma-19-kg-54814-default-1.jpg",
+    "marca": "INDURAMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Lavadora 19 Kg Indurama",
+      "Modelo: LRI-19CRI",
+      "Color: Croma",
+      "Tecnología Anti-enredo",
+      "Sistema Antivibración",
+      "Sistema Fuzzy",
+      "DDM Inverter",
+      "Dimensiones:\nAlto: 102 cm\nAncho: 64 cm\nProfundidad: 68 cm\nPeso: 54 kg",
+      "Alto: 102 cm",
+      "Ancho: 64 cm",
+      "Profundidad: 68 cm",
+      "Peso: 54 kg",
+      "Capacidad de lavado: 19 Kg",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Freidora De Aire Cecotec Cecofry Experience 6000",
+    "precio": "S/ 799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/freidora-de-aire-cecotec-cecofry-experience-6000-73876-default-1.jpg",
+    "marca": "CECOTEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Capacidad 6 litros",
+      "Potencia de1700 W",
+      "Control táctil multifunción",
+      "Tiempo ajustable de 0 a 60 minutos",
+      "Medidas 27.4 x 35 x 30.6 cm",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Freidora De Aire Oster Dual Ckstaf7Mcddf 7.6 L",
+    "precio": "S/ 799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/freidora-de-aire-dual-oster-76l-digital-74581-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: CKSTAF7MCDDF",
+      "Color: Negro.",
+      "Diseño compacto.",
+      "Dimensiones: 40.1 × 37.5 × 34 cm.",
+      "Recubrimiento DiamondForce.",
+      "Potencia de 1600 watts.",
+      "Capacidad de 7.6 litros.",
+      "Garantía: 1 año.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Alisadora Gama Elegance Bella Tourmaline Red Ion",
+    "precio": "S/ 129",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/alisador-elegance-bellabechs0000002116-68641-default-1.jpg",
+    "marca": "GA.MA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: BECHS0000002116",
+      "Placas de Tourmalina",
+      "Placas oscilantes",
+      "Carga iónica anti frizz",
+      "Sistema Quick Heat",
+      "Auto Bi Voltaje (110V – 220V)",
+      "Temperatura estándar de 230°C",
+      "Velocidad de calentamiento 70 Seg",
+      "Tamaño placas: 25mm x 120mm",
+      "Largo del cable 2.5 m",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Rizador Remington Con Cepillo Chrome Curls",
+    "precio": "S/ 59",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/i/rizador-chrome-curlscepilloci11a19-68666-default-1.jpg",
+    "marca": "REMINGTON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: CI11A19",
+      "Cilindro metálico de 19 mm",
+      "2 Ajustes de temperaturas",
+      "Temperatura máxima de 190°C",
+      "Botón de encendido y apagado",
+      "Indicador LED",
+      "Punta fría al tacto",
+      "Cable giratorio de 2 m",
+      "Incluye cepillo",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Combo Remington Alisadora + Secadora Shine Theraphy",
+    "precio": "S/ 236",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/combo-remington-alisadora-secadora-shine-theraphy-68688-default-1.jpg",
+    "marca": "REMINGTON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Combo Remington Alisadora + Secadora Shine Theraphy",
+      "Modelo: S12A-D13A",
+      "Color: Negro y verde",
+      "Incluye: Secadora y alisadora",
+      "Garantía: 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Multifuncional Negra Deerma Dx115C",
+    "precio": "S/ 129",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-anti-acaros-multifuncional-deerma-cm1300-68732-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tecnología de filtro de tres capas",
+      "Potente motor con fuerte succión",
+      "2 en 1: Uso de mano y vertical",
+      "Con cepillo de eliminación de ácaros",
+      "Mango ergonómico",
+      "Cuenta con cable de alimentación de 5 metros",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Inalambrica Black Edition Deerma Vc03S",
+    "precio": "S/ 429",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/mini-deshumedecedor-deerma-dem-cs90m-68747-default-1.jpg",
+    "marca": "DEERMA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Aspiradora multifuncional 2 en 1",
+      "Fuerza de succión de 15KPa",
+      "Super ligero: pesa solo 1 Kg",
+      "Inálambrico",
+      "Duración de bateria: 7 horas aprox.(18 min. de aspirado continuo)",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Congeladora Ilumi Horizontal 160 L",
+    "precio": "S/ 1508",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/congeladora-ilumi-horizontal-160-l-68769-default-1.jpg",
+    "marca": "ILUMI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Congelador dual con tapas de vidrio",
+      "Refrigerante ecológico: R-134a",
+      "Capacidad: 160 L",
+      "Contiene: 2 canastillas",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Hervidor Record 1.7L Blanco",
+    "precio": "S/ 53",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervidor-record-17l-blanco-69184-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLHBL100",
+      "Capacidad 1.7 L.",
+      "Carcasa de polipropileno.",
+      "Indicador de nivel.",
+      "Filtro interior.",
+      "LED indicadora.",
+      "Base removible.",
+      "Tapa superior c/ swicht de seguridad.",
+      "Switch de encendido y apagado.",
+      "1200 Watts.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Hervidor Record Inox 1.8 L Negro",
+    "precio": "S/ 62",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervidor-record-inox-17l-negro-69185-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-INHAC100",
+      "Carcasa de acero inoxidable y polipropileno.",
+      "Capacidad 1.8 L.",
+      "Potencia: 1500 Watts.",
+      "Garantía: 2 años.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tostadora Record De Pan Negro",
+    "precio": "S/ 89",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/tostado-record-de-pan-negro-69197-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-CLTENE101",
+      "Carcasa de polipropileno.",
+      "Perilla reguladora de 7 niveles temperatura.",
+      "Base antideslizante.",
+      "3 funciones pre-programadas.",
+      "Bandeja recolectora de residuos.",
+      "Sistema automático que libera el pan cuando está tostado.",
+      "600 Watts.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Freidora De Aire Record 2.5L Negra",
+    "precio": "S/ 260",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/freidora-de-aire-record-25l-negro-69204-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "• Modelo: REC-INFDA250.",
+      "Capacidad 2.5 litros.",
+      "Carcasa de polipropileno y asa de tacto frío.",
+      "Temperatura ajustable 80 ˚C - 200 ˚C.",
+      "Temporizador hasta 30 minutos.",
+      "Olla y cesta con antiadherente.",
+      "Calienta, rostiza y fríe.",
+      "Función de protección contra sobrecalentamiento.",
+      "Resistencia de Acero Inoxidable 304.",
+      "1,300 - 1,500 Watts de potencia.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cafetera Eléctrica Imaco 6 Tazas Negro",
+    "precio": "S/ 79.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cafetera-electrica-imaco-6-tazas-negro-62797-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cafetera Eléctrica Imaco 6 Tazas",
+      "Modelo: CM6065",
+      "Color: Negro",
+      "Capacidad: Para 4-6 tazas de café",
+      "Potencia: 650 W",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cafetera Oster 4 Tazas Bvstdcdr5R Rojo",
+    "precio": "S/ 84",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cafetera-oster-4-tazas-bvstdcd5r-rojo-61439-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cafetera Oster 4 Tazas",
+      "Modelo: BVSTDCDR5R",
+      "Color: Rojo",
+      "Luz de encendido/apagado: Sí",
+      "Medidas: 25 x 16 x 22 cm",
+      "Peso: 1.1 kg",
+      "Capacidad: 4 tazas",
+      "Potencia: 730 Watts",
+      "Incluye filtro permanente lavable",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Freidora De Aire Oster 10 L Ckstafov3",
+    "precio": "S/ 599",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/freidora-de-aire-oster-10-l-ckstafov3-61485-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Freidora de Aire Oster 10 L",
+      "Modelo: CKSTAFOV3",
+      "Recubrimiento antiadherente",
+      "7 funciones",
+      "Medidas:",
+      "Alto: 37.1 cm",
+      "Ancho: 36.4 cm",
+      "Profundidad: 32.8 cm",
+      "Peso: 10.1 kg",
+      "Capacidad: 10 Litros",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Arrocera Oster 2.2 L 10 En 1 Bioceramic Ckstrc9030R",
+    "precio": "S/ 459",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-arrocera-oster-22-l-10-en-1-bioceramic-ckstrc9030r-61553-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Olla Arrocera Oster 2.2 L 10 en 1 Bioceramic",
+      "Modelo: CKSTRC9030R",
+      "Color: Rojo",
+      "Recubrimiento biocerámica.",
+      "Apagado automático: Sí",
+      "Función de mantener caliente: Sí",
+      "Medidas:\nAlto: 32.5 cm\nAncho: 36.6 cm\nLargo: 30.1 cm\nPeso: 2.9 kg",
+      "Alto: 32.5 cm",
+      "Ancho: 36.6 cm",
+      "Largo: 30.1 cm",
+      "Peso: 2.9 kg",
+      "Capacidad: 2.2 Litros/12 tazas",
+      "Potencia: 900 W",
+      "Incluye una taza medidora de 180 ml y un cucharón para servir.",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Extractor De Jugos Oster 400 W Fpstje316R Rojo",
+    "precio": "S/ 220",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/extractor-de-jugos-oster-400-w-fpstje316r-rojo-61591-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Extractor de Jugos Oster",
+      "Modelo: FPSTJE316R",
+      "Color: Rojo",
+      "Medidas 27.5 x 27.2 x 18.2 cm",
+      "Capacidad de la jarra: 500 ml",
+      "Potencia: 400 Watts",
+      "Accesorios removibles para fácil limpieza.",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Recortador De Cabello Y Barba Cut & Detail 18 Piezas",
+    "precio": "S/ 179.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/recortador-de-cabello-y-barba-cut-detail-wahl-18-piezas-9243-6218-48884-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Recortador de Cabello y Barba Cut & Detail Wahl",
+      "Color: Negro",
+      "Tiene control de guía ajustable con el pulgar para definir mejor el corte.",
+      "Cantidad: 18 Piezas.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Waffle Maker Bwm032 Negro",
+    "precio": "S/ 149",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/w/a/waffle-maker-bwm032-negro-50418-default-1.jpg",
+    "marca": "BLANIK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Waffle Maker Blanik",
+      "Modelo: BWM032",
+      "Color: Negro",
+      "Waffle circular de 18 cms dividido en 4 partes iguales.",
+      "Máquina viene con sistema de rotación en 180°.",
+      "Palanca de bloqueo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora Profesional Monsoon 3400 Amarillo",
+    "precio": "S/ 359",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/ceriotti-secadora-profesional-monsoon-3400-am-53660-default-1.jpg",
+    "marca": "CERIOTTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Secadora Profesional Monsoon 3400 Ceriotti",
+      "Color: Amarillo",
+      "Tecnología nano-cerámica.",
+      "Tecnología \"Silent Brushing\"",
+      "Tecnología \"HPS2\"",
+      "Peso: 460 gr.",
+      "Potencia: 1700- 2000W",
+      "Motor AC silencioso, de larga duración",
+      "Hecho en Italia, 100% Genuino.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Kit Recortador De Barba Groomsman",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/recortadora-de-barba-groomsman-kit-05537-3008-53668-default-1.jpg",
+    "marca": "WAHL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Kit Recortador de Barba Groomsman",
+      "Recortador 3 en 1",
+      "Resultados profesionales",
+      "Ideal para barba, bigote, barba incipiente, orejas, nariz y afeitado del cuerpo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora Gama Ultra Ion 2200W",
+    "precio": "S/ 132",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/secadora-se-ultra-ionbechd0000002004-68626-default-1.jpg",
+    "marca": "GA.MA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: BECHD0000002004",
+      "Con 2 boquillas, 1 difusor",
+      "Largo de cable 2.85 m",
+      "2 velocidades",
+      "3 temperaturas",
+      "Chorro de aire frío",
+      "Aro para colgar",
+      "Potencia: 2200W",
+      "Garantía 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cortadora De Cabello Remington 12 Piezas Rojo",
+    "precio": "S/ 80",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cortadora-de-cabello-rojo-12pzashc1095-68669-default-1.jpg",
+    "marca": "REMINGTON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: HC1095",
+      "Cuchillas de acero inoxidable",
+      "Palanca de ajuste",
+      "Agarre antideslizante",
+      "Incluye 12 piezas:\nCortador de cabello\n6 Peines de guía\n1 Peine para barba\n1 Protector de hojilla\n1 Aceite lubricante\n1 Cepillo de limpieza\n1 Caja de almacenamiento",
+      "Cortador de cabello",
+      "6 Peines de guía",
+      "1 Peine para barba",
+      "1 Protector de hojilla",
+      "1 Aceite lubricante",
+      "1 Cepillo de limpieza",
+      "1 Caja de almacenamiento",
+      "Garantía: 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Alisadora Remington Shine Therapy S12A",
+    "precio": "S/ 229",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/alisador-de-cabellos12a-68687-default-1.jpg",
+    "marca": "REMINGTON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: S12A",
+      "Color: Negro",
+      "9 ajustes de temperatura digital",
+      "Temperatura de 150°C hasta 230°C",
+      "Calentamiento rápido",
+      "Placas de 25mm x 100mm",
+      "Cierre de seguridad",
+      "Voltaje: 220 V",
+      "Garantía: 2 años",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cocina A Gas Mabe Cmp7630Fx0 En Acero Inoxidable Tamaño 30''",
+    "precio": "S/ 1799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cocina-a-gas-30acero-inox-grill-a-gas-68789-default-1.jpg",
+    "marca": "MABE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cocina a gas con 6 hornillas.",
+      "Acabado en acero inoxidable de 76 cm.",
+      "Fácil de limpiar.",
+      "Luz y encendido eléctrico.",
+      "Parrillas de hierro fundido.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Batidora Record 2.5L Con Pedestal Inox",
+    "precio": "S/ 152",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/batidora-record-25l-con-pedestal-inox-69192-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-INBEAC100",
+      "Carcasa de polipropileno y acero inoxidable.",
+      "Tazón de 2.5 L con movimiento giratorio.",
+      "Función doble de pedestal y mano.",
+      "3 velocidades y turbo.",
+      "Incluye espátula, 2 aspas mezcladoras y 2 amasadoras en acero cromado.",
+      "150 Watts.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cafetera Record Inox",
+    "precio": "S/ 107",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cafetera-record-inox-69195-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: REC-INCAC101",
+      "Capacidad 12 tazas.",
+      "Carcasa de polipropileno y acero inoxidable.",
+      "Tanque de agua.",
+      "Filtro de nylon removible.",
+      "Depósito de café.",
+      "Jarra de vidrio refractario.",
+      "LED indicador.",
+      "Switch de encendido y apagado.",
+      "800 Watts.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Terma Instántanea Rotoplas Modena",
+    "precio": "S/ 329",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/terma-instantanea-rotoplas-modena-69535-default-1.jpg",
+    "marca": "ROTOPLAS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Blanco",
+      "Dimensiones:\nAlto: 16.1 cm\nAncho: 26.1 cm",
+      "Alto: 16.1 cm",
+      "Ancho: 26.1 cm",
+      "Potencia: 5.5 kW",
+      "Caudal: 2.6 l/min",
+      "Presión de agua requerida para instalación: 3 PSI",
+      "Eficiencia energética: D",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora De Cabello Revlon Compacta Rvdr5260Bla2 Negro",
+    "precio": "S/ 129",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/secadora-compacta-esencial-revlon-57978-default-1.jpg",
+    "marca": "REVLON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: RVDR5260BLA2",
+      "Color: Negro",
+      "Alto: 18.41 cm",
+      "Largo: 8.5 cm",
+      "Ancho: 23.8 cm",
+      "Peso: 0.55 kg",
+      "Potencia: 1875 W",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Horno Eléctrico Imaco 9L He900R Rojo",
+    "precio": "S/ 149.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/o/horno-electrico-imaco-9l-he900r-rojo-60432-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Horno Eléctrico 9 Litros Imaco",
+      "Modelo: He900R",
+      "Color: Rojo",
+      "Cuerpo de metal.",
+      "Resistencias superior e inferior de cuarzo.",
+      "Ocupa poco espacio.",
+      "Potencia: 800 Watts",
+      "Capacidad: 9 Litros",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Terma Eléctrica 30 L Bryant Zafiro Blanco",
+    "precio": "S/ 849.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/terma-electrica-30-l-bryant-zafiro-blanco-60715-default-1.jpg",
+    "marca": "BRYANT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Terma Eléctrica Zafiro 30 L Bryant",
+      "Color: Blanco",
+      "Medidas:\nAlto: 57 cm\nAncho: 34 cm\nPeso: 14 kg",
+      "Alto: 57 cm",
+      "Ancho: 34 cm",
+      "Peso: 14 kg",
+      "T. Recup de 40°C: 56 min",
+      "Enciende con baja presión: 2.9 PSI",
+      "Capacidad recomendada: Para 1 persona",
+      "Voltaje: 220 V",
+      "Potencia: 1.5 kW",
+      "Capacidad: 30 L",
+      "Garantía: 8 años en el tanque y 2 años en componentes eléctricos.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Licuadora Oster Xpert Series 2 L Blst3Bcpg Niquelada",
+    "precio": "S/ 699",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licuadora-oster-xpert-series-2-l-blst3bcpg-niquelada-61359-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: BLST3BCPG",
+      "Material del vaso/jarra: Vidrio resistente",
+      "Número de aspas: 6",
+      "Medidas: 10.65 x 18.11 x 40.79 cm",
+      "Peso: 3.31 kg",
+      "Capacidad: 2 Litros",
+      "Potencia: 1100 Watts",
+      "Garantía: 1 año",
+      "Incluye: Vaso de Tritan™ Blend N’Go de 750 ml",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Arrocera Oster 1.8 L Ckstrc5731R Rojo",
+    "precio": "S/ 179",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-arrocera-oster-18-l-ckstrc5731r-rojo-61525-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Olla Arrocera Oster 1.8 Litros",
+      "Modelo: CKSTRC5731R",
+      "Color: Rojo",
+      "Revestimiento antiadherente",
+      "Medidas: 32.5 x 29.4 x 26.5 cm",
+      "Peso: 2.6 kg",
+      "Capacidad: 1.8 litros/10 tazas",
+      "Potencia: 700 Watts",
+      "Incluye: Una taza medidora de 180 ml (6.1 fl. oz) y un cucharón para servir.",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cafetera Programable Oster 12 Tazas Bvstdcp12B",
+    "precio": "S/ 183",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cafetera-programable-oster-12-tazas-bvstdcp12b-61441-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cafetera Programable Oster 12 Tazas",
+      "Modelo: BVSTDCP12B",
+      "Auto apagado: Sí",
+      "Luz de encendido/apagado: Sí",
+      "Medidas: 28 x 20.1 x 32.1 cm",
+      "Peso: 1.5 kg",
+      "Capacidad: Para 12 tazas",
+      "Potencia: 900 Watts",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Batidora De Mano Oster Fpsthm3532 Blanco",
+    "precio": "S/ 97",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/batidora-de-mano-oster-fpsthm3532-blanco-61579-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Batidora de Mano Oster",
+      "Modelo: FPSTHM3532",
+      "Color: Blanco",
+      "Número de velocidades: 6",
+      "Función de turbo: Sí",
+      "Medidas: 28.9 x 20.7 x 10.5 cm",
+      "Peso: 1.1 kg",
+      "Potencia: 250 Watts",
+      "Incluye: Batidores, Ganchos para masa.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Extractor De Jugos Oster 400 W Fpstje316W",
+    "precio": "S/ 220",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/x/extractor-de-jugos-oster-400-w-fpstje316w-61593-default-1.jpg",
+    "marca": "OSTER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Extractor de Jugos Oster",
+      "Modelo: FPSTJE316W",
+      "Medidas: 27.5 x 27.2 x 18.2 cm",
+      "Peso: 2.2 kg",
+      "Capacidad de la jarra: 500 ml",
+      "Potencia: 400 Watts",
+      "Accesorios removibles para fácil limpieza.",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Visicooler Ilumi Conservador Vertical Puerta Vidrio 290 L",
+    "precio": "S/ 1586",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/c/bc-cooler-ilumi-conservador-vertical-puerta-vidrio-290-l-62901-default-1.jpg",
+    "marca": "ILUMI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Visicooler Estático",
+      "Capacidad: 290 Litros",
+      "Ventilador Recirculador de Frío",
+      "Consumo de energía: 38 kW/h mensual",
+      "Potencia: 200 W",
+      "Voltaje: 220V - 60Hz",
+      "Contiene: 4 repisas",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Terma Instantánea Supreme Silver",
+    "precio": "S/ 699",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/terma-instantanea-supreme-silver-59584-default-1.jpg",
+    "marca": "ROTOPLAS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Terma Instantánea Supreme Rotoplas",
+      "Color: Silver",
+      "Dimensiones:\nAlto: 37 cm\nAncho: 20.5 cm\nProfundidad: 7 cm\nPeso: 1.44 kg",
+      "Alto: 37 cm",
+      "Ancho: 20.5 cm",
+      "Profundidad: 7 cm",
+      "Peso: 1.44 kg",
+      "Caudal mínimo de agua: 2.6 L/min",
+      "Potencia nominal: 5500 W",
+      "Incluye: Regadera cromada con chorro regulable, soporte de regadera regulable y manguera cromada.",
+      "Garantía: 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Grill Super Cook Imaco",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/r/grill-super-cook-imaco-48708-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Grill Super Cook Imaco",
+      "Modelo: IG1620",
+      "Grill y Bowl con tapa de vidrio.",
+      "Placa circular ranurado.",
+      "Recubrimiento antiadherente.",
+      "5 niveles de temperatura.",
+      "Potencia: 1650 Watts.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Hervidor Metalico 1.7L C/Rojo",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/h/e/hervidor-metalico-17l-crojo-48726-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Jarra hervidora de agua",
+      "Conexión: Eléctrica",
+      "Material: Plástico",
+      "Capacidad: 1.7 litros",
+      "Base: Giro 360°",
+      "Potencia: 1850 Watts",
+      "Tecnología strix termostato",
+      "Color: Rojo",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Licuadora Vaso De Plástico 1.25L Bl4125",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licuadora-vplast-2vel-500w-48738-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Licuadora Vaso de Plástico 1.25L Imaco",
+      "Modelo: BL4125",
+      "Color: Blanco.",
+      "Material del vaso: Plástico.",
+      "2 Velocidades + pulsador.",
+      "Capacidad: 1.25 Litros",
+      "Potencia: 350 Watts.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sandwich Maker 2 Panes",
+    "precio": "S/ 79.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sandwich-maker-2-panes-48808-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Sandwichera Maker 2 Panes",
+      "Color: Blanco",
+      "Con placas antiadherentes",
+      "Potencia: 750 Watts",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tostadora 850W Color Blanco",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/tostadora-850w-color-blanco-48826-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Imaco",
+      "Modelo: IBT2085",
+      "Color: Blanco",
+      "Potencia: 850 Watts",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aspiradora Domestica Manual Ia120M",
+    "precio": "S/ 249.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/s/aspiradora-domestica-manual-a120m-49589-default-1.jpg",
+    "marca": "IMACO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Aspiradora Doméstica Manual Imaco",
+      "Modelo: IA120M",
+      "Motor de alta velocidad.",
+      "Tiempo de carga continua de 4 a 5 horas.",
+      "Reduce la atenuación del vacío.",
+      "Logra una absorción de polvo continua y de alta eficiencia.",
+      "Función de protección de la batería de litio.",
+      "Peso: 2.28 kg",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Batidora Pedestal Kmx750Bk Picasso Negro",
+    "precio": "S/ 1799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/batidora-pedestal-kmix-kmx750bk-picasso-50671-default-1.jpg",
+    "marca": "KENWOOD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Batidora Pedestal Picasso Kenwood",
+      "Modelo: KMX750BK",
+      "Color: Negro",
+      "Cuerpo de metal",
+      "Bowl: Acero inoxidable",
+      "Velocidades: Electronicas múltiples + Pulso",
+      "Capacidad: 5 Litros",
+      "Potencia: 1000 Watts / 1.34 HP",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Máquina De Coser Brother Computarizada Sh7700",
+    "precio": "S/ 999",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maquina-coser-comp-brother-sh7700cl-77690-default-1.jpg",
+    "marca": "BROTHER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Máquina de coser con marco de aluminio.",
+      "Modelo: Sh7700",
+      "Longitud: 47 cm",
+      "Ancho: 22 cm",
+      "Altura: 37 cm",
+      "Peso: 6.4 kg",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Estrella Record Antiadherente 16Cm Con Espátula Gris",
+    "precio": "S/ 25.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-estrella-gris16cm-70672-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Gris",
+      "Modelo: Estrella",
+      "Medidas: 16.2cm x 3.5cm x 36.2cm",
+      "Capacidad: 0.6 L",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Inducción Record Antiadherente 20 Cm Negro",
+    "precio": "S/ 103",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-induccion-marmol-26cm-70673-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 26.9cm - 5cm - 46.9cm",
+      "Modelo: Inducción",
+      "Capacidad: 2.1 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tetera Record Acero Inoxidable Silver 2.5L",
+    "precio": "S/ 180",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/tetera-silver-acero-inox-25l-70677-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 20.5cm - 24cm - 20.5cm",
+      "Modelo: Silver",
+      "Capacidad: 2.5 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Record Gama Aluminio  Antiadherente 24 Cm",
+    "precio": "S/ 58",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-gama-aluminio-24cm-70680-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 24.1cm - 4.7cm - 54cm",
+      "Modelo: Inducción",
+      "Capacidad: 1.7 L",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Record Cerámica N°20",
+    "precio": "S/ 81",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-ceramica-n20-70687-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 22cm - 11.3cm - 22cm",
+      "Modelo: Cerámica",
+      "Capacidad: 1.4 L",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Inducción Record Antiadherente 20 Cm Negro",
+    "precio": "S/ 76",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-induccion-negro-20cm-70689-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas:20.9cm - 4.4cm - 40.9cm",
+      "Modelo: Inducción",
+      "Capacidad: 1.1 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Juego De Ollas Record Dalia Acero Inoxidable 11 Piezas",
+    "precio": "S/ 900",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/u/juego-de-ollas-dalia-acero-inox-11pzas-70693-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 33.5cm - 23.5cm - 53.9cm",
+      "Modelo: Dalia",
+      "El set contiene: 11 piezas",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Juego De Ollas Record Capriccio Acero Inoxidable 10 Piezas",
+    "precio": "S/ 810",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/u/juego-de-ollas-capriccio-10pz-70696-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 57cm - 33cm - 36.5cm",
+      "Modelo: Capriccio",
+      "El juego contiene: 10 piezas",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tetera Acero Inoxidable Record Con Fondo Difusor 20 2.4L",
+    "precio": "S/ 225",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/tetera-acero-inox-20-24l-70699-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 20.5cm - 22.7cm - 20.5cm",
+      "Modelo: Acero Inoxidable con fondo difusor",
+      "Capacidad: 2.4 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Record Sol Aluminio Antiadherente 24 Cm",
+    "precio": "S/ 76",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-sol-aluminio-24cm-70712-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 24.4cm - 4.7cm - 55cm",
+      "Modelo: Sol",
+      "Capacidad: 1.6 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla A Presión Record Acero Inoxidable 6 L",
+    "precio": "S/ 585",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-a-presion-acero-inox-6l-70718-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 29cm - 22cm - 37cm",
+      "Modelo: Acero Inoxidable",
+      "Capacidad: 6L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Inducción Record Sabina Antiadherente 20 Cm Rojo",
+    "precio": "S/ 76",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-induccion-rojo-sabina20cm-70756-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 21cm - 4.4cm - 41cm",
+      "Modelo: Sabina",
+      "Capacidad: 1.1 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Record Gia Plus Acero Inoxidable Con Fondo Difusor Y Tapa Vidrio N°22",
+    "precio": "S/ 99",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-acero-inox-gia-plus-n22-70764-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 24cm - 18.1cm - 39cm",
+      "Modelo: Gia Plus",
+      "Capacidad: 4.4 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Alta Record Gia Plus Inoxidable Con Fondo Difusor Y Tapa Vidrio N24",
+    "precio": "S/ 117",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-alta-inox-gia-plus-fdif-tvid-n24-70769-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Record Gama Aluminio Antiadherente 20Cm",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-gama-aluminio20cm-70771-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Inducción",
+      "Capacidad: 1.2 L",
+      "Diámetro: 20 cm",
+      "Alto: 4.3 cm",
+      "Largo: 50cm",
+      "Color: Negro",
+      "Mango de baquelita rojo aislante de calor.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Record Crono Antiadherente 22Cm Rojo",
+    "precio": "S/ 108",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-crono-rojo22cm-70772-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Crono",
+      "Capacidad: 1.2 L",
+      "Diámetro: 22 cm",
+      "Alto: 4.5 cm",
+      "Largo: 42.4cm",
+      "Color: Rojo",
+      "Mango de baquelita aislante de calor.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Record Gama Aluminio Antiadherente 18Cm",
+    "precio": "S/ 45",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-gama-aluminio18cm-70778-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Inducción",
+      "Capacidad: 1 L",
+      "Diámetro: 18 cm",
+      "Alto: 3.9 cm",
+      "Largo: 48 cm",
+      "Color: Negro",
+      "Mango de baquelita rojo aislante de calor.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla A Presión Record Pressure Plus Acero Inoxidable 6 L",
+    "precio": "S/ 540",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-a-presion-pressure-plus-6l-70786-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Pressure Plus",
+      "Material: Acero inoxidable",
+      "Capacidad: 6 L",
+      "Asa y mango de baquelita aislante de calor.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Perol Aluminio Record Tapa Color N°20 (4.1 Lt)",
+    "precio": "S/ 81",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perol-aluminio-record-tapa-color-n20-41-lt-70806-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 20cm - 15.5cm - 20cm",
+      "Modelo: Perol",
+      "Capacidad: 4.1L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Grill Record Hierro Fundido Nº 26",
+    "precio": "S/ 108",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-grill-hierro-fundido-n26-70825-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 28.1 cm x 4.5 cm x 48 cm",
+      "Modelo: Hierro Fundido",
+      "Capacidad: 2.3 L",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cacerola Record Inoxset Acero Inoxidable Con Tapa Acero N°16",
+    "precio": "S/ 159",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cacerola-inoxset-tapa-acero-n16-70838-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Inoxset",
+      "Capacidad: 1.7 L",
+      "Mango de baquelita negro aislante de calor.",
+      "Tapa en acero inoxidable.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Record Milenium Acero Inoxidable Con Tapa Vidrio N°24",
+    "precio": "S/ 189",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-milenium-tapa-vidrio-n24-70849-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Milenium",
+      "Material: Acero inoxidable",
+      "Capacidad: 5 L",
+      "Asas de baquelita negro aislante de calor.",
+      "Tapa de vidrio templado con borde de acero inoxidable.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tetera Bombeada Anodizada Record Aluminio 20 2.8L",
+    "precio": "S/ 180",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/tetera-bombeada-anodizada-20-28l-70856-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 20.2cm - 21.1cm - 20.2cm",
+      "Modelo: Bombeada",
+      "Capacidad: 2.8 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Super Perol Record Aluminio Nº 50",
+    "precio": "S/ 405",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/u/super-perol-n50-70860-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 52.8cm - 37.4cm - 52.8cm",
+      "Modelo: Super Perol Aluminio",
+      "Capacidad: 58.1L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cacerola Acero Inoxidable Record Milenium Con Tapa Acero N°16",
+    "precio": "S/ 138",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cacerola-milenium-tapa-acero-n16-70862-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Milenium",
+      "Capacidad: 1.5 L",
+      "Mango de baquelita aislante de calor.",
+      "Tapa en acero inoxidable.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Olla Acero Vitrificado Record La Limeña N°26",
+    "precio": "S/ 90",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/l/olla-acero-vitrificado-la-limena-n26-70875-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 34cm - 16.7cm - 28cm",
+      "Modelo: La Limeña",
+      "Capacidad: 6.6 L",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sartén Inducción Record Sabina Antiadherente 22Cm Rojo",
+    "precio": "S/ 85",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sarten-induccion-rojo-sabina22cm-70882-default-1.jpg",
+    "marca": "RECORD",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Sabina",
+      "Capacidad: 1.3 L",
+      "Diámetro: 22 cm",
+      "Alto: 4.9 cm",
+      "Largo: 43 cm",
+      "Color: Rojo",
+      "Mango de baquelita aislante de calor.",
+      "Imágenes referenciales"
     ],
     "disponibilidad": "En stock"
   }

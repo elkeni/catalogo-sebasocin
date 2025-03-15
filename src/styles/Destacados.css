@@ -1,0 +1,138 @@
+/* Importación de fuentes */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Variables globales */
+:root {
+    --primary: #ffffff;
+    --secondary: #f9f9f9;
+    --accent: #6b5b95;
+    --text-primary: #2d2d2d;
+    --text-secondary: #666666;
+    --border: #e0e0e0;
+    --shadow: rgba(0, 0, 0, 0.1);
+    --radius: 12px;
+    --hover-bg: #f0f0f0;
+    --button-bg: #000;
+    --button-text: #fff;
+}
+
+/* Estilos generales */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--primary);
+    margin: 0;
+    padding: 0;
+}
+
+/* Contenedor principal */
+.destacados-container {
+    padding: 20px 5%;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.destacados-titulo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--text-primary);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Grid de productos */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Tarjeta de producto */
+.product-card {
+    background: var(--primary);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 8px var(--shadow);
+    transition: transform 0.3s, box-shadow 0.3s;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.product-img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    background: var(--secondary);
+}
+
+.product-info {
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.product-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.product-price {
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-top: 5px;
+}
+
+/* Mensajes de carga y error */
+.loading, .error {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    margin-top: 20px;
+}
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+    .destacados-container {
+        padding: 10px;
+    }
+
+    .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .product-card {
+        padding: 8px;
+    }
+
+    .product-img {
+        aspect-ratio: 1/1;
+    }
+
+    .product-info {
+        padding: 0.5rem;
+    }
+
+    .product-title {
+        font-size: 0.8rem;
+    }
+
+    .product-price {
+        font-size: 0.8rem;
+    }
+}

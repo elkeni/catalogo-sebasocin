@@ -1,0 +1,217 @@
+[
+    {
+        "nombre": "Portaclips de Acrílico",
+        "precio": "S/ 4.00",
+        "imagenURL": "https://offi.pe/image/cache/webp/catalog/PRODUCTOS/UTILES%20DE%20OFICINA/ACCESORIOS%20ESCRITORIO/Organizadores/portaclip-acrilico-negro-artesco-700x700.webp",
+        "marca": "Artesco",
+        "categoria": "Oficina",
+        "caracteristicas": [
+          "Portaclips negro magnético de acrílico.",
+          "Elegante y durable, ideal para la oficina.",
+          "Fabricado con resina de alta resistencia.",
+          "Material: Acrílico.",
+          "Color superior: Negro."
+        ],
+        "disponibilidad": "En stock"
+      },
+      
+    {
+      "nombre": "Cuaderno grapado A-4 rayado",
+      "precio": "S/ 2.50",
+      "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/40915874_1/w=1500,h=1500,fit=pad",
+      "marca": "OFISCOOL",
+      "categoria": "Cuadernos y Agendas",
+      "caracteristicas": [
+        "Cuaderno formato A-4",
+        "Hojas rayadas",
+        "Marca OFISCOOL"
+      ],
+      "disponibilidad": "En stock"
+    },
+    {
+      "nombre": "Lápices Grafito 2B Empaque 12 Und",
+      "precio": "S/ 5.00",
+      "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lapiz-grafito-2-b-x-12-artesco-17482-default-1.jpg",
+      "marca": "ARTESCO",
+      "categoria": "Útiles escolares",
+      "caracteristicas": [
+        "Lápices de grafito 2B",
+        "Empaque de 12 unidades",
+        "Marca ARTESCO"
+      ],
+      "disponibilidad": "En stock"
+    },
+    {
+      "nombre": "Cuaderno Anillado Cuadriculado 100 Hojas",
+      "precio": "S/ 18.50",
+      "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/u/cuaderno-anillado-a-4-100h-cuadriculado-solido-loro-28890-default-1.jpg",
+      "marca": "LORO",
+      "categoria": "Cuadernos y Agendas",
+      "caracteristicas": [
+        "Cuaderno anillado",
+        "100 hojas cuadriculadas",
+        "Marca LORO"
+      ],
+      "disponibilidad": "En stock"
+    },
+    {
+      "nombre": "Cuaderno Espiral Andes Cuadriculado Tapa Dura A4 150 Hojas",
+      "precio": "S/ 15.90",
+      "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42565231_1/w=1500,h=1500,fit=pad",
+      "marca": "LOS ANDES",
+      "categoria": "Cuadernos y Papel 2025",
+      "caracteristicas": [
+        "Cuaderno espiralado",
+        "Tapa dura",
+        "150 hojas cuadriculadas",
+        "Formato A4",
+        "Marca LOS ANDES"
+      ],
+      "disponibilidad": "En stock"
+    },
+
+    {
+      "nombre": "Cuaderno Anillado A4 160 Hojas Cuadriculado Neo 6 Materias Tapa Dura",
+      "precio": "S/ 34.90",
+      "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42023980_2/w=1500,h=1500,fit=pad",
+      "marca": "LOS ANDES",
+      "categoria": "Cuadernos y Agendas",
+      "caracteristicas": [
+        "Cuaderno anillado",
+        "160 hojas cuadriculadas",
+        "6 materias",
+        "Tapa dura",
+        "Formato A4",
+        "Marca LOS ANDES"
+      ],
+      "disponibilidad": "En stock"
+    },
+    {
+        "nombre": "Alcohol en Gel 70° Alkofarma 500ml",
+        "precio": "S/ 15.50",
+        "imagenURL": "https://promart.vteximg.com.br/arquivos/ids/3317961-1000-1000/image-11ef4613101e4e71a7b3264543aebe5a.jpg?v=637747629777700000",
+        "marca": "ALKOFARMA",
+        "categoria": "Salud y Cuidado Personal",
+        "caracteristicas": [
+          "Antibacterial con aloe vera.",
+          "Desinfectante - Antiséptico.",
+          "Con dispensador para fácil consumo (tapa pump).",
+          "Presentación: 500 ml (medio litro).",
+          "Garantía: Laboratorio Alkofarma E.I.R.L.",
+          "Registro Sanitario: GN-0058.",
+          "Certificaciones: BPM, BPL, BPA.",
+          "Recomendado por el Ministerio de Salud y DIGEMID.",
+          "Fabricado en Perú.",
+          "Condición de venta: Venta libre."
+        ],
+        "disponibilidad": "En stock"
+      },
+        {
+          "nombre": "Gorro Quirúrgico Pack 100 unidades Family Doctor",
+          "precio": "S/ 19.99",
+          "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/116258448_01/w=1500,h=1500,fit=pad",
+          "marca": "Family Doctor",
+          "categoria": "Equipos y Material Médico",
+          "caracteristicas": [
+            "Fabricado con tela no tejida",
+            "Gorro elástico y redondeado de talla amplia",
+            "Diseño y ajuste cómodo",
+            "Disponible en color Azul y Blanco",
+            "Incluye 100 gorros quirúrgicos"
+          ],
+          "disponibilidad": "En stock"
+        },
+        {
+          "nombre": "Mascarilla Quirúrgica de Color Blanco x 50 Unidades",
+          "precio": "S/ 24.00",
+          "imagenURL": "https://dcuk1cxrnzjkh.cloudfront.net/seller/1648686122886L.jpg",
+          "marca": "Ybimportaciones",
+          "categoria": "Equipos y Material Médico",
+          "caracteristicas": [
+            "Mascarilla quirúrgica normal que se utiliza para el cuidado de la salud con buena resistencia a romperse."
+          ],
+          "disponibilidad": "En stock"
+        },
+        {
+          "nombre": "Guantes de Latex para Examen Alkhofar",
+          "precio": "S/ 29.90",
+          "imagenURL": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/023131L.jpg",
+          "marca": "Inkafarma",
+          "categoria": "Equipos y Material Médico",
+          "caracteristicas": [
+            "Tallas S, M, L",
+            "Guantes de latex",
+            "Contiene latex natural",
+            "Ideal para exámenes",
+            "Talla L",
+            "Registro Sanitario: DM13844E"
+          ],
+          "disponibilidad": "En stock"
+        },
+        {
+          "nombre": "Mandilón Descartable 40g/m Pack x6 Unid R&G Talla M",
+          "precio": "S/ 47.90",
+          "imagenURL": "https://dcuk1cxrnzjkh.cloudfront.net/seller/1676327212813L.jpg",
+          "marca": "Savisafety",
+          "categoria": "Equipos y Material Médico",
+          "caracteristicas": [
+            "Mandil descartable no estéril largo (nivel por debajo de las rodillas), con cuello redondo con cinta de doble doblez (2 tiras de ajuste), espalda con abertura longitudinal, totalmente cruzada y trasla"
+          ],
+          "disponibilidad": "En stock"
+        },
+            {
+              "nombre": "Lejía Tradicional Clorox 4 kg",
+              "precio": "S/ 10.30",
+              "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/40473637_1/w=1500,h=1500,fit=pad",
+              "marca": "Clorox",
+              "categoria": "Lejía",
+              "caracteristicas": [
+                "Nueva fórmula para una limpieza efectiva y segura.",
+                "Ideal para la limpieza y desinfección de múltiples superficies.",
+                "Excelente blanqueamiento sin dañar las prendas.",
+                "Elimina el 99.9% de bacterias, incluyendo el virus SARS-CoV-2 causante del COVID-19."
+              ],
+              "disponibilidad": "En stock"
+            },
+            {
+              "nombre": "Lejía Cloro Sapolio 5 kg",
+              "precio": "S/ 9.90",
+              "imagenURL": "https://metroio.vtexassets.com/arquivos/ids/270690-1600-auto?v=638179292217370000&width=1600&height=auto&aspect=true",
+              "marca": "Sapolio",
+              "categoria": "Lejía",
+              "caracteristicas": [
+                "Lejía de alta calidad para una limpieza profunda.",
+                "Presentación económica de 5 kg.",
+                "Ideal para desinfectar y blanquear superficies y prendas."
+              ],
+              "disponibilidad": "En stock"
+            },
+            {
+              "nombre": "Limpiatodo Lavanda Sapolio 5 L",
+              "precio": "S/ 13.90",
+              "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacPE/2155958_01/w=1500,h=1500,fit=pad",
+              "marca": "Sapolio",
+              "categoria": "Limpiadores",
+              "caracteristicas": [
+                "Limpiador multiusos con fragancia a lavanda.",
+                "Presentación de 5 litros.",
+                "Ideal para la limpieza diaria de diversas superficies."
+              ],
+              "disponibilidad": "En stock"
+            },
+            {
+              "nombre": "Desinfectante Pino Kleine 19 L",
+              "precio": "S/ 69.90",
+              "imagenURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacPE/2755289_01/w=1500,h=1500,fit=pad",
+              "marca": "Kleine Wolke",
+              "categoria": "Desinfectantes",
+              "caracteristicas": [
+                "Desinfectante con aroma a pino.",
+                "Presentación de 19 litros.",
+                "Ideal para desinfectar amplias superficies."
+              ],
+              "disponibilidad": "En stock"
+            }
+          
+  ]
+  

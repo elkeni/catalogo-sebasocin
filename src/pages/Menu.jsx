@@ -9,9 +9,7 @@ const Menu = () => {
     <div className="menu-container">
       {/* Navbar */}
       <nav className="navbar">
-        <Link to="/explorar">Explorar</Link>
-        <Link to="/productos">Productos</Link>
-        <Link to="/faqs">FAQs</Link>
+        <Link to="/explorar">Sobre Nosotros</Link>
       </nav>
 
       {/* Sección Izquierda - Texto */}

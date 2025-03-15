@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Sabanilla De Papel Elite 2 Rollos X 100 M Cada Uno",
-    "precio": "S/107.60",
+    "precio": "S/ 107.6",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sabanilla-de-papel-elite-2-rollos-x-100mt-cu-6588-default-1.png",
     "marca": "ELITE",
     "categoria": "Sin categoría",
@@ -14,22 +14,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Paño Absorbente Yes Amarillo X 4 Und",
-    "precio": "S/4.90",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-yes-absorbente-amarillo-pqt-x4-unidades-30607-default-1.jpg",
-    "marca": "YES",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Paño Absorbente Yes Amarillo X 4 Und",
-      "Paños de color amarillo",
-      "Cada paquete incluye 4 unidades",
-      "Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Franela Amarilla X 1 M",
-    "precio": "S/7.30",
+    "precio": "S/ 7.3",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/franela-amarilla-x-1mt-794-default-1.jpg",
     "marca": "GENERICO",
     "categoria": "Sin categoría",
@@ -41,8 +27,120 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Papel Toalla Super Doble Hoja Paquete 19 M X 1 Und",
+    "precio": "S/ 2.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-paquete-x-1-19m-41775-default-1.png",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 1 unidad",
+      "Mega rollo",
+      "Doble hoja",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Frozen X 100 Und",
+    "precio": "S/ 17.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-refill-x100-und-frozen-43131-default-1.png",
+    "marca": "FROZEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 100 unidades",
+      "Extra suave",
+      "Antibacterial",
+      "Tipo de tela: Spunlance",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Enjuague Bucal Colgate Plax Minions 250 Ml",
+    "precio": "S/ 13.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/n/enjuague-bucal-plax-minions-250m-colgate-43559-default-1.jpg",
+    "marca": "COLGATE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 250 ml",
+      "Recomendable: A partir de los 6 años",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Guantes Virutex Económico Talla M",
+    "precio": "S/ 10.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/u/guante-economico-talla-m-virutex-16123002-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 1 Par de guantes talla M.",
+      "Cuida las manos.",
+      "Mayor duración.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Guantes Virutex Económico Talla S",
+    "precio": "S/ 10.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/u/guante-economico-talla-s-virutex-16123003-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 1 Par de guantes talla S.",
+      "Ideales para la limpieza del hogar.",
+      "Mayor duración.",
+      "Cuida las manos.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paño Multiusos Uso Diario X 6 Und",
+    "precio": "S/ 4.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-multiusos-uso-diario-x-6-und-33859-default-1.jpg",
+    "marca": "USO DIARIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 6 unidades",
+      "Antibacterial",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Esponja Multiusos Uso Diario 2 En 1",
+    "precio": "S/ 1.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/s/esponja-2-en-1-uso-diario-37193-default-1.jpg",
+    "marca": "USO DIARIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Esponja multiusos",
+      "Máxima absorción",
+      "Para una limpieza profunda",
+      "*Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Alcohol Medicinal Erza 70° X 1 L",
+    "precio": "S/ 15.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/alcohol-medicinal-70-x-1-lt-erza-45424-default-1.jpg",
+    "marca": "ERZA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Alcohol Medicina 70°.",
+      "Contiene: 1 Litro.",
+      "Marca: Erza",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Paño Esponja Virutex X 8 Und",
-    "precio": "S/18.40",
+    "precio": "S/ 14.7",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-esponja-clasica-x-8-virutex-32423-default-1.jpg",
     "marca": "VIRUTEX",
     "categoria": "Sin categoría",
@@ -57,7 +155,7 @@
   },
   {
     "nombre": "Bolsas Herméticas Pequeñas Triple B X 50 Und",
-    "precio": "S/7.40",
+    "precio": "S/ 7.4",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsas-hermeticas-chicas-x-50-und-25644-default-1.jpg",
     "marca": "TRIPLE B",
     "categoria": "Sin categoría",
@@ -70,22 +168,45 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Toallitas Húmedas Huggies Limpieza Cotidiana 80 Und",
-    "precio": "S/7.50",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-x-80-limpieza-basica-huggies-30507-default-1.jpg",
-    "marca": "HUGGIES",
+    "nombre": "Repuesto Para Concentrador Filtro",
+    "precio": "S/ 169",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/repuesto-para-concentrador-filtro-47970-default-1.jpg",
+    "marca": "GENERICO",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Las toallitas húmedas Huggies son hipoalergénicas y no contienen alcohol.",
-      "Con personajes de Disney.",
-      "Incluye: 80 unidades.",
-      "*Imágenes referenciales."
+      "Peso: 86.7 gr",
+      "Material: Plástico ABS y algodón.",
+      "Color: Gris / Blanco",
+      "Función: Filtro de aire.",
+      "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Paños Humedos Desinf Multiuso X 35Un Virutex",
+    "precio": "S/ 15",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallas-desinfectantes-multiuso-35un-easy-clean-46787-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Toallas desinfectantes multiusos.",
+      "Contenido: 35 unidades.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Super Doble Hoja 9.5 M Paquete X 3 Und",
+    "precio": "S/ 3.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-doble-hoja-95m-paquete-x-3-und-48703-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Bolsa Para Basura Virutex Negro 180 L Rollo X 10 Und",
-    "precio": "S/7.30",
+    "precio": "S/ 7.3",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-pbas-negro-180l-90x120cm-x10-virutex-44580-default-1.jpg",
     "marca": "VIRUTEX",
     "categoria": "Sin categoría",
@@ -98,7 +219,7 @@
   },
   {
     "nombre": "Ambientador Líquido Daryza Floral Galón",
-    "precio": "S/17.60",
+    "precio": "S/ 17.6",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/perfumador-liquido-floral-x-1-galon-daryza-15608001-default-1.jpg",
     "marca": "DARYZA",
     "categoria": "Sin categoría",
@@ -112,7 +233,7 @@
   },
   {
     "nombre": "Ambientador Liquído Daryza Bouquet X 1 L",
-    "precio": "S/5.00",
+    "precio": "S/ 5",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/m/ambientador-liquido-bouquet-x-1lt-347-32006-default-1.png",
     "marca": "DARYZA",
     "categoria": "Sin categoría",
@@ -124,7 +245,7 @@
   },
   {
     "nombre": "Guantes Virutex Corrugado Clásico Talla M",
-    "precio": "S/12.10",
+    "precio": "S/ 12.1",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/u/guante-corrugado-clasica-virutex-talla-m-20750002-default-1.jpg",
     "marca": "VIRUTEX",
     "categoria": "Sin categoría",
@@ -133,7 +254,7 @@
   },
   {
     "nombre": "Balde Reyplast Con Escurridor Mágico 23 L Surtido",
-    "precio": "S/110.20",
+    "precio": "S/ 110.2",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/balde-reyplast-con-escurridor-magico-23-l-surtido-15469-default-2.jpg",
     "marca": "REYPLAST",
     "categoria": "Sin categoría",
@@ -142,7 +263,7 @@
   },
   {
     "nombre": "Lejía Daryza 5.0%  X 1 L",
-    "precio": "S/5.40",
+    "precio": "S/ 5.4",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/e/lejia-50-x-1-lt-daryza-45498-default-1.jpg",
     "marca": "DARYZA",
     "categoria": "Sin categoría",
@@ -151,7 +272,7 @@
   },
   {
     "nombre": "Lavavajilla Líquido Ayudin Limón 900 Ml",
-    "precio": "S/14.90",
+    "precio": "S/ 14.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lavavajillas-liquido-ayudin-limon-900ml-14000-default-1.jpg",
     "marca": "AYUDIN",
     "categoria": "Sin categoría",
@@ -166,7 +287,7 @@
   },
   {
     "nombre": "Bolsa Biodegradable Mecasa Transparente 10 X 15'' Paquete X 100 Und",
-    "precio": "S/5.80",
+    "precio": "S/ 5.8",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-multiuso-transparente-bio-10x15-x100-mecasa-47815-default-1.jpg",
     "marca": "MECASA",
     "categoria": "Sin categoría",
@@ -175,7 +296,7 @@
   },
   {
     "nombre": "Bolsa Mecasa Biodegradable Blanca Multiuso 9'' X 14'' Paquete X 100 Und",
-    "precio": "S/5.50",
+    "precio": "S/ 5.5",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-multiuso-blanca-bio-9x14-x100-mecasa-47817-default-1.jpg",
     "marca": "MECASA",
     "categoria": "Sin categoría",
@@ -190,7 +311,7 @@
   },
   {
     "nombre": "Repuesto Para Concentrador Botellas Humidificación",
-    "precio": "S/29.50",
+    "precio": "S/ 29.5",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/repuesto-para-concentrador-botellas-humidificacion-47966-default-1.jpg",
     "marca": "GENERICO",
     "categoria": "Sin categoría",
@@ -205,7 +326,7 @@
   },
   {
     "nombre": "Repuesto Para Concentrador Tubo Conexión",
-    "precio": "S/5.90",
+    "precio": "S/ 5.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/repuesto-para-concentrador-tubo-conexion-47967-default-1.jpg",
     "marca": "GENERICO",
     "categoria": "Sin categoría",
@@ -218,32 +339,61 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Repuesto Para Concentrador Filtro",
-    "precio": "S/169.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/repuesto-para-concentrador-filtro-47970-default-1.jpg",
-    "marca": "GENERICO",
+    "nombre": "Detergente Caricia Peques X 700 Gr",
+    "precio": "S/ 21.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/detergente-caricia-peques-x-700gr-53804-default-2.jpg",
+    "marca": "CARICIA",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Peso: 86.7 gr",
-      "Material: Plástico ABS y algodón.",
-      "Color: Gris / Blanco",
-      "Función: Filtro de aire.",
+      "Contenido: 700 gramos.",
       "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Papel Toalla Super Doble Hoja 9.5 M Paquete X 3 Und",
-    "precio": "S/3.40",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-doble-hoja-95m-paquete-x-3-und-48703-default-1.jpg",
-    "marca": "SUPER",
+    "nombre": "Cortabarba Philips Multigroom Mg7735_15",
+    "precio": "S/ 399.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/cortabarba-multigroom-philips-mg7735_15-54082-default-1.jpg",
+    "marca": "PHILIPS",
     "categoria": "Sin categoría",
-    "caracteristicas": [],
+    "caracteristicas": [
+      "12 accesorios",
+      "Tecnología DualCut",
+      "Hasta 120 minutos de autonomía",
+      "Resistente al agua",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Alcohol Medicinal Nex 70° X 1 L",
+    "precio": "S/ 13.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/alcohol-medicinal-nex-70-x-1-l-51426-default-1.jpg",
+    "marca": "NEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación x1 unidad.",
+      "Contenido 1 litro.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Esponja De Baño 3M Niños Nexcare Monstruos Surtido",
+    "precio": "S/ 10.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/o/ponjita-de-bano-ninos-mounstruos-nexcare-52099-default-1.jpg",
+    "marca": "3M",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Esponjita de baño ideal para niños.",
+      "Medidas: 108 x 93 x 28 mm",
+      "Imágenes referenciales."
+    ],
     "disponibilidad": "En stock"
   },
   {
     "nombre": "Toallitas Húmedas Tuinies Paquete X 80 Und",
-    "precio": "S/8.30",
+    "precio": "S/ 8.3",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-tuinies-x-80-und-35521-default-1.jpg",
     "marca": "TUINIES",
     "categoria": "Sin categoría",
@@ -256,22 +406,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Paño Absorbente Tradicional Uso Diario X 3 Und",
-    "precio": "S/2.70",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-absorb-x-3-tradicional-uso-diario-33860-default-1.jpg",
-    "marca": "USO DIARIO",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Contiene: 3 unidades",
-      "Mayor absorción",
-      "Mayor resistencia",
-      "Imágenes referenciales"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Algodón Sterilab Bolsa X 50 G",
-    "precio": "S/4.70",
+    "precio": "S/ 4.7",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/algodon-50-gr-sterilabcfk-8396-default-1.jpg",
     "marca": "STERILAB",
     "categoria": "Sin categoría",
@@ -280,7 +416,7 @@
   },
   {
     "nombre": "Jabón Líquido Disney Princesas",
-    "precio": "S/14.60",
+    "precio": "S/ 14.6",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-liquido-princesas-20944-default-1.jpg",
     "marca": "DISNEY PRINCESAS",
     "categoria": "Sin categoría",
@@ -288,8 +424,1258 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Bolsa Chequera Multiusos N°3",
+    "precio": "S/ 3.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-chequera-n3-8-x-12-pqtx100-8677-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Gelatti Spiderman X 25 Und",
+    "precio": "S/ 2.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-hum-x-25un-spiderman-gelatti-65401-default-1.jpg",
+    "marca": "GELATTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Extra suaves con extracto de sábila.",
+      "Sin alcohol ni parabenos.",
+      "Para manos y rostro.",
+      "Medidas: 18 x 20 cm.",
+      "45 gr espesor.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Wet Brush Mini Disney Blancanieves",
+    "precio": "S/ 30.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-mini-disney-blancanieves-wetbrush-65592-default-1.jpg",
+    "marca": "WET BRUSH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño exclusivo Disney - Blancanieves",
+      "Cuenta con un cómodo diseño de mango",
+      "Las exclusivas cerdas Intelliflex ultra suaves se deslizan a través de enredos con facilidad. Te permite cepillar con menos fuerza para que puedas desenredar con menos daño a tu cabello",
+      "Con cerdas flexibles que minimizan el dolor, las puntas abiertas y la rotura del cabello",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Gelatti Unicornio X 100 Und",
+    "precio": "S/ 8.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-gelatti-unicornio-x-100-unidades-66487-default-1.jpg",
+    "marca": "GELATTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Extra suaves con extracto de sábila.",
+      "Para manos y rostro.",
+      "Contiene: 100 toallitas húmedas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pasta Dental Colgate Triple Acción 75Ml Pack X 3 Und",
+    "precio": "S/ 16.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pasta-dental-colgate-triple-accion-75ml-pack-x-3-und-72222-default-1.jpg",
+    "marca": "COLGATE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 18.5 x 3.8 x 3.1 cm.",
+      "Peso neto: 330 gr.",
+      "Obtén triple beneficio: Protección, Blancura, y Frescura.",
+      "Contiene: 3 unidades.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón En Barra Protex Avena 110 G X 3 Und",
+    "precio": "S/ 11.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-en-barra-protex-avena-110gr-x-3-und-72226-default-1.jpg",
+    "marca": "PROTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ofrece una protección antibacterial natural con óleo de linaza.",
+      "Medidas: 18.5 x 3.8 x 3.1 cm.",
+      "Peso neto: 330 gr.",
+      "Contiene: 3 unidades.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Tuinies Con Tapa Frozen X 100 Und",
+    "precio": "S/ 9.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-x-100-unidades-ctapa-frozen-62653-default-1.jpg",
+    "marca": "TUINIES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño: Frozen",
+      "Contenido: 100 unidades",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Crema Multiusos Cif Bioactive 750Ml",
+    "precio": "S/ 14.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/r/crema-bioactive-multiuso-x-750-ml-cif-69757-default-1.jpg",
+    "marca": "CIF",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Detergente Líquido Skip Bio Enzimas Doypack 800Ml",
+    "precio": "S/ 17.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/detergente-liq-bio-enzimas-dpx800ml-skip-69759-default-1.jpg",
+    "marca": "SKIP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón En Barra Dove Original Blanco 90G Pack X 3 Und",
+    "precio": "S/ 11.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-barra-3pack-original-blco-x90gdove-69760-default-1.jpg",
+    "marca": "DOVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Desodorante En Barra Dove Original 50G",
+    "precio": "S/ 13.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/desodorante-barra-original-x-50-g-dove-69763-default-1.jpg",
+    "marca": "DOVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Gel De Baño Natural Modelador 300 Ml",
+    "precio": "S/ 65",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/e/gel-de-bano-natural-modelador-300-ml-58847-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Gel de Baño Natural Modelador 300 ml Saysi",
+      "Limpia y elimina las células muertas dejando la piel suave, fresca y tonificada.",
+      "Contenido Neto: 300 ml",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Acondicionador Natural Brillo Radiante Manzanilla Y Aloe 300 Ml",
+    "precio": "S/ 45",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/c/acondicionador-natural-brillo-radiante-manzanilla-300-ml-58855-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Acondicionador Natural Brillo Radiante Manzanilla y Aloe 300 ml Saysi",
+      "Deja el cabello suave y manejable.",
+      "Contenido neto: 300 ml",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Shampoo Brillo Radiante Manzanilla 300 Ml",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/h/shampoo-brillo-radiante-manzanilla-300-ml-58867-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Shampoo Brillo Radiante Manzanilla 300 ml Saysi",
+      "Deja el cabello sedoso, dócil, manejable y con un agradable aroma.",
+      "Contenido neto: 300 ml",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Shampoo Humectante Maca Y Aloe 300 Ml",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/h/shampoo-humectante-maca-y-aloe-300-ml-58871-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Shampoo Humectante Maca y Aloe 300 ml Saysi",
+      "Hidrata, fortalece y protege tu cabello.",
+      "Recupera la sedosidad y brillo que tu cabello necesita.",
+      "Contenido Neto: 300 ml",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Shampoo Revitalizante Uña De Gato/Maca/Aloe 300 Ml",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/h/shampoo-revitalizante-una-de-gatomacaaloe-300-ml-58875-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Shampoo Revitalizante Uña de Gato, Maca y Aloe 300 ml Saysi",
+      "Recupera la vitalidad y luminosidad de tu cabello.",
+      "Contenido Neto: 300 ml",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Crema Hidratante Aloe Andino 300 Gr",
+    "precio": "S/ 74",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/r/crema-hidratante-aloe-andino-300-gr-58943-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Crema Hidratante Aloe Andino 300 Gr Saysi",
+      "Es de fácil absorción y no es grasosa.",
+      "Recomendado para todo tipo de piel.",
+      "Contenido neto: 300 gr",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Talco Natural Refrescante Uña De Gato Orégano Y Menta 100Gr",
+    "precio": "S/ 39",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/talco-natural-refrescante-una-de-gato-oregano-y-menta-100gr-59998-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Talco Natural Refrescante 100 gr Saysi",
+      "Recomendado para refrescar el cuerpo de bebés, niños y adultos.",
+      "Deja el cuerpo fresco con olor a menta, saludable y sin resecar la piel.",
+      "Contenido neto: 100 gr",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Combo Bañera Aqua Baby (Bañera Decorada + Auxiliar De Baño) Rosado",
+    "precio": "S/ 72.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/combo-banera-aqua-baby-banera-decorada-auxiliar-de-bano-rosado-60104-default-1.jpg",
+    "marca": "REYPLAST",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Combo Bañera Aqua Baby Reyplast",
+      "Modelo: RWX0104L4-R",
+      "Color: Rosado",
+      "Medidas:\nAlto: 28.1 cm\nAncho: 50.5 cm\nLargo: 85.1 cm\nPeso: 1.82 kg",
+      "Alto: 28.1 cm",
+      "Ancho: 50.5 cm",
+      "Largo: 85.1 cm",
+      "Peso: 1.82 kg",
+      "Incluye: Auxiliar de baño",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Set Trapeador Smart Reyplast Beige",
+    "precio": "S/ 64.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/set-trapeador-smart-reyplast-beige-60154-default-1.jpg",
+    "marca": "REYPLAST",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Set Trapeador Smart Reyplast",
+      "Modelo: BLX054100-B",
+      "Color: Beige",
+      "Medidas:\nAlto: 38.5 cm\nAncho: 18 cm\nLargo: 23.3 cm\nPeso: 0.84 kg",
+      "Alto: 38.5 cm",
+      "Ancho: 18 cm",
+      "Largo: 23.3 cm",
+      "Peso: 0.84 kg",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pañuelos Elite Professional 10 Hojas Paquete X 8 Und",
+    "precio": "S/ 6.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/panuelo-elite-professional-x-10h-pqtx8-57992-default-1.jpg",
+    "marca": "ELITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: ELITE PROFESSIONAL",
+      "Largo (cm) 11Ancho (cm) 5.5 Alto (cm) 22",
+      "Peso (kg) 0.2",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Desenredante Para Peinar Gelatti Unicornio Spray 200 Ml",
+    "precio": "S/ 14.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/desenredante-spray-para-peinar-gelatti-unicornio-x-200ml-77559-default-1.jpg",
+    "marca": "GELATTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Unicornio.",
+      "Desenredante spray de cabello.",
+      "Contenido: 200 ml.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Desenredante Para Peinar Gelatti Skye Spray 200 Ml",
+    "precio": "S/ 14.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/desenredante-spray-para-peinar-gelatti-skye-x-200ml-77562-default-1.jpg",
+    "marca": "GELATTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Skye.",
+      "Desenredante spray de cabello.",
+      "Contenido: 200 ml.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Set Gelatti Cartuchera Sonic Con Pasta Dental + Cepillo",
+    "precio": "S/ 9.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/set-gelatti-cartuchera-sonic-pasta-dental-cepillo-77567-default-1.jpg",
+    "marca": "GELATTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Sonic.",
+      "Medidas: 20 x 2.4 x 10 cm.",
+      "Peso neto: 50 gr.",
+      "La cartuchera contiene cepillo y pasta dental.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Desodorante Attitude Naranja 85Gr",
+    "precio": "S/ 56",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/desodorante-naranja-attitude-85gr-77628-default-1.jpg",
+    "marca": "ATTITUDE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Desodorante vegano e hipoalergénico",
+      "Aroma: Naranja",
+      "Peso Neto: 85 gr",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Spray Para Peinar Attitude Sandia Y Coco 240 Ml",
+    "precio": "S/ 66",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/p/spray-para-peinar-sandia-attitude-240ml-77636-default-1.jpg",
+    "marca": "ATTITUDE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Fórmula natural e hipoalergénica",
+      "Diseñada para desenredar el cabello enredado",
+      "Peso neto 240 ml",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Protector Solar Badger Para Niños 87Ml",
+    "precio": "S/ 95",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/r/protector-solar-ninos-badger-87ml-77642-default-1.jpg",
+    "marca": "BADGER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Protector Solar natural",
+      "Hecho con óxido de zinc",
+      "Apto para niños y adultos",
+      "Peso Neto: 87 ml",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Ligas Para Cabello Kipit Pastel Frasco X 20 Und",
+    "precio": "S/ 3.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/frasco-ligas-pastel-x-20-un-kipit-76407-default-1.jpg",
+    "marca": "KIPIT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 10 x 5 x 1 cm.",
+      "Peso neto: 27 gr.",
+      "Colores pastel.",
+      "Contiene: Frasco x 20 ligas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Ligas Para Cabello Kipit Negro Frasco X 20 Und",
+    "precio": "S/ 3.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/frasco-ligas-negras-x-20-un-kipit-76409-default-1.jpg",
+    "marca": "KIPIT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 10 x 5 x 1 cm.",
+      "Peso neto: 27 gr.",
+      "Color: Negro.",
+      "Contiene: Frasco x 20 ligas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Ligas Para Cabello Kipit Surtido Frasco X 20 Und",
+    "precio": "S/ 3.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/f/r/frasco-ligas-surtido-x-20-un-kipit-76410-default-1.jpg",
+    "marca": "KIPIT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 10 x 5 x 1 cm.",
+      "Peso neto: 27 gr.",
+      "Colores surtido.",
+      "Contiene: Frasco x 20 ligas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Ganchos Para Cabello Kipit Flor Pack X 6 Und",
+    "precio": "S/ 4.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/a/ganchos-flor-x-6-un-kipit-76402-default-1.jpg",
+    "marca": "KIPIT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ganchos para cabello diseño flor.",
+      "Medidas: 13.5 x 7 x 1 cm.",
+      "Peso neto: 19 gr.",
+      "Colores surtidos.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Set Mini Ligas Kipit Para Cabello Pastel",
+    "precio": "S/ 5.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/set-de-mini-ligas-pasteles-kipit-76420-default-1.jpg",
+    "marca": "KIPIT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Set mini ligas en colores pastel.",
+      "Medidas: 10 x 5 x 1 cm.",
+      "Peso neto: 39 gr.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Aparato Inalámbrico Vape + 5 Pastillas",
+    "precio": "S/ 21.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/p/aparato-inalambrico-vape-5-pastillas-75030-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ingrediente activo: Praletrina.",
+      "Beneficio: Protección contra el dengue.",
+      "Incluye: 1 aparato electrónico inalámbrico y 5 pastillas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Limpiador Virutex Primavera 900 Ml",
+    "precio": "S/ 2.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/limpiador-multisuperficies-antibacterial-virutex-primavera-botella-x-900ml-75034-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Limpiador multisuperficies antibacterial",
+      "Contiene: 900 ml",
+      "Aroma: Primavera",
+      "Producto Biodegradable",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bloqueador Sun Bum Face Stick Spf30+",
+    "precio": "S/ 54.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/l/bloquead-face-stick-spf30-sun-bum-78838-default-1.jpg",
+    "marca": "SUN BUM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Protector solar facial en barra SPF 30",
+      "Cruelty Free y Vegano",
+      "Resistente al agua (80 minutos)",
+      "Amplio Espectro",
+      "Sin gluten y sin parabenos",
+      "Contenido: 13g",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pulsera Repelente Mosrepel De Zancudos Y Mosquitos",
+    "precio": "S/ 30",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/u/pulsera-con-repelente-natural-de-zancudos-y-mosquitos-mosrepel-79700-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Es 100% natural, lo que la hace ideal para bebés, niños y adultos.",
+      "No se absorbe a través de la piel.",
+      "Dura 180 horas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Super Premium Doble Hoja 15 Mt",
+    "precio": "S/ 2.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-premium-doble-hoja-15-mt-84012-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Doble hoja.",
+      "Incluye: Paquete por 1 rollo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Para Basura Tachito Negro 35 L Paquete X 10 Und",
+    "precio": "S/ 3.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-para-basura-negra-35l-x-10-tachito-13939-default-1.jpg",
+    "marca": "TACHITO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en bolsa con 10 und.",
+      "Capacidad: 35 Litros.",
+      "Resistentes y durables.",
+      "Con sellos antigoteo.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Para Basura Virutex Negro 35 L Rollo X 25 Und",
+    "precio": "S/ 8.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-para-basura-negra-35l-60x60-rolx25-virutex-45696-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en rollo con 25 unidades.",
+      "Capacidad para 35 litros.",
+      "Medida: 60 x 60.",
+      "Resistente y duradero.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Para Basura Virutex Negro 75 L Rollo X 20 Und",
+    "precio": "S/ 14.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-para-basura-negra-75l-65x100-rolx20-virutex-44579-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en rollo con 20 unidades.",
+      "Capacidad: 75 litros.",
+      "Medidas: 65 x 100 cm.",
+      "Resistente y duradero.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paño Microfibra Daryza Rojo 38 X 40 Cm",
+    "precio": "S/ 4.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-microfibra-38-x-40-cm-rjo-daryza-32044003-default-1.jpg",
+    "marca": "DARYZA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Detergente Sapolio X 140 G",
+    "precio": "S/ 2.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/detergente-sapolio-x-150-gr-39383-default-1.jpg",
+    "marca": "SAPOLIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 140 gr.",
+      "Aroma: Limón",
+      "Ideal para ropa blanca y de color.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paño Para Piso Virutex Con Ojal Grande",
+    "precio": "S/ 14.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-para-piso-con-ojal-grn-virutex-13932-default-1.jpg",
+    "marca": "VIRUTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Higiénico Super Doble Hoja Morado 42 M Paquete X 4",
+    "precio": "S/ 5.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-higienico-doble-hoja-morado-40m-paq-x-4-46507-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 4 und.",
+      "Doble Hoja.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón Líquido Family Doctor Antibacterial Vainilla Con Dispensador 400 Ml",
+    "precio": "S/ 5.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-liquido-antibacterial-con-dispensador-400ml-vainilla-47579003-default-1.png",
+    "marca": "FAMILY DOCTOR",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Banditas 3M Animales Nexcare A Prueba De Agua X 12 Und",
+    "precio": "S/ 12.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/banditas-animales-x-12-unidades-nexcare-47587-default-1.jpg",
+    "marca": "3M",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Banditas con diseños de animales.",
+      "Contiene: 12 unidades.",
+      "Marca: Nexcare.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Mecasa Biodegradable Blanca Multiuso 7'' X 10'' Paquete X 100 Und",
+    "precio": "S/ 3.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-multiuso-blanca-bio-7x10-x100-mecasa-47816-default-1.jpg",
+    "marca": "MECASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Bolsas multiuso.",
+      "Color: Blanco.",
+      "Medidas: 7'' x 10''",
+      "Marca: Mecasa.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa De Papel Kraft Mecasa 12.7 X 24.6 Cm Paquete X 20 Und",
+    "precio": "S/ 5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-kraft-n-4-x-20un-mecasa-47819-default-1.jpg",
+    "marca": "MECASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa De Papel Kraft Mecasa 32 X 16 Cm Paquete X 20 Und",
+    "precio": "S/ 7.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-kraft-n-8-x-20un-mecasa-47821-default-1.jpg",
+    "marca": "MECASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Mecasa Biodegradable Verde 18'' X 26'' X 50 Und",
+    "precio": "S/ 16.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-verde-bio-18x26-x50-sobre-mecasa-47825-default-1.jpg",
+    "marca": "MECASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Mecasa Biodegradable Blanca 14'' X 20'' X 50 Und",
+    "precio": "S/ 10.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-blanca-bio-14x20-x50-sobre-mecasa-47826-default-1.jpg",
+    "marca": "MECASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsa Mecasa Biodegradable Blanca 18'' X 26'' X 50 Und",
+    "precio": "S/ 16.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsa-blanca-bio-18x26-x50-sobre-mecasa-47827-default-1.jpg",
+    "marca": "MECASA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Esponja Scotch Brite Verde X 1 Und",
+    "precio": "S/ 3.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/s/esponja-scotch-britte-verde-507-default-1.jpg",
+    "marca": "SCOTCH BRITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 1 unidad",
+      "Fibra verde",
+      "Dura más y limpia mejor",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Ambientador Sapolio Antitabaco X 360 Ml",
+    "precio": "S/ 8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/m/ambientador-antitabaco-spray-360ml-sapolio-8949-default-1.jpg",
+    "marca": "SAPOLIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 360 ml",
+      "Finas fragancias",
+      "Cubre malos olores",
+      "Acción instantánea",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bolsas Herméticas Medianas Triple B X 25 Und",
+    "precio": "S/ 7.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/o/bolsas-hermeticas-medianas-x-25-und-25645-default-1.jpg",
+    "marca": "TRIPLE B",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 25 unidades",
+      "Almacena y organiza",
+      "Cierre con Slider",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Humedas Mickey Mouse X 100 Und",
+    "precio": "S/ 17.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-refill-x100-und-mickey-43132-default-1.jpg",
+    "marca": "",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 100 unidades",
+      "Extra suaves",
+      "Tela Spunlace",
+      "Antibacterial"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Alcohol Medicinal Erza 70° X 250 Ml",
+    "precio": "S/ 5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/l/alcohol-medicinal-70-x-250-ml-erza-45426-default-1.jpg",
+    "marca": "ERZA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Alcohol Medicinal 70°.",
+      "Contiene: 250 ml.",
+      "Marca: Erza Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Lavavajilla Sapolio Limón X 800 G",
+    "precio": "S/ 8.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/a/lavavajilla-limon-x-900gr-sapolio-6566-default-1.jpg",
+    "marca": "SAPOLIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Aroma limón.",
+      "Contiene 800 gramos.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paño Absorbente Yes Amarillo X 14 Und",
+    "precio": "S/ 15",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-absorbente-yes-x-14-und-30608-default-1.jpg",
+    "marca": "YES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 14 unidades",
+      "Resistentes",
+      "Limpieza profunda",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mascarilla Descartable 3 Pliegues Negra Caja X 25 Und",
+    "precio": "S/ 7.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/mascarilla-descartable-3-pliegues-negra-caja-x25un-49051-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en caja",
+      "Contenido: 25 unidades.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sobre Kraft Grafipapel Para Cubiertos Paquete X 100 Und",
+    "precio": "S/ 7.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sobre-kraft-grafipapel-para-cubiertos-paquete-x-100-und-49574-default-1.jpg",
+    "marca": "GRAFIPAPEL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Presentación en paquete x100 unidades.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón Líquido Tuinies Mickey Mouse 300 Ml",
+    "precio": "S/ 13.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-liquido-disney-300ml-tuinies-20942-default-1.jpg",
+    "marca": "",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contenido: 300 ml",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Shampoo Frozen Disney 2 En 1 X 236 Ml",
+    "precio": "S/ 7.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/h/shampoo-2-en-1-de-236-ml-disney-frozen-21832-default-1.jpg",
+    "marca": "FROZEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "El baño de tus pequeños será ahora más divertido con sus personajes favoritos de Frozen.",
+      "Contenido: 1 frasco con 236 ml",
+      "Imágenes referenciales.\n\n*El producto corresponde a un código surtido, se vende cada producto por unidad al precio publicado y sólo se entregará al azar según stock."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Shampoo Avengers 2 En 1 X 236 Ml",
+    "precio": "S/ 7.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/h/shampoo-avengers-2-en-1-21835-default-1.jpg",
+    "marca": "AVENGERS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Equipo Vaporizador 16Lt.",
+    "precio": "S/ 2,476.24",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/q/equipo-vaporizador-16lt-51296-default-1.jpg",
+    "marca": "SHOPSMART",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: PVC",
+      "Capacidad: 16 Lt.",
+      "Panel digital.",
+      "Control remoto.",
+      "Tiempo de trabajo continuo de 10 a 12 hrs.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mascarilla Descartable De Dinosaurios Para Niños Caja X 50 Und",
+    "precio": "S/ 5.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/marcarilla-ninos-mayfield-diseno-x50-din-53368001-default-1.jpg",
+    "marca": "USO DIARIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contenido: 50 unidades.",
+      "Diseño: Dinosaurios.",
+      "Imágenes referenciales.\n\n*Los productos de protección personal o cuidado sanitario, no están sujetos a cambios ni devoluciones por medidas de bioseguridad."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora Profesional Buran Tourmaline 3800 Negro",
+    "precio": "S/ 429",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/ceriotti-secadora-profesional-buran-tourmaline-3800-ne-53661-default-1.jpg",
+    "marca": "CERIOTTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Secadora Profesional Buran Tourmaline 3800 Ceriotti",
+      "Color: Negro",
+      "Tecnología nano-cerámica y turmalina",
+      "Tecnología \"Silent Brushing\"",
+      "Tecnología \"HPS2\"",
+      "Peso: 460 gr.",
+      "Potencia: 1700- 2200W",
+      "Motor AC de larga duración",
+      "Hecho en Italia, 100% Genuino",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paño Absorbente Yes X 4 Und",
+    "precio": "S/ 8.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pano-yes-absorbente-24892-default-1.jpg",
+    "marca": "YES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 4 unidades",
+      "Multiusos",
+      "Resistente",
+      "Biodegradables",
+      "Reutilizables",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Gelatti Bob Esponja X 100 Und",
+    "precio": "S/ 8.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-hum-x-100un-bob-esponj-gelatti-65402-default-1.jpg",
+    "marca": "GELATTI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Extra suaves con extracto de sábila.",
+      "Sin alcohol ni parabenos.",
+      "Para manos y rostro.",
+      "Medidas: 18 x 20 cm.",
+      "45 gr espesor.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón Líquido Dove Baby Humectación Sensible X 400Ml",
+    "precio": "S/ 23.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-liq-humec-sensib-x-400ml-baby-dove-65409-default-1.jpg",
+    "marca": "DOVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "El jabón líquido Baby Dove de la cabeza a los pies es suave, hipoalergénico y sin lágrimas.",
+      "Hecho con nutrientes esenciales* de origen natural, ayuda a mantener la humectación de la delicada piel del bebé.",
+      "Nuestras fórmulas de cuidado son creadas sin colorantes, sin parabenos, sin ftalatos y sin sulfatos.",
+      "Probado por dermatólogo, oftalmólogo y pediatra.",
+      "Fragancia especialmente desarrollada para la piel sensible del bebé.",
+      "Suave para la piel del recién nacido."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón Barra Dove Humectante Baby X 75G X 3 Und",
+    "precio": "S/ 12.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-barra-3pack-hum-sen-x75g-baby-dove-65412-default-1.jpg",
+    "marca": "DOVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Más suave y humectante que los jabones comunes en barra para bebé*.",
+      "Hipoalergénico y pH neutro.",
+      "Formulas creadas sin colorantes, sin parabenos, sin ftalatos y sin sulfatos.",
+      "Probado por dermatólogo y pediatra .",
+      "Fragancia especialmente desarrollada para la delicada piel del bebé."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Wet Brush Mini Disney Jazmín",
+    "precio": "S/ 30.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-mini-disney-jazmin-wetbrush-65590-default-1.jpg",
+    "marca": "WET BRUSH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño exclusivo Disney - Jazmín",
+      "Cuenta con un cómodo diseño de mango",
+      "Las exclusivas cerdas Intelliflex ultra suaves se deslizan a través de enredos con facilidad. Te permite cepillar con menos fuerza para que puedas desenredar con menos daño a tu cabello",
+      "Con cerdas flexibles que minimizan el dolor, las puntas abiertas y la rotura del cabello",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Wet Brush Mini Disney Aurora",
+    "precio": "S/ 30.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-mini-disney-aurora-wetbrush-65591-default-1.jpg",
+    "marca": "WET BRUSH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño exclusivo Disney - Aurora",
+      "Cuenta con un cómodo diseño de mango",
+      "Las exclusivas cerdas Intelliflex ultra suaves se deslizan a través de enredos con facilidad. Te permite cepillar con menos fuerza para que puedas desenredar con menos daño a tu cabello",
+      "Con cerdas flexibles que minimizan el dolor, las puntas abiertas y la rotura del cabello",
+      "Para todo tipo de cabello, funciona muy bien para cabello liso, rizado, texturizado, grueso y ondulado",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Wet Brush Disney Princesa Bella",
+    "precio": "S/ 44.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-disney-princess-bella-wetbrush-65593-default-1.jpg",
+    "marca": "WET BRUSH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño exclusivo Disney Princess - Bella",
+      "Cuenta con un cómodo diseño de mango",
+      "Las exclusivas cerdas Intelliflex ultra suaves se deslizan a través de enredos con facilidad. Te permite cepillar con menos fuerza para que puedas desenredar con menos daño a tu cabello",
+      "Con cerdas flexibles que minimizan el dolor, las puntas abiertas y la rotura del cabello",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Wet Brush Hello Kitty Pink",
+    "precio": "S/ 44.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-hello-kitty-pink-wetbrush-65599-default-1.jpg",
+    "marca": "WET BRUSH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño exclusivo Hello Kitty",
+      "Color: Rosado",
+      "Cuenta con un cómodo diseño de mango",
+      "Las exclusivas cerdas Intelliflex ultra suaves se deslizan a través de enredos con facilidad. Te permite cepillar con menos fuerza para que puedas desenredar con menos daño a tu cabello",
+      "Con cerdas flexibles que minimizan el dolor, las puntas abiertas y la rotura del cabello",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Super Biberón Fisher Price Con Asas 14 Oz",
+    "precio": "S/ 25.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/u/super-biberon-fisher-price-con-asas-14oz-65713-default-1.jpg",
+    "marca": "FISHER PRICE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Las asas adicionales ayudan a sostener el biberón de forma independiente",
+      "Contenido: 14 oz",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Shampoo Fisher Price Manzanilla 825Ml",
+    "precio": "S/ 22",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/h/shampoo-manzanilla-x-825ml-fisher-price-65714-default-1.jpg",
+    "marca": "FISHER PRICE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cepillo Wet Brush Disney Frozen Elsa",
+    "precio": "S/ 44.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/cepillo-disney-frozen-elsa-wetbrush-69755-default-1.jpg",
+    "marca": "WET BRUSH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Desodorante En Barra Dove Caléndula 50G",
+    "precio": "S/ 13.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/e/desodorante-barra-calendula-x-50-g-dove-69762-default-1.jpg",
+    "marca": "DOVE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bacín Reyplast Baby King Decorado Verde",
+    "precio": "S/ 42.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/bacin-reyplast-baby-king-decorado-verde-70176-default-1.jpg",
+    "marca": "REYPLAST",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Verde",
+      "Diseño ergonómico que se adapta a las necesidades de uso de los más pequeños.",
+      "Destaca por su resistencia, alta calidad, durabilidad y fácil limpieza.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Fisher Price Limpieza Absoluta Paquete X2 X 100 Und",
+    "precio": "S/ 26.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-limpieza-absoluta-2x100-unidades-fisher-price-62633-default-1.jpg",
+    "marca": "FISHER PRICE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ideal para la limpieza y aseo del bebé",
+      "Suave y delicada con la piel de tu pequeño",
+      "Presentación: 2 paquetes de 100 unidades",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Tuinies Con Tapa Minnie Mouse X 100 Und",
+    "precio": "S/ 9.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-x-100-unidades-ctapa-minnie-mouse-62645-default-1.jpg",
+    "marca": "TUINIES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Tuinies Con Tapa Silvestre Y Piolín X 100 Und",
+    "precio": "S/ 9.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-x-100-unidades-ctapa-silvestre-y-piolin-62661-default-1.jpg",
+    "marca": "TUINIES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Termómetro Digital Omron Flexible Mc-343Fint",
+    "precio": "S/ 49.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/termometro-digital-flexible-omron-mc-343f-57546-default-1.jpg",
+    "marca": "OMRON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Termómetro incluye batería",
+      "Resistente al agua.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Secadora De Cabello Revlon Con Control Frizz Rvdr773La2 Negro",
+    "precio": "S/ 75",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/secadora-control-de-frizz-2000w-revlon-57980-default-1.jpg",
+    "marca": "REVLON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: RVDR773LA2",
+      "Color: Negro",
+      "Largo: 25 cm",
+      "Alto: 9.7 cm",
+      "Ancho: 24.3 cm",
+      "Peso: 0.71 kg",
+      "Garantía: 1 año",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pañuelos Elite Professional Triple Hoja Caja X 60 Und",
+    "precio": "S/ 4.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/panuelo-elite-professional-cax60h-57994-default-1.jpg",
+    "marca": "ELITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Gel Para Cabello Moco De Gorila Galán X 270 Gr",
+    "precio": "S/ 16.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/g/e/gel-para-cabello-moco-de-gorila-galan-x-270-gr-72011-default-1.jpg",
+    "marca": "MOCO DE GORILA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Gel color verde fosforescente.",
+      "Medidas: 7.5 x 7.9 x 9.1 cm.",
+      "Presentación en frasco de 270 gr.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Jabón En Barra Protex Fresh 110 G X 3 Und",
+    "precio": "S/ 11.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/a/jabon-en-barra-protex-fresh-110gr-x-3-und-72228-default-1.jpg",
+    "marca": "PROTEX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ofrece una protección antibacterial natural con óleo de linaza.",
+      "Medidas: 18.5 x 3.8 x 3.1 cm.",
+      "Peso neto: 330 gr.",
+      "Contiene: 3 unidades.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Toallitas Húmedas Tuinies Baby Paw Patrol X 25 Und",
+    "precio": "S/ 2.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-x-25un-baby-paw-patrol-58469-default-1.jpg",
+    "marca": "TUINIES",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Toallitas Húmedas.",
+      "Paquete x 25 unidades.",
+      "Diseño: Paw Patrol.",
+      "Ideal para la limpieza y aseo del bebé.",
+      "Suave y delicada con la piel del bebé.",
+      "No sustituye el aseo diario.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Paños Húmedos Clorox Desinfectantes Limpieza X 30 Und",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/panos-humedos-desinf-limpieza-x30-clorox-57987-default-1.jpg",
+    "marca": "CLOROX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Crema Natural Equilibrante Para Rostro 75 Gr",
+    "precio": "S/ 59",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/r/crema-natural-equilibrante-para-rostro-75-gr-58827-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Crema Natural Equilibrante Para Rostro 75 Gr Saysi",
+      "Crema recomendada para manos.",
+      "De fácil absorción y no es grasosa.",
+      "Ayuda a controlar el exceso de grasa.",
+      "Contenido Neto: 75 gr",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Crema Natural Humectante Maca 300 Gr",
+    "precio": "S/ 74",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/r/crema-natural-humectante-maca-300-gr-58831-default-1.jpg",
+    "marca": "SAYSI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Crema Natural Humectante Maca 300 Gr Saysi",
+      "Crema corporal a base de maca.",
+      "No es grasosa.",
+      "De fácil absorción.",
+      "Contenido Neto: 300 gr",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Sabanilla De Papel Elite 2 Rollos X 100 M Cada Uno",
+    "precio": "S/ 107.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/a/sabanilla-de-papel-elite-2-rollos-x-100mt-cu-6588-default-1.png",
+    "marca": "ELITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Incluye: 02 rollos de papel.",
+      "Metros por rollo: 100 metros cada uno.",
+      "Marca: Elite professional.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Papel Toalla Super Doble Hoja Paquete 19 M X 1 Und",
-    "precio": "S/2.10",
+    "precio": "S/ 2.1",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-paquete-x-1-19m-41775-default-1.png",
     "marca": "SUPER",
     "categoria": "Sin categoría",
@@ -302,17 +1688,164 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Toallitas Húmedas Frozen X 100 Und",
-    "precio": "S/17.40",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/o/toallitas-humedas-refill-x100-und-frozen-43131-default-1.png",
-    "marca": "FROZEN",
+    "nombre": "Papel Toalla Super Doble Hoja 9.5 M Paquete X 3 Und",
+    "precio": "S/ 3.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-doble-hoja-95m-paquete-x-3-und-48703-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pañuelos Elite Professional 10 Hojas Paquete X 8 Und",
+    "precio": "S/ 6.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/panuelo-elite-professional-x-10h-pqtx8-57992-default-1.jpg",
+    "marca": "ELITE",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Contiene: 100 unidades",
-      "Extra suave",
-      "Antibacterial",
-      "Tipo de tela: Spunlance",
+      "Marca: ELITE PROFESSIONAL",
+      "Largo (cm) 11Ancho (cm) 5.5 Alto (cm) 22",
+      "Peso (kg) 0.2",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pulsera Repelente Mosrepel De Zancudos Y Mosquitos",
+    "precio": "S/ 30",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/u/pulsera-con-repelente-natural-de-zancudos-y-mosquitos-mosrepel-79700-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Es 100% natural, lo que la hace ideal para bebés, niños y adultos.",
+      "No se absorbe a través de la piel.",
+      "Dura 180 horas.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Super Premium Doble Hoja 15 Mt",
+    "precio": "S/ 2.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-super-premium-doble-hoja-15-mt-84012-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Doble hoja.",
+      "Incluye: Paquete por 1 rollo.",
       "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Higiénico Super Doble Hoja Morado 42 M Paquete X 4",
+    "precio": "S/ 5.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-higienico-doble-hoja-morado-40m-paq-x-4-46507-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 4 und.",
+      "Doble Hoja.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pañuelos Elite Professional Triple Hoja Caja X 60 Und",
+    "precio": "S/ 4.2",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/panuelo-elite-professional-cax60h-57994-default-1.jpg",
+    "marca": "ELITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Super Interfoliado Xl Premium Paquete X 200 Hojas",
+    "precio": "S/ 12.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-interfoleado-super-tamano-xl-premium-pqx200-86104-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 23 x 8 x 14 cm",
+      "Peso neto: 403 gr",
+      "Contiene: 200 hojas dobles",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Super Interfoliado Standard Premium Paquete X 200 Hojas",
+    "precio": "S/ 10.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-interfoleado-super-tamano-standard-premium-pqx200-86106-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 19 x 8 x 14 cm",
+      "Peso neto: 357 gr",
+      "Contiene: 200 hojas dobles",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Servilleta Elite Cortada Económica X 300",
+    "precio": "S/ 2.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/e/servilleta-cortada-economica-x-300-elite-24910-default-1.jpg",
+    "marca": "ELITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Paquete contiene: 300 und.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Higiénico Super Doble Hoja 15M Bolsa X 48",
+    "precio": "S/ 42.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-hig-super-dh-x-15m-bolx48rol-66549-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 48 und.",
+      "Doble Hoja.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Super Doble Hoja 19M Pqtx12 Super",
+    "precio": "S/ 33.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-doble-hoja-19m-pqtx12-super-63489-default-1.png",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Higiénico Super Doble Hoja 15M Bolsa X 20",
+    "precio": "S/ 17",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-higienico-doble-hoja-15m-bolsa-x-20-66952-default-1.jpg",
+    "marca": "SUPER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Contiene: 20 und.",
+      "Doble Hoja.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Papel Toalla Elite Xl Interfoliada Económica 150 Hojas",
+    "precio": "S/ 14.3",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/papel-toalla-interf-econ-xl-150h-elite-14567-default-1.jpg",
+    "marca": "ELITE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Elite",
+      "Incluye 150 unidades",
+      "Compatible con dispensador",
+      "Medidas: 21.6x25 cm",
+      "Imágenes referenciales"
     ],
     "disponibilidad": "En stock"
   }

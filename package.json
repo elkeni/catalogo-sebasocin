@@ -16,6 +16,7 @@
     "@mui/icons-material": "^6.4.5",
     "@mui/material": "^6.4.5",
     "bootstrap": "^5.3.3",
+    "natural": "^8.0.1",
     "puppeteer": "^24.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

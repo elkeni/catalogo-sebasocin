@@ -1,0 +1,175 @@
+.producto-container {
+    margin-top: 50px; /* Reducido para ocupar más espacio vertical */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ocupa toda la altura de la pantalla */
+}
+
+.producto-detalle {
+    margin-top: 100px;
+    padding: 40px;
+    max-width: 1400px; /* Aumentado para ocupar más espacio horizontal */
+    width: 90%; /* Ocupa el 90% del ancho disponible */
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.producto-detalle:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.producto-content {
+    display: flex;
+    gap: 60px; /* Aumentado para más espacio entre imagen y texto */
+    align-items: flex-start;
+}
+
+.producto-imagen img {
+    max-width: 500px; /* Aumentado para una imagen más grande */
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.producto-imagen img:hover {
+    transform: scale(1.05);
+}
+
+.producto-info {
+    flex: 1;
+    color: #333;
+}
+
+.producto-info h1 {
+    font-size: 2.5rem; /* Aumentado para un título más grande */
+    margin-bottom: 20px; /* Aumentado para más espacio */
+    color: #212529;
+    font-weight: 600;
+}
+
+.precio {
+    font-size: 2rem; /* Aumentado para un precio más destacado */
+    color: #28a745;
+    font-weight: bold;
+    margin-bottom: 20px; /* Aumentado para más espacio */
+}
+
+.marca,
+.categoria {
+    font-size: 1.2rem; /* Aumentado para más legibilidad */
+    color: #6c757d;
+    margin-bottom: 10px; /* Aumentado para más espacio */
+}
+
+.caracteristicas h2 {
+    font-size: 1.6rem; /* Aumentado para más énfasis */
+    margin-top: 30px; /* Aumentado para más espacio */
+    margin-bottom: 15px; /* Aumentado para más espacio */
+    color: #495057;
+}
+
+.caracteristicas ul {
+    list-style-type: disc;
+    padding-left: 25px; /* Aumentado para más espacio */
+    margin-bottom: 30px; /* Aumentado para más espacio */
+}
+
+.caracteristicas li {
+    margin-bottom: 10px; /* Aumentado para más espacio */
+    color: #343a40;
+}
+
+.disponibilidad .disponible {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.disponibilidad .agotado {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.loading,
+.error {
+    text-align: center;
+    font-size: 1.5rem; /* Aumentado para más legibilidad */
+    margin-top: 50px;
+}
+
+.error {
+    color: #dc3545;
+}
+
+button {
+    padding: 15px 30px; /* Aumentado para un botón más grande */
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para pantallas pequeñas (celulares) */
+@media (max-width: 768px) {
+    .producto-container {
+        margin-top: 30px; /* Reducido para más espacio en móviles */
+        padding: 10px;
+    }
+
+    .producto-detalle {
+        padding: 20px;
+        margin-top: 30px; /* Reducido para más espacio en móviles */
+        width: 100%; /* Ocupa todo el ancho en móviles */
+    }
+
+    .producto-content {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .producto-imagen img {
+        max-width: 100%;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .producto-info h1 {
+        font-size: 2rem; /* Aumentado para más legibilidad en móviles */
+        text-align: center;
+    }
+
+    .precio {
+        font-size: 1.8rem; /* Aumentado para más legibilidad en móviles */
+        text-align: center;
+        margin-bottom: 15px; /* Aumentado para más espacio */
+    }
+
+    .marca,
+    .categoria {
+        text-align: center;
+    }
+
+    .caracteristicas h2 {
+        text-align: center;
+    }
+
+    .caracteristicas ul {
+        padding-left: 20px; /* Aumentado para más espacio */
+    }
+
+    button {
+        width: 100%;
+        padding: 12px 0; /* Aumentado para un botón más grande en móviles */
+    }
+}

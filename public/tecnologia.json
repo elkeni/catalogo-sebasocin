@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Tinta Hp 664 Tricolor",
-    "precio": "S/49.80",
+    "precio": "S/ 49.8",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-664-f6v28al-tricolor-23604-default-1.jpg",
     "marca": "HP",
     "categoria": "Sin categoría",
@@ -14,7 +14,7 @@
   },
   {
     "nombre": "Mouse Gaming Hp M200 Negro Con Cable 1.8 M",
-    "precio": "S/69.90",
+    "precio": "S/ 69.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gaming-hp-m200-con-cable-de-18mts-negro-48208-default-1.jpg",
     "marca": "HP",
     "categoria": "Sin categoría",
@@ -32,33 +32,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Tinta Epson T664320 Magenta En Botella",
-    "precio": "S/38.60",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-epson-botella-l200-magenta-7066-default-1.jpg",
-    "marca": "EPSON",
-    "categoria": "Sin categoría",
-    "caracteristicas": [],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Antivirus Kaspersky Plus 10 Dispositivos 2 Años",
-    "precio": "S/545.90",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-plus-10-dispositivos-2-anos-69599-default-1.jpg",
-    "marca": "KASPERSKY",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Para 10 Dispositivos",
-      "Vigencia: 2 Años",
-      "Antivirus en tiempo real, protegiendo los dispositivos sin disminuir su velocidad",
-      "Supervisa la red WiFi y genera alertas cuando se conectan dispositivos nuevos",
-      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
-      "*Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Impresora Epson L3250 Wifi",
-    "precio": "S/699.00",
+    "precio": "S/ 699",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-epson-l3250-wifi-53573-default-1.jpg",
     "marca": "EPSON",
     "categoria": "Sin categoría",
@@ -77,7 +52,7 @@
   },
   {
     "nombre": "Camara Instax Square Sq1 Azul Glaciar",
-    "precio": "S/599.00",
+    "precio": "S/ 599",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/camara-instax-square-sq1-azul-glaciar-54144-default-1.jpg",
     "marca": "FUJIFILM",
     "categoria": "Sin categoría",
@@ -91,8 +66,33 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Tinta Epson T664320 Magenta En Botella",
+    "precio": "S/ 38.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-epson-botella-l200-magenta-7066-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Antivirus Kaspersky Plus 10 Dispositivos 2 Años",
+    "precio": "S/ 545.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-plus-10-dispositivos-2-anos-69599-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 10 Dispositivos",
+      "Vigencia: 2 Años",
+      "Antivirus en tiempo real, protegiendo los dispositivos sin disminuir su velocidad",
+      "Supervisa la red WiFi y genera alertas cuando se conectan dispositivos nuevos",
+      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Tinta Hp 662Xl Deskjet Ink Advantage 2515/3515 Tricolor",
-    "precio": "S/99.90",
+    "precio": "S/ 99.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-662xl-8469-default-1.jpg",
     "marca": "HP",
     "categoria": "Sin categoría",
@@ -105,21 +105,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Impresora Ash White Instax Square Link",
-    "precio": "S/699.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-ash-white-instax-square-link-71589-default-1.jpg",
-    "marca": "FUJIFILM",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Impresora FUJIFILM Square Link Ash White.",
-      "Incluye cable USB-C, manual de instrucciones y garantía limitada de 12 meses.",
-      "Las películas se venden por separado."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Antivirus Kaspersky Premium 3 Dispositivos 1 Año",
-    "precio": "S/190.90",
+    "precio": "S/ 190.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-premium-3-dispositivos-1-ano-69601-default-1.jpg",
     "marca": "KASPERSKY",
     "categoria": "Sin categoría",
@@ -134,24 +121,21 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Licencia Microsoft 365 Personal Digital",
-    "precio": "S/279.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licencia-microsoft-365-personal-digital-45697-default-1.jpg",
-    "marca": "MICROSOFT",
+    "nombre": "Impresora Ash White Instax Square Link",
+    "precio": "S/ 699",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-ash-white-instax-square-link-71589-default-1.jpg",
+    "marca": "FUJIFILM",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Para 1 persona",
-      "Vigencia: 12 meses",
-      "1TB de almacenamiento en la nube",
-      "La licencia se enviará al mail con el que realizó la compra.",
-      "Se entregará en máximo dos días hábiles después de la confirmación de la compra (no cuenta sábado, ni domingo).",
-      "No se aceptan devoluciones, ni anulación de pedido."
+      "Impresora FUJIFILM Square Link Ash White.",
+      "Incluye cable USB-C, manual de instrucciones y garantía limitada de 12 meses.",
+      "Las películas se venden por separado."
     ],
     "disponibilidad": "En stock"
   },
   {
     "nombre": "Tableta Gráfica Huion H640P",
-    "precio": "S/231.00",
+    "precio": "S/ 231",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tableta-grafica-huion-h640p-49823-default-1.jpg",
     "marca": "HUION",
     "categoria": "Sin categoría",
@@ -168,25 +152,24 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Impresora Hp Multifuncional Smart Tank 720",
-    "precio": "S/799.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-multifuncional-hp-smart-tank-720-60339-default-1.jpg",
-    "marca": "HP",
+    "nombre": "Licencia Microsoft 365 Personal Digital",
+    "precio": "S/ 279",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licencia-microsoft-365-personal-digital-45697-default-1.jpg",
+    "marca": "MICROSOFT",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Multifuncional HP Smart Tank 720 (6UU46A) Duplex",
-      "Funciones: Impresión a doble cara, escanear, copiar, inalámbrica",
-      "Impresión a Color",
-      "Tecnología de Impresión: Inyección térmica de tinta HP",
-      "USB 2.0 de alta velocidad; Wi-Fi; Bluetooth LE",
-      "Garantía: 1 año + 1 año si el cliente registra su impresora dentro de los primeros 60 días después de su compra.",
-      "Imágenes referenciales."
+      "Para 1 persona",
+      "Vigencia: 12 meses",
+      "1TB de almacenamiento en la nube",
+      "La licencia se enviará al mail con el que realizó la compra.",
+      "Se entregará en máximo dos días hábiles después de la confirmación de la compra (no cuenta sábado, ni domingo).",
+      "No se aceptan devoluciones, ni anulación de pedido."
     ],
     "disponibilidad": "En stock"
   },
   {
     "nombre": "Tableta Gráfica Wacom One By Small Ctl472",
-    "precio": "S/99.00",
+    "precio": "S/ 139",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/n/one-by-wacom-small-ctl472-54743-default-1.jpg",
     "marca": "WACOM",
     "categoria": "Sin categoría",
@@ -203,7 +186,7 @@
   },
   {
     "nombre": "Televisor Lg Commercial 43Ur871C0Sa 43'' Uhd 4K Smart Thinq Ai",
-    "precio": "S/1,099.00",
+    "precio": "S/ 1099",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/televisor-commercial-lg-43-43ur871c0sa-uhd-4k-smart-thinq-ai-2023-70670-default-1.jpg",
     "marca": "LG",
     "categoria": "Sin categoría",
@@ -221,57 +204,25 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Tableta Gráfica Xp-Pen Deco Pro M",
-    "precio": "S/479.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tableta-grafica-xp-pen-deco-pro-m-42931-default-1.jpg",
-    "marca": "XP-PEN",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Doble rueda: rueda mecanica y rueda virtual",
-      "Admite la conexión con tabletas y teléfonos móviles Android",
-      "60 grados de función de inclinación",
-      "8,192 niveles de sensibilidad a la presión",
-      "8 teclas de atajo con capacidad de respuesta personalizables"
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Licencia Microsoft 365 Familia Digital",
-    "precio": "S/339.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licencia-microsoft-365-familia-digital-45698-default-1.jpg",
-    "marca": "MICROSOFT",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Para un máximo de 6 personas",
-      "Vigencia: 12 meses",
-      "1TB de almacenamiento en la nube por persona",
-      "La licencia se enviará al mail con el que realizó la compra.",
-      "Se entregará en máximo dos días hábiles después de la confirmación de la compra (no cuenta sábado, ni domingo).",
-      "No se aceptan devoluciones, ni anulación de pedido."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
-    "nombre": "Impresora Hp Deskjet Ink Advantage All-In-One 2874",
-    "precio": "S/239.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-hp-deskjet-ink-advantage-all-in-one-2874-84424-default-1.jpg",
+    "nombre": "Impresora Hp Multifuncional Smart Tank 720",
+    "precio": "S/ 799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-multifuncional-hp-smart-tank-720-60339-default-1.jpg",
     "marca": "HP",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Funciones: Impresión a color, escaneo y copiado.",
-      "Conectividad: Impresora inalámbrica compacta con Wi-Fi 802.11b/g/n y 1 USB 2.0 de alta velocidad.",
-      "Fácil de instalar y usar, con capacidad de impresión móvil mediante la aplicación HP.",
-      "Garantía de 1 año.",
-      "Tecnología de Impresión: Inyección térmica de tinta HP.",
-      "Sistemas operativos compatibles: Windows 11, Windows 10, macOS 10.14 a 13, Chrome OS.",
-      "Pantalla: Icon LCD display.",
+      "Multifuncional HP Smart Tank 720 (6UU46A) Duplex",
+      "Funciones: Impresión a doble cara, escanear, copiar, inalámbrica",
+      "Impresión a Color",
+      "Tecnología de Impresión: Inyección térmica de tinta HP",
+      "USB 2.0 de alta velocidad; Wi-Fi; Bluetooth LE",
+      "Garantía: 1 año + 1 año si el cliente registra su impresora dentro de los primeros 60 días después de su compra.",
       "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   },
   {
     "nombre": "Botella De Tinta Hp Gt52 Amarillo",
-    "precio": "S/35.90",
+    "precio": "S/ 35.9",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-botella-gt52-amarillo-26109-default-1.jpg",
     "marca": "HP",
     "categoria": "Sin categoría",
@@ -288,8 +239,57 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Tableta Gráfica Xp-Pen Deco Pro M",
+    "precio": "S/ 479",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/a/tableta-grafica-xp-pen-deco-pro-m-42931-default-1.jpg",
+    "marca": "XP-PEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Doble rueda: rueda mecanica y rueda virtual",
+      "Admite la conexión con tabletas y teléfonos móviles Android",
+      "60 grados de función de inclinación",
+      "8,192 niveles de sensibilidad a la presión",
+      "8 teclas de atajo con capacidad de respuesta personalizables"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Hp Deskjet Ink Advantage All-In-One 2874",
+    "precio": "S/ 239",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-hp-deskjet-ink-advantage-all-in-one-2874-84424-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Funciones: Impresión a color, escaneo y copiado.",
+      "Conectividad: Impresora inalámbrica compacta con Wi-Fi 802.11b/g/n y 1 USB 2.0 de alta velocidad (dispositivo).",
+      "Fácil de instalar y usar, con capacidad de impresión móvil mediante la aplicación HP.",
+      "Garantía de 1 año.",
+      "Tecnología de Impresión: Inyección térmica de tinta HP.",
+      "Sistemas operativos compatibles: Windows 11, Windows 10, macOS 10.14 a 13, Chrome OS.",
+      "Pantalla: Icon LCD display.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Licencia Microsoft 365 Familia Digital",
+    "precio": "S/ 339",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/l/i/licencia-microsoft-365-familia-digital-45698-default-1.jpg",
+    "marca": "MICROSOFT",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para un máximo de 6 personas",
+      "Vigencia: 12 meses",
+      "1TB de almacenamiento en la nube por persona",
+      "La licencia se enviará al mail con el que realizó la compra.",
+      "Se entregará en máximo dos días hábiles después de la confirmación de la compra (no cuenta sábado, ni domingo).",
+      "No se aceptan devoluciones, ni anulación de pedido."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Impresora Epson Ecotank L5590 Multifuncional Conectividad Wifi",
-    "precio": "S/999.00",
+    "precio": "S/ 999",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-epson-l5590-adf-wifi-69010-default-1.jpg",
     "marca": "EPSON",
     "categoria": "Sin categoría",
@@ -304,25 +304,8 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Antivirus Kaspersky Standard Mobile 1 Dispositivo 1 Año (Android-Ios)",
-    "precio": "S/30.90",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-mobile-1-dispositivo-1-ano-69607-default-1.jpg",
-    "marca": "KASPERSKY",
-    "categoria": "Sin categoría",
-    "caracteristicas": [
-      "Para 1 dispositivo",
-      "Vigencia: 1 año",
-      "Antivirus en tiempo real",
-      "VPN",
-      "Protección en los pagos, actividades de la web y protección de la privacidad en línea",
-      "Compatible con Android™ y iOS®",
-      "*Imágenes referenciales."
-    ],
-    "disponibilidad": "En stock"
-  },
-  {
     "nombre": "Impresora Hp Smart Tank 580 1F3Y2A",
-    "precio": "S/549.00",
+    "precio": "S/ 549",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-hp-smart-tank-580-1f3y2a-66782-default-1.jpg",
     "marca": "HP",
     "categoria": "Sin categoría",
@@ -336,7 +319,7 @@
   },
   {
     "nombre": "Microsoft Office Hogar Y Estudiantes 2021",
-    "precio": "S/475.00",
+    "precio": "S/ 475",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/o/f/office-hogar-y-estudiantes-2021-45699-54355-default-1.jpg",
     "marca": "MICROSOFT",
     "categoria": "Sin categoría",
@@ -352,8 +335,25 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Antivirus Kaspersky Standard Mobile 1 Dispositivo 1 Año (Android-Ios)",
+    "precio": "S/ 30.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-mobile-1-dispositivo-1-ano-69607-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 1 dispositivo",
+      "Vigencia: 1 año",
+      "Antivirus en tiempo real",
+      "VPN",
+      "Protección en los pagos, actividades de la web y protección de la privacidad en línea",
+      "Compatible con Android™ y iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Microsoft 365 Empresa Estandar Licencia Digital",
-    "precio": "S/699.00",
+    "precio": "S/ 699",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/microsoft-365-empresa-estandar-licencia-digital-45702-default-1.jpg",
     "marca": "MICROSOFT",
     "categoria": "Sin categoría",
@@ -374,8 +374,110 @@
     "disponibilidad": "En stock"
   },
   {
+    "nombre": "Impresora Epson L3210",
+    "precio": "S/ 649",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-epson-l3210-53572-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Impresora multifuncional inalámbrica 3 en 1 Epson EcoTank",
+      "Modelo: L3210",
+      "Color: Negro",
+      "Impresión 100% sin cartuchos",
+      "Garantía: 2 años con registro",
+      "Dimensiones: Alto: 25,3 cm | Ancho: 37,5 cm | Profundidad: 57,8 cm",
+      "Peso: 3,9 kg",
+      "Incluye: Impresora EcoTank L3250, botellas de tinta de inicialización, cable de corriente AC, cable USB Type-A, CD con drivers (Windows), documentación y garantía",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Epson L4260 Duplex",
+    "precio": "S/ 859",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-epson-l4260-duplex-53575-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Impresora multifuncional inalámbrica con duplex automático",
+      "Incluye tintas",
+      "Funciones: Impresora, Escaner, Copiadora",
+      "Color: Negro",
+      "Garantía: 2 años con registro",
+      "Dimensiones: Alto: 25,9 cm | Ancho: 37,5 cm | Profundidad: 56,7 cm",
+      "Peso: 5,5 kg",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Camara Instax Square Sq1 Naranja Terraco",
+    "precio": "S/ 599",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/camara-instax-square-sq1-naranja-terraco-54146-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cámara Instax Square SQ1",
+      "Color: Naranja Terraco",
+      "Dimensiones: 130,7 × 118,6 × 57,5",
+      "Peso: 390 Gr. (sin pilas, correa ni película)",
+      "Flash de disparo constante",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Auriculares Bluetooth Headphones Flow",
+    "precio": "S/ 159.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/auriculares-bluetooth-headphones-flow-56105-default-1.jpg",
+    "marca": "YOLO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Auriculares Bluetooth Headphones Flow.",
+      "Marca: YOLO",
+      "Modelo: YHP530",
+      "Color: Negro",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella De Tinta Hp Gt52 Magenta",
+    "precio": "S/ 35.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-botella-gt52-magenta-26110-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: HP",
+      "Rendimiento: 8000 Páginas aprox.",
+      "Volumen de cartucho de impresión: 70 ml",
+      "Tipo de tinta: Basada en colorantes",
+      "Tipo de suministro: Cartridges",
+      "Modelo: Cartucho de Tinta GT52",
+      "Color: Magenta",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Antivirus Kaspersky Standard 3 Dispositivos 1 Año",
+    "precio": "S/ 133",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-standar-3-dispositivos-1-ano-69585-default-1.jpg",
+    "marca": "KASPERSKY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Para 3 Dispositivos",
+      "Vigencia: 1 Año",
+      "Permite que los dispositivos funcionen mejor y arranquen más rápido",
+      "Detecta los elementos que consumen el espacio en el disco duro",
+      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
     "nombre": "Televisor Lg Commercial 65Ur871Cosa 65'' Uhd 4K Smart Thinq Ai (2022)",
-    "precio": "S/1,699.00",
+    "precio": "S/ 1699",
     "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/televisor-lg-commercial-65-uhd-4k-smart-thinq-ai-65ur871cosa-2022-70621-default-1.jpg",
     "marca": "LG",
     "categoria": "Sin categoría",
@@ -392,18 +494,1371 @@
     "disponibilidad": "En stock"
   },
   {
-    "nombre": "Antivirus Kaspersky Standard 3 Dispositivos 1 Año",
-    "precio": "S/133.00",
-    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/n/antivirus-kaspersky-standar-3-dispositivos-1-ano-69585-default-1.jpg",
-    "marca": "KASPERSKY",
+    "nombre": "Batería Duracell 9 V Blister X 1 Und",
+    "precio": "S/ 14.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/bateria-9v-duracell-x-1-528-default-1.png",
+    "marca": "DURACELL",
     "categoria": "Sin categoría",
     "caracteristicas": [
-      "Para 3 Dispositivos",
-      "Vigencia: 1 Año",
-      "Permite que los dispositivos funcionen mejor y arranquen más rápido",
-      "Detecta los elementos que consumen el espacio en el disco duro",
-      "Multidispositivo compatible con Windows®,macOS®, Android™, iOS®",
+      "Tamaño: 9V",
+      "Contiene: 1 unidad",
+      "Dura hasta 10 veces más",
+      "Idóneas para dispositivos de uso cotidiano",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Mx-12S 12 Dígitos",
+    "precio": "S/ 30.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-12-digitos-mx-12s-540-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "12 dígitos",
+      "Pulsación de teclas simultáneas",
+      "Pantalla extra grande",
       "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Científica Casio Fx-82Ms-2",
+    "precio": "S/ 53.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-cientifica-casio-fx-82ms-1003-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cálculos fraccionarios",
+      "Combinación y permutación",
+      "9 variable",
+      "Estadísticas básicas",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora De Escritorio Casio Ms-80S/B/F",
+    "precio": "S/ 42.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-8-digitos-ms-80-s-1027-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cálculo básico",
+      "Pulsación simultánea de teclas",
+      "Cambio de signo (＋/－)",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Pad Óptico Negro",
+    "precio": "S/ 5.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-pad-optico-negro-1250-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Pad para mouse óptico",
+      "Color: Negro",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cinta Epson So15337 Lq-590",
+    "precio": "S/ 47.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/i/cinta-epson-so15337-lq-590-2199-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Mx-8B 8 Dígitos",
+    "precio": "S/ 25.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-8-digitos-mx-8b-4936-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: MX-8S(B)",
+      "Tipo compacta de escritorio",
+      "Pantalla extra grande",
+      "Energía solar + Pila",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Pad 3M Mw209Mb Negro",
+    "precio": "S/ 49.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pad-mouse-con-descanso-para-muneca-3m-5966-default-1.jpg",
+    "marca": "3M",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cubierta de tela con protección antimicrobiana del producto, que inhibe el crecimiento de microorganismos.",
+      "Ligero y cómodo.",
+      "8.62 \"\"x 6.75\"\" x .75\"\"",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cargador De Pared I2Go Usb 1.0A Blanco",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cargador-de-pared-i2go-usb-10a-colores-surtidos-20432-default-1.jpg",
+    "marca": "I2GO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cargador de Pared USB 1.0A I2Go Colores Surtidos",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cargador Para Auto I2Go Dual Usb Colores Surtidos",
+    "precio": "S/ 13.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cargador-dual-para-auto-usb-colores-surtidos-20433-default-1.jpg",
+    "marca": "I2GO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Hp 664Xl Deskjet In Black",
+    "precio": "S/ 134.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-negra-664xl-21240-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta negra.",
+      "Cartucho de tinta de alta capacidad"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Genius Nx 7000 Negro",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-inalambrico-genius-nx-7000-negro-21684-default-1.jpg",
+    "marca": "GENIUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Genius",
+      "Modelo: Nx 7000 Inal Black",
+      "Color: Negro",
+      "Utiliza tecnología BlueEye 1000 dpi",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella De Tinta Epson T504120 L4160/4150 Negro",
+    "precio": "S/ 44.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-epson-botella-t504120-l41604150-negro-33905-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Botella de tinta Epson T504.",
+      "Color negro.",
+      "Contiene: 127 ml.",
+      "Compatible con impresoras Epson L4160 / 4150."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella De Tinta Epson T504420 L4160/4150 Amarillo",
+    "precio": "S/ 40.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-epson-botella-t504420-l41604150-amarillo-33908-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta color amarrillo",
+      "Rinde 6000 páginas aproximadamente"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella De Tinta Epson T544320 L3110 Magenta",
+    "precio": "S/ 40.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-epson-botella-t544320-l3110-magento-33911-default-1.jpg",
+    "marca": "EPSON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta color magenta",
+      "Rinde aproximadamente 7500 páginas"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Ms-7Uc Azul",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-ms-7uc-azul-44596001-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Azul",
+      "Tipo mini-escritorio",
+      "Marcadores de coma cada 3 dígitos",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora Casio Ms-7Uc-Pk Rosa",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-ms-7uc-rosado-44596002-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Rosa",
+      "Tipo mini-escritorio",
+      "Marcadores de coma cada 3 dígitos",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Hp 46 Negro",
+    "precio": "S/ 48.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-46-negro-23607-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Genius Nx 7000 Inalámbrico Rojo",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-genius-nx-7000-inalambrico-rojo-21687-default-1.jpg",
+    "marca": "GENIUS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse Óptico Inalambrico",
+      "Baterías: AA Funciona sobre vidrio.",
+      "Tipo de sensor: Blue eye",
+      "Cantidad de botones: 2 Botones + Rueda",
+      "Espacio De Trabajo: 1200 Dpi",
+      "Modelo: Genius Nx-7000",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cargador Para Auto Maxell Usb Con 2 Salidas",
+    "precio": "S/ 27",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cargador-para-carros-con-2-salidas-maxell-45102-default-1.jpg",
+    "marca": "MAXELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Botella De Tinta Hp Gt53 Negro",
+    "precio": "S/ 31.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-botella-gt53-38198-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Botella de tinta original negra HP GT53.",
+      "Color: Negro.",
+      "Rendimiento: 4000 páginas.",
+      "Contiene: 90 ml.",
+      "Compabilidad: Impresoras todo en uno para fotografías y documentos. SmartTank 517, SmartTank 515 inalámbrica, SmartTank 519 inalámbrica, SmartTank 615 inalámbrica, SmartTank 618 inalámbrica.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silla Gamer Alpha Gc-185 X Negro",
+    "precio": "S/ 475",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silla-gamer-alpha-gc-185x-negro-48199-default-1.jpg",
+    "marca": "ALPHA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Alpha GC-185x",
+      "Color: Negro",
+      "Material: Malla nylon / Cuero PU",
+      "Base de acero.",
+      "Peso máximo: 150 Kg",
+      "Garantía de fábrica: 12 meses",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silla Gamer Alpha Gc-185 X Rojo",
+    "precio": "S/ 475",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silla-gamer-alpha-gc-185x-rojo-48200-default-1.jpg",
+    "marca": "ALPHA",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: Alpha GC-185x",
+      "Material: Malla nylon / Cuero PU",
+      "Base de acero.",
+      "Peso máximo: 150 Kg",
+      "Garantía de fábrica: 12 meses",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Hp 667 Ink Cartridge Tricolor",
+    "precio": "S/ 52.6",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-hp-667-ink-cartridge-tricolor-48422002-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cartucho tricolor.",
+      "Colores:\nCyan\nMagenta\nAmarillo",
+      "Cyan",
+      "Magenta",
+      "Amarillo",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Philips Tae1105 Negro Con Cable",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifono-philips-in-ear-con-cable-tae1105-negro-49251003-default-2.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color Negro",
+      "Sistema acústico: Cerrado",
+      "Tipo de imán: Neodimio",
+      "Entrada de alimentación máxima: 10mW",
+      "Respuesta de frecuencia: 20 - 20 000 Hz",
+      "Impedancia: 16 ohmio",
+      "Diámetro del altavoz: 8,6 mm",
+      "Conector: 3,5 mm",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Canon Gi-190Bk",
+    "precio": "S/ 40.5",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-canon-gi-190bk-23730-default-1.jpg",
+    "marca": "CANON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinta Canon Gi-190Bk.",
+      "Color Negro.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Soporte Vivitar 3 En 1: Micro Smartphone Y Aro De Luz Blanco",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/soporte-3en1-vivitar-micrsphone-led-blc-46556001-default-1.png",
+    "marca": "VIVITAR",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cambios de luz: Fría Cálida y Neutra.",
+      "Soporte para micrófono y celular.*",
+      "Color: Blanco",
+      "No incluye micrófono ni celular.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Disco Para Dvd-R Maxell Grabable Slim X 1",
+    "precio": "S/ 5.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/v/dvd-r-grab-16x-slim-x-1-23447-default-1.jpg",
+    "marca": "MAXELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Consola Nintendo Switch Neón",
+    "precio": "S/ 1799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/o/consola-nintendo-switch-neon-47030-default-1.jpg",
+    "marca": "NINTENDO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Accesorios que incluye:\n2 Mandos Joy Con\nCable Hdmi",
+      "2 Mandos Joy Con",
+      "Cable Hdmi",
+      "Año de fabricación: 2020",
+      "Capacidad de almacenamiento: 32GB",
+      "Memoria expandible: Sí",
+      "Wi-Fi: Sí",
+      "Medidas: 35cm x 10cm x 20cm",
+      "Peso: 160gr",
+      "Garantía: 1 año",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Pad Ergonómico Con Soporte Azul",
+    "precio": "S/ 15.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pad-mouse-gel-ergonomico-con-soporte-azul-47938001-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse pad ergonómico",
+      "Color: Azul",
+      "Incluye un soporte de muñeca acolchado",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Pad Ergonómico Con Soporte Negro",
+    "precio": "S/ 15.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pad-mouse-gel-ergonomico-con-soporte-negro-47938002-default-1.jpg",
+    "marca": "GENERICO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse pad ergonómico",
+      "Color: Negro",
+      "Incluye un soporte de muñeca acolchado",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Gaming Hp M150 Blanco",
+    "precio": "S/ 49.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gaming-hp-m150-blanco-52312001-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Marca: Hp",
+      "Modelo: M150",
+      "Compatibilidad: Windows XP / 7 / 8.1 / 10 y Mac OS: 10.3 o posterior",
+      "Requiere batería: No",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Maxell True Wireless Bluetooth Mini Negro",
+    "precio": "S/ 59.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-maxell-true-wireless-eb-bt-mini-negro-51297-default-4.jpg",
+    "marca": "MAXELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Camara Instax Square Sq1 Blanco Tiza",
+    "precio": "S/ 599",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/camara-instax-square-sq1-blanco-tiza-54148-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cámara Instax Square SQ1",
+      "Color: Blanco tiza",
+      "Dimensiones: 130,7 × 118,6 × 57,5 mm",
+      "Peso: 390 Gr. (sin pilas, correa ni película)",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Gaming Antryx Chrome Storm Askalon",
+    "precio": "S/ 119.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gaming-antryx-chrome-storm-askalon-54214-default-1.jpg",
+    "marca": "ANTRYX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse para juegos de alta precisión",
+      "Con sensor óptico PIXART PMW3327",
+      "DPI conmutable 500 - 1000 - 1500 - 2000 - 4000 - 12400",
+      "Iluminación RGB personalizable.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Gaming Antryx Chrome Storm Havok X",
+    "precio": "S/ 109.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gaming-antryx-chrome-storm-havok-x-54216-default-1.jpg",
+    "marca": "ANTRYX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse para juegos de alta precisión",
+      "Con sensor óptico PIXART PMW3327",
+      "DPI conmutable 500 - 1000 - 1500 - 2000 - 4000 - 12400",
+      "Iluminación RGB personalizable",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Gaming Antryx Chrome Storm Kurtana",
+    "precio": "S/ 105.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gaming-antryx-chrome-storm-kurtana-54218-default-1.jpg",
+    "marca": "ANTRYX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Mouse para juegos de alta precisión",
+      "Con sensor óptico PIXART PMW3327",
+      "DPI conmutable 500 - 1000 - 1500 - 2000 - 4000 - 12400",
+      "Iluminación RGB personalizable",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Canon Gx6010 Con Duplex Y Adf",
+    "precio": "S/ 2599",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maxify-gx6010-54521-default-1.jpg",
+    "marca": "CANON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Funciones: Impresión, escaneo, copia",
+      "Medidas: 41.1 cm (An.) x 40.1 cm (Pr.) x 25.4 cm (Al.)",
+      "Peso: 11.6 kg",
+      "Incluye:\nImpresora Maxify GX6010\nCabezales negro y color\nBotella de tintas GI-16 N/C/M/A\nEnchufe",
+      "Impresora Maxify GX6010",
+      "Cabezales negro y color",
+      "Botella de tintas GI-16 N/C/M/A",
+      "Enchufe",
+      "*Imágenes referenciales",
+      "Producto exclusivo web."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audifonos Earphones Knob",
+    "precio": "S/ 49.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-earphones-knob-56099-default-1.jpg",
+    "marca": "YOLO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Audifonos Earphones Knob",
+      "Marca: YOLO",
+      "Modelo: YEP1696M",
+      "Color: Gris",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Sony Zx310Ap Rojo",
+    "precio": "S/ 64.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-sony-zx310ap-rojo-26255003-default-1.jpg",
+    "marca": "SONY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diafragma de neodimio de 30 mm",
+      "Rango de frecuencia 10-24.000 Hz",
+      "Diseño plegable compacto"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Intrauditivos Maxell Con Micrófono In Bax Rojo",
+    "precio": "S/ 11.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-intrauditivos-maxell-in-bax-rojo-con-microfono-31327004-default-1.jpg",
+    "marca": "MAXELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cable de 1.2 metros con micrófono",
+      "Diseño ergonómico de tapones para los oídos",
+      "Potencia de 90 decibeles",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pila Duracell Aa 1500 X 4 Und + 2 Gratis",
+    "precio": "S/ 17.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pila-duracell-aa-1500-x-4-2-gratis-9913-default-1.jpg",
+    "marca": "DURACELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño AA.",
+      "Contiene: 6 unidades.",
+      "Dura hasta 10 veces más.",
+      "Idóneas para dispositivos de uso cotidiano.",
+      "10 años de almacenamiento garantizado."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pila Duracell Aaa 1500 X 4 Und + 2 Gratis",
+    "precio": "S/ 17.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pilas-aaa-duracell-x-4-2-gratis-9914-default-1.png",
+    "marca": "DURACELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño AAA.",
+      "Contiene: 6 unidades.",
+      "Dura hasta 10 veces más.",
+      "Idóneas para dispositivos de uso cotidiano.",
+      "10 años de almacenamiento garantizado."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Pila Duracell D 1300 Blíster X 2 Und",
+    "precio": "S/ 16.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/i/pilas-grandes-duracell-1300-x-2-17451-default-1.png",
+    "marca": "DURACELL",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tamaño D.",
+      "Contiene: 2 unidades.",
+      "Dura hasta 10 veces más",
+      "Idóneas para dispositivos de uso cotidiano",
+      "10 años de almacenamiento garantizado"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Teclado Logitech K120 Usb Sp Black",
+    "precio": "S/ 52.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/teclado-logitech-k120-17845-default-1.jpg",
+    "marca": "LOGITECH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Diseño resistente a derrames.",
+      "Teclas duraderas.",
+      "INTERFACE: USB.",
+      "LONGITUD DE CABLE: 1.5m.",
+      "COMPATIBILIDAD: Windows XP /7 / VISTA / 8 / 10."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Estéreo Gaming Xtech Spider-Man Xth-M541Sm",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-xtech-spiderman-xth-m541sm-72488-default-1.jpg",
+    "marca": "XTECH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Max Potencia de salida: 50mW",
+      "Frecuencia: 20Hz~20kHz",
+      "Impedancia: 32Ω±15%",
+      "Control de volumen: Sí",
+      "Longitud del cable: 2m",
+      "Dimensiones: 19.5 x 9.3 x 20.5cm",
+      "Peso: 288.8g",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Hp Multifuncional Laserjet Tank 2602",
+    "precio": "S/ 1499",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-hp-multifuncional-laserjet-tank-2602-71527-default-1.jpg",
+    "marca": "HP",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Capacidad: Tóner para hasta 5.000 páginas.",
+      "Funciones: Impresión láser monocromática, escaneo, copiado.",
+      "Conectividad: USB 2.0, Ethernet 10/100 BT, Wi-Fi 802.11a/b/g/n (2,4/5 GHz)",
+      "Garantía: 1 año.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Ea Juego Star Wars Squadrons Ps4 Standard",
+    "precio": "S/ 136.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/a/ea-juego-star-wars-squadrons-ps4-standard-73066-default-1.jpg",
+    "marca": "ELECTRONIC ARTS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Domina el arte del combate de cazas estelares en la auténtica experiencia de pilotaje Star Wars: Squadrons.",
+      "Juego de PS4",
+      "Empaque sellado",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Televisor Lg Commercial 75'' Uhd 4K Smart Thinq Ai 75Ur871C0Sa",
+    "precio": "S/ 2799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/televisor-lg-75-75ur871c0saawf-70671-default-1.jpg",
+    "marca": "LG",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Entretenimiento y conectividad en un mismo lugar.",
+      "Panel 4K UHD",
+      "4K Active HDR",
+      "Ultra Surround",
+      "LG ThinQ AI: Inteligencia Artificial",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Tinta Canon Gi-11M Magenta",
+    "precio": "S/ 44.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/i/tinta-canon-gi-11m-magenta-72328-default-1.jpg",
+    "marca": "CANON",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tinte Canon GI-11M magenta",
+      "Colores vibrantes, impresiones calidad",
+      "Rendimiento óptimo",
+      "Capacidad: 70ml",
+      "Imprime hasta 7,700 páginas en modo borrador",
+      "Compatibles: G1130/G2160/G2170/G3160/G3170/4170",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Celular Vivo V2206 Y22S 128Gb 6Gb Ram Cian Verano",
+    "precio": "S/ 799",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/celular-vivo-v2206-y22s-1286-gb-cian-verano-73939-default-1.jpg",
+    "marca": "VIVO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Cyan",
+      "Alto: 164.30 mm",
+      "Ancho: 8.38 mm",
+      "Largo: 76.10 mm",
+      "Peso neto: 192 g",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Calculadora De Escritorio Casio Mx-12B-Lb Celeste",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/calculadora-casio-mx-12b-celeste-12-digitos-56845001-default-1.jpg",
+    "marca": "CASIO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Color: Celeste",
+      "Tipo compacta de escritorio",
+      "12 dígitos",
+      "Marcadores de coma cada 3 dígitos",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Estuche Case Logic Para Dispositivos Electrónicos Pequeño",
+    "precio": "S/ 69.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/s/estuche-case-logic-para-dispositivos-electronicos-pequeno-69119-default-1.jpg",
+    "marca": "CASE LOGIC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Poliéster 840D",
+      "Medidas: 14 x 5 x 25 cm",
+      "Peso: 0.08 kg",
+      "N° compartimentos: 1",
+      "Cierres: 1",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Estuche Case Logic Para Dispositivos Electrónicos Mediano",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/e/s/estuche-case-logic-para-dispositivos-electronicos-mediano-69120-default-1.jpg",
+    "marca": "CASE LOGIC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Poliéster 840D",
+      "Medidas: 14.5 x 7 x 25 cm",
+      "Peso: 0.14 kg",
+      "N° compartimentos: 1",
+      "Cierres: 1",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Maleta Thule Subterra Carry On Spinner 33 L",
+    "precio": "S/ 1629",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maleta-thule-subterra-carry-on-spinner-33l-69127-default-1.jpg",
+    "marca": "THULE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Material: Nylon 800D",
+      "Medidas (Ancho/Largo/Alto): 23 x 35 x 55 cm",
+      "Correas ajustables: No",
+      "Ruedas: Sí",
+      "N° compartimentos: 2",
+      "Cierres: 2",
+      "Capacidad: 33 L",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Teclado Alámbrico Lecco Kb101 Negro",
+    "precio": "S/ 52.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/t/e/teclado-alambrico-lecco-kb101-neg-70537-default-1.jpg",
+    "marca": "LECCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 3.5 x 46 x 17 cm.",
+      "Peso neto: 0.55 kg.",
+      "Contiene: 1.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cable Philips Tipo C A Lightning Dlc9543V",
+    "precio": "S/ 104.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cable-tipo-c-a-lightng-philips-dlc9543v-70556-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Cable USB-C a Lightning",
+      "Largo de cable 1.2 metros",
+      "Color Negro",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Disco Duro Sandisk Ssd Plus 240Gb",
+    "precio": "S/ 179",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/d/i/disco-duro-ssd-plus-120gb-sandisk-sdssda-70460-default-1.jpg",
+    "marca": "SANDISK",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Longitud: 2 cm",
+      "Ancho: 12.5 cm",
+      "Altura: 17.5 cm",
+      "Peso neto: 0.5 Kg",
+      "Contiene: 1 disco solido externo 240 GB",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Coby Diadema Azul",
+    "precio": "S/ 59.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/microf-diadema-coby-azl-cvh825bl-70950-default-1.jpg",
+    "marca": "COBY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 15.24 x 7.11 x 17.78 cm.",
+      "Peso neto: 0.122.",
+      "Contiene: 1 Audífono diadema Coby azul.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cargador Chargeworx De Pared Power Delivery 20W",
+    "precio": "S/ 73.4",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/carg-pared-power-delivery-20w-cx3097-70963-default-1.jpg",
+    "marca": "CHARGEWORX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 15.5 x 9 x 3.3 cm.",
+      "Peso neto: 0.07.",
+      "Contiene: 1 Cargador de pared Power Delivery 20W.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Soporte Chargeworx Magnético Para Celular",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/sopor-magne-para-cel-cx9939-70975-default-1.jpg",
+    "marca": "CHARGEWORX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 8.4 x 9.6 x 16.4 cm",
+      "Peso neto: 0.14",
+      "Contiene: 1 Soporte magnético para celular",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Soporte Chargeworx Magnético Cuello Flexible Cx9928",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/o/soporte-magnetico-cuello-flexible-cx9928-70977-default-1.jpg",
+    "marca": "CHARGEWORX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 8.6 x 12.8 x 18.5 cm.",
+      "Peso neto: 0.2 kg.",
+      "Contiene: 1 soporte magnético.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Fiddler Nc21 Cancelación De Ruido",
+    "precio": "S/ 99.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-cancelacion-de-ruido-nc21-fd-nc21-70492-default-1.jpg",
+    "marca": "FIDDLER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 13 x 16 x 25 cm.",
+      "Peso neto: 0.5 Kg.",
+      "Contiene: 1 audífono inalámbrico.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cafetera De Filtro Delonghi Clessidra Icm17210",
+    "precio": "S/ 589.8",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cafetera-de-filtro-clessidra-delonghi-icm17210-71201-default-1.jpg",
+    "marca": "DELONGHI",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 20 x 20 x 27 cm.",
+      "Peso neto: 3 Kg.",
+      "Contiene: 1 cafetera de filtro.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Micrófono Hyperx Solocast Blanco",
+    "precio": "S/ 219",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/i/microf-solocast-hyperx-blco-71234-default-1.jpg",
+    "marca": "HYPERX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Longitud: 8.3 cm.",
+      "Ancho: 11.4 cm.",
+      "Altura: 21 cm.",
+      "Peso neto: 0.544 Kg.",
+      "Contiene: Micrófono, cable USB.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Bass Module 700 Bose",
+    "precio": "S/ 3969",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/b/a/bass-module-700-bose-71529-default-1.jpg",
+    "marca": "BOSE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Módulo de graves Bose Bass Module 700 con acabado de excelente calidad de la cubierta superior de vidrio.",
+      "Diseño sofisticado.",
+      "Rango dinámico de graves a partir de un potente transductor y un puerto amplio con tecnología QuietPort.",
+      "Prácticamente elimina la distorsión.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Parlante Fortnite Brite Bomber Bluetooth Speaker",
+    "precio": "S/ 23.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/parlante-fortnite-brite-bomber-bluetooth-speaker-64069-default-1.jpg",
+    "marca": "BITTY BOOMERS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Productos Originales Nuevos y Sellados Marca Bitty Boomer.",
+      "Pequeño tamaño sonido alto.",
+      "Hasta 4 horas de reproducción.",
+      "Puedes juntar 2 para más volumen.",
+      "Conector: Bluetooth.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Pad Logitech 30X70Cm Lavanda",
+    "precio": "S/ 89.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/a/pad-mouse-logitech-30x70cm-lavanda-66481002-default-1.jpg",
+    "marca": "LOGITECH",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Philips True Wireless Tat1207Bk Negro",
+    "precio": "S/ 139",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-philips-true-wireless-tat1207bk-negro-66656-default-1.jpg",
+    "marca": "PHILIPS",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Longitud: 3 cm",
+      "Ancho: 9.5 cm",
+      "Altura: 17.5 cm",
+      "Peso neto: 0.058 Kg",
+      "Contiene:\nAlmohadillas: 3 pares (S/M/L)\nEstuche de carga\nCable de carga: Cable USB-C, 200 mm\nGuía de inicio rápido",
+      "Almohadillas: 3 pares (S/M/L)",
+      "Estuche de carga",
+      "Cable de carga: Cable USB-C, 200 mm",
+      "Guía de inicio rápido",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silla Gamer Antryx Daytona Azul",
+    "precio": "S/ 1049",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silla-gamer-antryx-daytona-x-azul-61963-default-1.jpg",
+    "marca": "ANTRYX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Silla Gamer Antryx Daytona X",
+      "Color: Azul",
+      "Tamaño del paquete: 875 mm x 655 mm x 320 mm",
+      "Peso neto: 19 kg",
+      "Peso bruto: 23.5 kg",
+      "Resiste hasta 150 kg.",
+      "Requiere ensamblaje: Sí",
+      "Garantía: 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silla Gamer Antryx Daytona Morado",
+    "precio": "S/ 1049",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silla-gamer-antryx-daytona-x-morado-61966-default-1.jpg",
+    "marca": "ANTRYX",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Silla Gamer Antryx Daytona X",
+      "Color: Morado",
+      "Tamaño del paquete: 875 mm x 655 mm x 320 mm",
+      "Peso neto: 19 kg",
+      "Peso bruto: 23.5 kg",
+      "Resiste hasta 150 kg.",
+      "Requiere ensamblaje: Sí",
+      "Garantía: 2 años",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Itec Int-Ll187 Wireless 2.4G Gris",
+    "precio": "S/ 21.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-itec-int-ll187-wireless-24g-gris-62237002-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: INT-LL187",
+      "Color: Gris",
+      "Peso: 44 g",
+      "Distancia Maxima: 6-10 metros",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Impresora Fujifilm Mini Link 2 Printer Clay White",
+    "precio": "S/ 599",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/i/m/impresora-fujifilm-mini-link-2-printer-clay-white-63335-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Impresora Fujifilm Mini Link 2 Printer Clay White",
+      "Compacta y ligera",
+      "Conexión Bluetooth",
+      "Medidas:\nAlto: 9.03 cm\nAncho: 3.46 cm\nProfundidad: 12.45 cm\nPeso: 0.21 kg",
+      "Alto: 9.03 cm",
+      "Ancho: 3.46 cm",
+      "Profundidad: 12.45 cm",
+      "Peso: 0.21 kg",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Película Fujifilm Instax Mini Pink Lemonade X 10 Hojas",
+    "precio": "S/ 49",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/e/pelicula-fujifilm-instax-mini-pink-lemonade-x-10-hojas-63375-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Película Fujifilm Instax Mini Pink Lemonade",
+      "Acabado brillante.",
+      "Menor tiempo de revelado.",
+      "Excelente nitidez y estructura.",
+      "Contenido: 10 hojas",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Reloj Fitness I2Go Gris",
+    "precio": "S/ 24.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/r/e/reloj-i2go-fitness-gris-61739001-default-1.jpg",
+    "marca": "I2GO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Reloj podómetro, contador de calorías, de pasos y distancia.",
+      "Ideal para actividades cotidianas y deportivas.",
+      "Pantalla LCD, fácil de leer.",
+      "Material SiliconeTech y latex-free de alta calidad.",
+      "1 pila de botón (batería incluida) reemplazable de larga duración.",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos I2Go Over The Heads Bluetooth Pro",
+    "precio": "S/ 69.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-i2go-over-the-heads-bluetooth-pro-77234-default-1.jpg",
+    "marca": "I2GO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Alámbrico Itec Puerto Usb Negro",
+    "precio": "S/ 9.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-alambrico-itec-puerto-usb-negro-71246-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Longitud: 12.4 cm",
+      "Ancho: 8.5 cm",
+      "Altura: 4 cm",
+      "Peso neto: 85 g",
+      "* Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Maleta Artesco Mirabel Encanto",
+    "precio": "S/ 166.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maleta-artesco-mirabel-encanto-77048005-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Maleta Artesco Mickey Gamer",
+    "precio": "S/ 166.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maleta-artesco-mickey-gamer-77048007-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Maleta Artesco Cars Dino Park",
+    "precio": "S/ 166.1",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maleta-artesco-cars-dino-park-77048011-default-1.jpg",
+    "marca": "ARTESCO",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cargador Para Auto Itec",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/cargador-para-auto-itec-74616-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "No genera recalentamientos.",
+      "2 Puertos: 30 W / 22.5 W-",
+      "Contiene: Cargador para auto",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Máquina De Coser Brother Computarizada Sh7700",
+    "precio": "S/ 999",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/a/maquina-coser-comp-brother-sh7700cl-77690-default-1.jpg",
+    "marca": "BROTHER",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Máquina de coser con marco de aluminio.",
+      "Modelo: Sh7700",
+      "Longitud: 47 cm",
+      "Ancho: 22 cm",
+      "Altura: 37 cm",
+      "Peso: 6.4 kg",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Audífonos Bluetooth Sony Over Ear Wh-Ch520/Bz Uc Negro",
+    "precio": "S/ 149",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/a/u/audifonos-bluetooth-sony-over-ear-wh-ch520bz-uc-negro-77696-default-1.jpg",
+    "marca": "SONY",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Tipo: Over Ear",
+      "Unidad de diafragma: 30 mm",
+      "Control de volúmen: Sí",
+      "DSEE: Sí",
+      "Método de carga de batería: USB (Type-C)",
+      "Peso: Aprox. 147 g",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Halion Ha-M851W Blanco",
+    "precio": "S/ 24.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-halion-inalambrico-ha-m851w-blanco-dibujo-78020-default-1.jpg",
+    "marca": "HALION",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Halion Ha-M851W Dibujo Celeste",
+    "precio": "S/ 24.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-halion-inalambrico-ha-m851w-celeste-dibujo-78021-default-1.jpg",
+    "marca": "HALION",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Halion Ha-M851W Colibri",
+    "precio": "S/ 24.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-inalambrico-halion-ha-m851w-colibri-78022-default-1.jpg",
+    "marca": "HALION",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Raven Usb Con Cable Negro",
+    "precio": "S/ 39.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-raven-usb-con-cable-negro-74113-default-1.jpg",
+    "marca": "RAVEN",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Ratón con cable.",
+      "Material: ABS.",
+      "Color: Negro.",
+      "Peso: 70 g.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Itec 2.4G Celeste",
+    "precio": "S/ 29.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-inalambrico-itec-24g-purpura-74115-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 6.5 x 10.7 x 4cm.",
+      "Peso: 55.5 gr.",
+      "Sistemas compatibles: Windows XP, Windows vista, Windows 7, Windows 8, Windows 10, Mac OSx o superior.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Batería Externa Itec 10000 Mah Carga Rápida 22.5W Inalámbrica Con Cables",
+    "precio": "S/ 69.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/o/powerbank-itec-10000-mah-inalambrico-con-cables-74123-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Modelo: INT-172.",
+      "Inalámbrico con cables",
+      "Carga rápida: 22.5 W.",
+      "Medidas: 9.7 x 3.9 x 21.3 cm.",
+      "Peso neto: 280 gr",
+      "Contiene: Batería Li-om PowerBank con 10,000mAh",
+      "Imágenes referenciales"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Cámara Digital Fujifilm Instax Pal Milky Blanco",
+    "precio": "S/ 449",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/a/camara-digital-fujifilm-instax-pal-milky-blanco-85611-default-1.jpg",
+    "marca": "FUJIFILM",
+    "categoria": "Sin categoría",
+    "caracteristicas": [],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Powerbank Itec 10000 Mah P28 Negro",
+    "precio": "S/ 49.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/o/powerbank-10000-p28-itec-negro-78110-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Peso: 308.2 g.",
+      "Color: Negro.",
+      "Capacidad de 10,000 mAh",
+      "Ideal para múltiples cargas de smartphones, tabletas y otros dispositivos USB.",
+      "Diseño compacto y elegante, fácil de transportar y usar diariamente.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Parlante Pulse Xplosion 2 Ipx5 Bluetooth 550W",
+    "precio": "S/ 399.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/p/u/pulse-xplosion-2-550w-btled-ipx5-86184-default-1.jpg",
+    "marca": "PULSE",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Experimenta tu música favorita en cualquier lugar con la potente Pulse Xplosion 2",
+      "Soundbox Bluetooth con hasta 9 horas de sonido continuo",
+      "Potencia RMS de 7.4V para un sonido claro y potente",
+      "Diseñado para la portabilidad, ideal para el campo, la playa, el parque o el gimnasio",
+      "Imágenes referenciales",
+      "Producto exclusivo web"
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Silla Gamer Xion Raven Rgb Verde",
+    "precio": "S/ 359",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/s/i/silla-gamer-raven-rgb-verde-76546-default-1.jpg",
+    "marca": "XION",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "¡Consigue la silla gamer Xion Raven RGB 2023 ahora y mejora tu experiencia de juego",
+      "Color: Verde.",
+      "Construido con materiales de alta calidad.",
+      "Diseño ergonómico y cómodo.",
+      "*Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Gamer Itec Alámbrico G-509 Negro",
+    "precio": "S/ 19.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-gamer-itec-alambrico-g-509-negro-78117-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Luz de respiración de arco iris.",
+      "Ajuste de DPI.",
+      "Cable trenzado.",
+      "Ratón para juegos con cable.",
+      "Cable USB: 150 cm.",
+      "Plug and play.",
+      "Compatible con Windows y Mac.",
+      "Tamaño: 134x84x40 mm.",
+      "Imágenes referenciales."
+    ],
+    "disponibilidad": "En stock"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Itec G-211-2 Azul",
+    "precio": "S/ 14.9",
+    "imagenURL": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/m/o/mouse-inalambrico-itec-g-211-2-azul-78132-default-1.jpg",
+    "marca": "ITEC",
+    "categoria": "Sin categoría",
+    "caracteristicas": [
+      "Medidas: 103×66×38 mm.",
+      "Peso: 62 gr.",
+      "Ambidiestro, alta tasa de retorno.",
+      "Tecnología de ahorro de energía.",
+      "Rango de operación: hasta 10 metros.",
+      "Funciona con 2 pilas AAA.",
+      "Ideal para uso doméstico o de oficina.",
+      "Compatible con Windows y Mac.",
+      "Imágenes referenciales."
     ],
     "disponibilidad": "En stock"
   }
